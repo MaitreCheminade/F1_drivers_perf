@@ -1,12 +1,7 @@
 import streamlit as st
 from streamlit_lottie import st_lottie
-import requests
 import pandas as pd
 import json
-import numpy as np
-import matplotlib.pyplot as plt
-import plotly.figure_factory as ff
-import plotly.graph_objects as go
 import plotly.express as px
 # PAGE CONFIG
 st.set_page_config(layout="wide", page_title="F1 drivers performance", page_icon=":racing_car:")
