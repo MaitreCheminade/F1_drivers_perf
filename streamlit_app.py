@@ -26,7 +26,6 @@ left_column, right_column = st.columns((3, 1))
 st.title("F1 drivers comparative performance :racing_car:")
 st.markdown("---")
 st.markdown("***It's lights out and away we go ! 🏁***")
-df
 
 # Sidebar
 sidebar_menu = st.sidebar
