@@ -2,6 +2,7 @@ import streamlit as st
 from streamlit_lottie import st_lottie
 import requests
 import pandas as pd
+import json
 import numpy as np
 import matplotlib.pyplot as plt
 import plotly.figure_factory as ff
@@ -11,7 +12,7 @@ import plotly.express as px
 st.set_page_config(layout="wide", page_title="F1 drivers performance", page_icon=":racing_car:")
 
 # Data loading
-lottie_image = "https://lottie.host/080804c8-cacf-461c-bed8-632ebb2ad5b6/2a83ly2Sw1.json"
+# lottie_image = "https://lottie.host/080804c8-cacf-461c-bed8-632ebb2ad5b6/2a83ly2Sw1.json"
 
 
 @st.cache_resource
@@ -35,7 +36,9 @@ df
 # Sidebar
 sidebar_menu = st.sidebar
 with sidebar_menu:
-    st_lottie(lottie_image)
+    with open("./tmp/lottie/racecar.json", "r") as f:
+        lottie_json = json.load(f)
+    st_lottie(lottie_json)
     st.sidebar.header("Compare drivers performance for a single race")
     year = st.sidebar.selectbox("Pick the year :", df["Year"].unique())
     year_df = df.loc[df["Year"] == year]
