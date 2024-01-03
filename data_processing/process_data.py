@@ -83,5 +83,5 @@ df = pd.read_csv(df_path, encoding='UTF-8', sep=";", header=0)
 filtered_df = df.loc[~df.index.isin(df.groupby(['Year', 'EventName', 'Driver'])['LapTime'].nlargest(3).reset_index()['level_3'].values)]
 filtered_df.to_csv("../tmp/working_data/filtered.csv", header=True, sep=";")
 
-# join_dataframes(dir_path)
+join_dataframes(dir_path)
 transform_vars_to_binary(df_path)

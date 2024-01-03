@@ -16264,3 +16264,940 @@
 16262;GIO;99;0 days 00:00:57.677000;3.0;False;MEDIUM;31.0;True;Alfa Romeo Racing;1;13.0;2020;Sakhir Grand Prix
 16263;GIO;99;0 days 00:00:57.811000;3.0;False;MEDIUM;32.0;True;Alfa Romeo Racing;1;13.0;2020;Sakhir Grand Prix
 16264;GIO;99;0 days 00:00:57.964000;3.0;False;MEDIUM;33.0;True;Alfa Romeo Racing;1;13.0;2020;Sakhir Grand Prix
+16265;GAS;10;0 days 00:01:52.727000;1.0;False;SOFT;4.0;False;AlphaTauri;1;10.0;2020;Abu Dhabi Grand Prix
+16266;GAS;10;0 days 00:01:44.828000;1.0;True;SOFT;5.0;False;AlphaTauri;1;9.0;2020;Abu Dhabi Grand Prix
+16267;GAS;10;0 days 00:01:44.617000;1.0;True;SOFT;6.0;False;AlphaTauri;1;9.0;2020;Abu Dhabi Grand Prix
+16268;GAS;10;0 days 00:01:44.286000;1.0;True;SOFT;7.0;False;AlphaTauri;1;9.0;2020;Abu Dhabi Grand Prix
+16269;GAS;10;0 days 00:01:44.520000;1.0;False;SOFT;8.0;False;AlphaTauri;1;9.0;2020;Abu Dhabi Grand Prix
+16270;GAS;10;0 days 00:01:44.623000;1.0;False;SOFT;9.0;False;AlphaTauri;1;9.0;2020;Abu Dhabi Grand Prix
+16271;GAS;10;0 days 00:01:44.630000;1.0;False;SOFT;10.0;False;AlphaTauri;1;9.0;2020;Abu Dhabi Grand Prix
+16272;GAS;10;0 days 00:01:45.857000;1.0;False;SOFT;11.0;False;AlphaTauri;1;9.0;2020;Abu Dhabi Grand Prix
+16273;GAS;10;0 days 00:01:44.982000;1.0;False;SOFT;12.0;False;AlphaTauri;2;8.0;2020;Abu Dhabi Grand Prix
+16274;GAS;10;0 days 00:02:14.631000;1.0;False;SOFT;13.0;False;AlphaTauri;26;8.0;2020;Abu Dhabi Grand Prix
+16275;GAS;10;;2.0;False;HARD;1.0;True;AlphaTauri;64;11.0;2020;Abu Dhabi Grand Prix
+16276;GAS;10;0 days 00:02:22.722000;2.0;False;HARD;2.0;True;AlphaTauri;4;11.0;2020;Abu Dhabi Grand Prix
+16277;GAS;10;0 days 00:02:24.787000;2.0;False;HARD;3.0;True;AlphaTauri;4;11.0;2020;Abu Dhabi Grand Prix
+16278;GAS;10;0 days 00:01:46.613000;2.0;False;HARD;4.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16279;GAS;10;0 days 00:01:44.955000;2.0;False;HARD;5.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16280;GAS;10;0 days 00:01:44.512000;2.0;False;HARD;6.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16281;GAS;10;0 days 00:01:44.461000;2.0;False;HARD;7.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16282;GAS;10;0 days 00:01:45.148000;2.0;False;HARD;8.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16283;GAS;10;0 days 00:01:45.086000;2.0;False;HARD;9.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16284;GAS;10;0 days 00:01:43.650000;2.0;True;HARD;10.0;True;AlphaTauri;1;10.0;2020;Abu Dhabi Grand Prix
+16285;GAS;10;0 days 00:01:43.961000;2.0;False;HARD;11.0;True;AlphaTauri;1;10.0;2020;Abu Dhabi Grand Prix
+16286;GAS;10;0 days 00:01:43.746000;2.0;False;HARD;12.0;True;AlphaTauri;1;10.0;2020;Abu Dhabi Grand Prix
+16287;GAS;10;0 days 00:01:43.639000;2.0;True;HARD;13.0;True;AlphaTauri;1;10.0;2020;Abu Dhabi Grand Prix
+16288;GAS;10;0 days 00:01:43.309000;2.0;True;HARD;14.0;True;AlphaTauri;1;10.0;2020;Abu Dhabi Grand Prix
+16289;GAS;10;0 days 00:01:43.585000;2.0;False;HARD;15.0;True;AlphaTauri;1;10.0;2020;Abu Dhabi Grand Prix
+16290;GAS;10;0 days 00:01:43.527000;2.0;False;HARD;16.0;True;AlphaTauri;1;10.0;2020;Abu Dhabi Grand Prix
+16291;GAS;10;0 days 00:01:44.244000;2.0;False;HARD;17.0;True;AlphaTauri;1;10.0;2020;Abu Dhabi Grand Prix
+16292;GAS;10;0 days 00:01:44.358000;2.0;False;HARD;18.0;True;AlphaTauri;1;10.0;2020;Abu Dhabi Grand Prix
+16293;GAS;10;0 days 00:01:43.624000;2.0;False;HARD;19.0;True;AlphaTauri;1;9.0;2020;Abu Dhabi Grand Prix
+16294;GAS;10;0 days 00:01:43.574000;2.0;False;HARD;20.0;True;AlphaTauri;1;9.0;2020;Abu Dhabi Grand Prix
+16295;GAS;10;0 days 00:01:43.949000;2.0;False;HARD;21.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16296;GAS;10;0 days 00:01:43.043000;2.0;True;HARD;22.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16297;GAS;10;0 days 00:01:42.768000;2.0;True;HARD;23.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16298;GAS;10;0 days 00:01:43.135000;2.0;False;HARD;24.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16299;GAS;10;0 days 00:01:42.820000;2.0;False;HARD;25.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16300;GAS;10;0 days 00:01:43.003000;2.0;False;HARD;26.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16301;GAS;10;0 days 00:01:42.868000;2.0;False;HARD;27.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16302;GAS;10;0 days 00:01:42.960000;2.0;False;HARD;28.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16303;GAS;10;0 days 00:01:43.070000;2.0;False;HARD;29.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16304;GAS;10;0 days 00:01:43.659000;2.0;False;HARD;30.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16305;GAS;10;0 days 00:01:43.444000;2.0;False;HARD;31.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16306;GAS;10;0 days 00:01:43.545000;2.0;False;HARD;32.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16307;GAS;10;0 days 00:01:43.167000;2.0;False;HARD;33.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16308;GAS;10;0 days 00:01:43;2.0;False;HARD;34.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16309;GAS;10;0 days 00:01:42.486000;2.0;True;HARD;35.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16310;GAS;10;0 days 00:01:42.797000;2.0;False;HARD;36.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16311;GAS;10;0 days 00:01:42.615000;2.0;False;HARD;37.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16312;GAS;10;0 days 00:01:42.962000;2.0;False;HARD;38.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16313;GAS;10;0 days 00:01:43.423000;2.0;False;HARD;39.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16314;GAS;10;0 days 00:01:42.964000;2.0;False;HARD;40.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16315;GAS;10;0 days 00:01:42.755000;2.0;False;HARD;41.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16316;GAS;10;0 days 00:01:42.735000;2.0;False;HARD;42.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16317;GAS;10;0 days 00:01:42.474000;2.0;True;HARD;43.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16318;GAS;10;0 days 00:01:42.549000;2.0;False;HARD;44.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16319;GAS;10;0 days 00:01:42.626000;2.0;False;HARD;45.0;True;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16320;PER;11;0 days 00:01:58.615000;1.0;False;HARD;1.0;True;Racing Point;1;20.0;2020;Abu Dhabi Grand Prix
+16321;PER;11;0 days 00:01:47.554000;1.0;True;HARD;2.0;True;Racing Point;1;19.0;2020;Abu Dhabi Grand Prix
+16322;PER;11;0 days 00:01:45.701000;1.0;True;HARD;3.0;True;Racing Point;1;18.0;2020;Abu Dhabi Grand Prix
+16323;PER;11;0 days 00:01:44.762000;1.0;True;HARD;4.0;True;Racing Point;1;17.0;2020;Abu Dhabi Grand Prix
+16324;PER;11;0 days 00:01:43.786000;1.0;True;HARD;5.0;True;Racing Point;1;16.0;2020;Abu Dhabi Grand Prix
+16325;PER;11;0 days 00:01:43.263000;1.0;True;HARD;6.0;True;Racing Point;1;15.0;2020;Abu Dhabi Grand Prix
+16326;PER;11;0 days 00:01:45.123000;1.0;False;HARD;7.0;True;Racing Point;1;15.0;2020;Abu Dhabi Grand Prix
+16327;PER;11;0 days 00:01:44.231000;1.0;False;HARD;8.0;True;Racing Point;1;14.0;2020;Abu Dhabi Grand Prix
+16328;PER;11;;1.0;;HARD;9.0;True;Racing Point;;;2020;Abu Dhabi Grand Prix
+16329;LEC;16;0 days 00:01:54.522000;1.0;False;MEDIUM;4.0;False;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16330;LEC;16;0 days 00:01:45.693000;1.0;True;MEDIUM;5.0;False;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16331;LEC;16;0 days 00:01:45.231000;1.0;True;MEDIUM;6.0;False;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16332;LEC;16;0 days 00:01:45.079000;1.0;True;MEDIUM;7.0;False;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16333;LEC;16;0 days 00:01:45.070000;1.0;True;MEDIUM;8.0;False;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16334;LEC;16;0 days 00:01:44.795000;1.0;True;MEDIUM;9.0;False;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16335;LEC;16;0 days 00:01:45.143000;1.0;False;MEDIUM;10.0;False;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16336;LEC;16;0 days 00:01:44.867000;1.0;False;MEDIUM;11.0;False;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16337;LEC;16;0 days 00:01:45.498000;1.0;False;MEDIUM;12.0;False;Ferrari;2;13.0;2020;Abu Dhabi Grand Prix
+16338;LEC;16;0 days 00:02:17.453000;1.0;False;MEDIUM;13.0;False;Ferrari;26;13.0;2020;Abu Dhabi Grand Prix
+16339;LEC;16;0 days 00:02:23.156000;1.0;False;MEDIUM;14.0;False;Ferrari;64;8.0;2020;Abu Dhabi Grand Prix
+16340;LEC;16;0 days 00:02:24.517000;1.0;False;MEDIUM;15.0;False;Ferrari;4;8.0;2020;Abu Dhabi Grand Prix
+16341;LEC;16;0 days 00:02:29.087000;1.0;False;MEDIUM;16.0;False;Ferrari;4;8.0;2020;Abu Dhabi Grand Prix
+16342;LEC;16;0 days 00:01:46.755000;1.0;False;MEDIUM;17.0;False;Ferrari;1;9.0;2020;Abu Dhabi Grand Prix
+16343;LEC;16;0 days 00:01:44.579000;1.0;True;MEDIUM;18.0;False;Ferrari;1;9.0;2020;Abu Dhabi Grand Prix
+16344;LEC;16;0 days 00:01:44.576000;1.0;True;MEDIUM;19.0;False;Ferrari;1;9.0;2020;Abu Dhabi Grand Prix
+16345;LEC;16;0 days 00:01:44.596000;1.0;False;MEDIUM;20.0;False;Ferrari;1;9.0;2020;Abu Dhabi Grand Prix
+16346;LEC;16;0 days 00:01:44.936000;1.0;False;MEDIUM;21.0;False;Ferrari;1;9.0;2020;Abu Dhabi Grand Prix
+16347;LEC;16;0 days 00:01:46.133000;1.0;False;MEDIUM;22.0;False;Ferrari;1;10.0;2020;Abu Dhabi Grand Prix
+16348;LEC;16;0 days 00:01:45.712000;1.0;False;MEDIUM;23.0;False;Ferrari;1;11.0;2020;Abu Dhabi Grand Prix
+16349;LEC;16;0 days 00:01:45.682000;1.0;False;MEDIUM;24.0;False;Ferrari;1;11.0;2020;Abu Dhabi Grand Prix
+16350;LEC;16;0 days 00:01:47.724000;1.0;False;MEDIUM;25.0;False;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16351;LEC;16;0 days 00:02:03.178000;2.0;False;HARD;1.0;True;Ferrari;1;19.0;2020;Abu Dhabi Grand Prix
+16352;LEC;16;0 days 00:01:41.908000;2.0;True;HARD;2.0;True;Ferrari;1;19.0;2020;Abu Dhabi Grand Prix
+16353;LEC;16;0 days 00:01:42.762000;2.0;False;HARD;3.0;True;Ferrari;1;19.0;2020;Abu Dhabi Grand Prix
+16354;LEC;16;0 days 00:01:43.100000;2.0;False;HARD;4.0;True;Ferrari;1;18.0;2020;Abu Dhabi Grand Prix
+16355;LEC;16;0 days 00:01:42.228000;2.0;False;HARD;5.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16356;LEC;16;0 days 00:01:42.530000;2.0;False;HARD;6.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16357;LEC;16;0 days 00:01:42.661000;2.0;False;HARD;7.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16358;LEC;16;0 days 00:01:42.686000;2.0;False;HARD;8.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16359;LEC;16;0 days 00:01:43.273000;2.0;False;HARD;9.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16360;LEC;16;0 days 00:01:42.854000;2.0;False;HARD;10.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16361;LEC;16;0 days 00:01:43.993000;2.0;False;HARD;11.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16362;LEC;16;0 days 00:01:43.091000;2.0;False;HARD;12.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16363;LEC;16;0 days 00:01:42.424000;2.0;False;HARD;13.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16364;LEC;16;0 days 00:01:42.537000;2.0;False;HARD;14.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16365;LEC;16;0 days 00:01:42.960000;2.0;False;HARD;15.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16366;LEC;16;0 days 00:01:43.274000;2.0;False;HARD;16.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16367;LEC;16;0 days 00:01:43.195000;2.0;False;HARD;17.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16368;LEC;16;0 days 00:01:43.832000;2.0;False;HARD;18.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16369;LEC;16;0 days 00:01:43.147000;2.0;False;HARD;19.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16370;LEC;16;0 days 00:01:43.158000;2.0;False;HARD;20.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16371;LEC;16;0 days 00:01:43.088000;2.0;False;HARD;21.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16372;LEC;16;0 days 00:01:42.796000;2.0;False;HARD;22.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16373;LEC;16;0 days 00:01:42.825000;2.0;False;HARD;23.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16374;LEC;16;0 days 00:01:43.260000;2.0;False;HARD;24.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16375;LEC;16;0 days 00:01:42.777000;2.0;False;HARD;25.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16376;LEC;16;0 days 00:01:45.367000;2.0;False;HARD;26.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16377;LEC;16;0 days 00:01:43.126000;2.0;False;HARD;27.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16378;LEC;16;0 days 00:01:42.945000;2.0;False;HARD;28.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16379;LEC;16;0 days 00:01:42.993000;2.0;False;HARD;29.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16380;LEC;16;0 days 00:01:43.120000;2.0;False;HARD;30.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16381;LEC;16;0 days 00:01:46.365000;2.0;False;HARD;31.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16382;LEC;16;0 days 00:01:44.464000;2.0;False;HARD;32.0;True;Ferrari;1;13.0;2020;Abu Dhabi Grand Prix
+16383;STR;18;0 days 00:01:51.155000;1.0;False;SOFT;4.0;False;Racing Point;1;8.0;2020;Abu Dhabi Grand Prix
+16384;STR;18;0 days 00:01:45.211000;1.0;True;SOFT;5.0;False;Racing Point;1;8.0;2020;Abu Dhabi Grand Prix
+16385;STR;18;0 days 00:01:44.594000;1.0;True;SOFT;6.0;False;Racing Point;1;8.0;2020;Abu Dhabi Grand Prix
+16386;STR;18;0 days 00:01:44.455000;1.0;True;SOFT;7.0;False;Racing Point;1;8.0;2020;Abu Dhabi Grand Prix
+16387;STR;18;0 days 00:01:44.612000;1.0;False;SOFT;8.0;False;Racing Point;1;8.0;2020;Abu Dhabi Grand Prix
+16388;STR;18;0 days 00:01:44.690000;1.0;False;SOFT;9.0;False;Racing Point;1;8.0;2020;Abu Dhabi Grand Prix
+16389;STR;18;0 days 00:01:44.624000;1.0;False;SOFT;10.0;False;Racing Point;1;8.0;2020;Abu Dhabi Grand Prix
+16390;STR;18;0 days 00:01:44.396000;1.0;True;SOFT;11.0;False;Racing Point;1;7.0;2020;Abu Dhabi Grand Prix
+16391;STR;18;0 days 00:01:44.565000;1.0;False;SOFT;12.0;False;Racing Point;1;7.0;2020;Abu Dhabi Grand Prix
+16392;STR;18;0 days 00:02:14.461000;1.0;False;SOFT;13.0;False;Racing Point;26;7.0;2020;Abu Dhabi Grand Prix
+16393;STR;18;;2.0;False;HARD;1.0;True;Racing Point;64;10.0;2020;Abu Dhabi Grand Prix
+16394;STR;18;0 days 00:02:23.315000;2.0;False;HARD;2.0;True;Racing Point;4;10.0;2020;Abu Dhabi Grand Prix
+16395;STR;18;0 days 00:02:25.714000;2.0;False;HARD;3.0;True;Racing Point;4;10.0;2020;Abu Dhabi Grand Prix
+16396;STR;18;0 days 00:01:46.366000;2.0;False;HARD;4.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16397;STR;18;0 days 00:01:44.742000;2.0;False;HARD;5.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16398;STR;18;0 days 00:01:44.611000;2.0;False;HARD;6.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16399;STR;18;0 days 00:01:44.551000;2.0;False;HARD;7.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16400;STR;18;0 days 00:01:45.026000;2.0;False;HARD;8.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16401;STR;18;0 days 00:01:43.764000;2.0;True;HARD;9.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16402;STR;18;0 days 00:01:43.966000;2.0;False;HARD;10.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16403;STR;18;0 days 00:01:43.718000;2.0;True;HARD;11.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16404;STR;18;0 days 00:01:43.635000;2.0;True;HARD;12.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16405;STR;18;0 days 00:01:43.581000;2.0;True;HARD;13.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16406;STR;18;0 days 00:01:43.704000;2.0;False;HARD;14.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16407;STR;18;0 days 00:01:44.213000;2.0;False;HARD;15.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16408;STR;18;0 days 00:01:43.497000;2.0;True;HARD;16.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16409;STR;18;0 days 00:01:44.652000;2.0;False;HARD;17.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16410;STR;18;0 days 00:01:44.346000;2.0;False;HARD;18.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16411;STR;18;0 days 00:01:45.703000;2.0;False;HARD;19.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16412;STR;18;0 days 00:01:43.785000;2.0;False;HARD;20.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16413;STR;18;0 days 00:01:44.550000;2.0;False;HARD;21.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16414;STR;18;0 days 00:01:44.786000;2.0;False;HARD;22.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16415;STR;18;0 days 00:01:44.256000;2.0;False;HARD;23.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16416;STR;18;0 days 00:01:44.482000;2.0;False;HARD;24.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16417;STR;18;0 days 00:01:44.281000;2.0;False;HARD;25.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16418;STR;18;0 days 00:01:43.383000;2.0;True;HARD;26.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16419;STR;18;0 days 00:01:42.744000;2.0;True;HARD;27.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16420;STR;18;0 days 00:01:42.688000;2.0;True;HARD;28.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16421;STR;18;0 days 00:01:42.690000;2.0;False;HARD;29.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16422;STR;18;0 days 00:01:42.811000;2.0;False;HARD;30.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16423;STR;18;0 days 00:01:41.866000;2.0;True;HARD;31.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16424;STR;18;0 days 00:01:44.870000;2.0;False;HARD;32.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16425;STR;18;0 days 00:01:42.858000;2.0;False;HARD;33.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16426;STR;18;0 days 00:01:42.754000;2.0;False;HARD;34.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16427;STR;18;0 days 00:01:42.845000;2.0;False;HARD;35.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16428;STR;18;0 days 00:01:42.971000;2.0;False;HARD;36.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16429;STR;18;0 days 00:01:42.968000;2.0;False;HARD;37.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16430;STR;18;0 days 00:01:42.892000;2.0;False;HARD;38.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16431;STR;18;0 days 00:01:43.436000;2.0;False;HARD;39.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16432;STR;18;0 days 00:01:43.269000;2.0;False;HARD;40.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16433;STR;18;0 days 00:01:43.095000;2.0;False;HARD;41.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16434;STR;18;0 days 00:01:43.174000;2.0;False;HARD;42.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16435;STR;18;0 days 00:01:43.325000;2.0;False;HARD;43.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16436;STR;18;0 days 00:01:43.557000;2.0;False;HARD;44.0;True;Racing Point;1;9.0;2020;Abu Dhabi Grand Prix
+16437;STR;18;0 days 00:01:45.894000;2.0;False;HARD;45.0;True;Racing Point;1;10.0;2020;Abu Dhabi Grand Prix
+16438;MAG;20;0 days 00:01:57.154000;1.0;False;HARD;1.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16439;MAG;20;0 days 00:01:47.811000;1.0;True;HARD;2.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16440;MAG;20;0 days 00:01:46.300000;1.0;True;HARD;3.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16441;MAG;20;0 days 00:01:46.465000;1.0;False;HARD;4.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16442;MAG;20;0 days 00:01:46.137000;1.0;True;HARD;5.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16443;MAG;20;0 days 00:01:46.403000;1.0;False;HARD;6.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16444;MAG;20;0 days 00:01:46.083000;1.0;True;HARD;7.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16445;MAG;20;0 days 00:01:45.832000;1.0;True;HARD;8.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16446;MAG;20;0 days 00:01:46.112000;1.0;False;HARD;9.0;True;Haas F1 Team;26;17.0;2020;Abu Dhabi Grand Prix
+16447;MAG;20;0 days 00:02:23.503000;1.0;False;HARD;10.0;True;Haas F1 Team;6;17.0;2020;Abu Dhabi Grand Prix
+16448;MAG;20;0 days 00:02:23.043000;1.0;False;HARD;11.0;True;Haas F1 Team;64;15.0;2020;Abu Dhabi Grand Prix
+16449;MAG;20;0 days 00:02:22.209000;1.0;False;HARD;12.0;True;Haas F1 Team;4;15.0;2020;Abu Dhabi Grand Prix
+16450;MAG;20;0 days 00:02:16.637000;1.0;False;HARD;13.0;True;Haas F1 Team;4;15.0;2020;Abu Dhabi Grand Prix
+16451;MAG;20;0 days 00:01:48.535000;1.0;False;HARD;14.0;True;Haas F1 Team;1;16.0;2020;Abu Dhabi Grand Prix
+16452;MAG;20;0 days 00:01:46.448000;1.0;False;HARD;15.0;True;Haas F1 Team;1;16.0;2020;Abu Dhabi Grand Prix
+16453;MAG;20;0 days 00:01:47.117000;1.0;False;HARD;16.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16454;MAG;20;0 days 00:01:45.717000;1.0;True;HARD;17.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16455;MAG;20;0 days 00:01:45.521000;1.0;True;HARD;18.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16456;MAG;20;0 days 00:01:45.217000;1.0;True;HARD;19.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16457;MAG;20;0 days 00:01:45.319000;1.0;False;HARD;20.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16458;MAG;20;0 days 00:01:45.306000;1.0;False;HARD;21.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16459;MAG;20;0 days 00:01:45.596000;1.0;False;HARD;22.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16460;MAG;20;0 days 00:01:45.491000;1.0;False;HARD;23.0;True;Haas F1 Team;1;16.0;2020;Abu Dhabi Grand Prix
+16461;MAG;20;0 days 00:01:45.347000;1.0;False;HARD;24.0;True;Haas F1 Team;1;16.0;2020;Abu Dhabi Grand Prix
+16462;MAG;20;0 days 00:01:45.399000;1.0;False;HARD;25.0;True;Haas F1 Team;1;16.0;2020;Abu Dhabi Grand Prix
+16463;MAG;20;0 days 00:01:45.133000;1.0;True;HARD;26.0;True;Haas F1 Team;1;16.0;2020;Abu Dhabi Grand Prix
+16464;MAG;20;0 days 00:01:46.332000;1.0;False;HARD;27.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16465;MAG;20;0 days 00:01:47.228000;1.0;False;HARD;28.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16466;MAG;20;0 days 00:01:46.283000;1.0;False;HARD;29.0;True;Haas F1 Team;1;17.0;2020;Abu Dhabi Grand Prix
+16467;MAG;20;0 days 00:01:47.287000;1.0;False;HARD;30.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16468;MAG;20;0 days 00:01:48.161000;1.0;False;HARD;31.0;True;Haas F1 Team;1;19.0;2020;Abu Dhabi Grand Prix
+16469;MAG;20;0 days 00:02:03.659000;2.0;False;MEDIUM;1.0;True;Haas F1 Team;1;19.0;2020;Abu Dhabi Grand Prix
+16470;MAG;20;0 days 00:01:42.263000;2.0;True;MEDIUM;2.0;True;Haas F1 Team;1;19.0;2020;Abu Dhabi Grand Prix
+16471;MAG;20;0 days 00:01:42.372000;2.0;False;MEDIUM;3.0;True;Haas F1 Team;1;19.0;2020;Abu Dhabi Grand Prix
+16472;MAG;20;0 days 00:01:42.797000;2.0;False;MEDIUM;4.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16473;MAG;20;0 days 00:01:45.613000;2.0;False;MEDIUM;5.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16474;MAG;20;0 days 00:01:43.369000;2.0;False;MEDIUM;6.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16475;MAG;20;0 days 00:01:43.467000;2.0;False;MEDIUM;7.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16476;MAG;20;0 days 00:01:43.697000;2.0;False;MEDIUM;8.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16477;MAG;20;0 days 00:01:43.942000;2.0;False;MEDIUM;9.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16478;MAG;20;0 days 00:01:44.736000;2.0;False;MEDIUM;10.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16479;MAG;20;0 days 00:01:45.234000;2.0;False;MEDIUM;11.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16480;MAG;20;0 days 00:01:46.250000;2.0;False;MEDIUM;12.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16481;MAG;20;0 days 00:01:46.581000;2.0;False;MEDIUM;13.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16482;MAG;20;0 days 00:01:46.904000;2.0;False;MEDIUM;14.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16483;MAG;20;0 days 00:01:48.054000;2.0;False;MEDIUM;15.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16484;MAG;20;0 days 00:01:49.526000;2.0;False;MEDIUM;16.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16485;MAG;20;0 days 00:02:03.079000;3.0;False;MEDIUM;1.0;True;Haas F1 Team;1;19.0;2020;Abu Dhabi Grand Prix
+16486;MAG;20;0 days 00:01:42.005000;3.0;True;MEDIUM;2.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16487;MAG;20;0 days 00:01:41.999000;3.0;True;MEDIUM;3.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16488;MAG;20;0 days 00:01:42.027000;3.0;False;MEDIUM;4.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16489;MAG;20;0 days 00:01:42.165000;3.0;False;MEDIUM;5.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16490;MAG;20;0 days 00:01:42.609000;3.0;False;MEDIUM;6.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16491;MAG;20;0 days 00:01:42.913000;3.0;False;MEDIUM;7.0;True;Haas F1 Team;1;18.0;2020;Abu Dhabi Grand Prix
+16492;ALB;23;0 days 00:01:48.734000;1.0;False;SOFT;4.0;False;Red Bull Racing;1;5.0;2020;Abu Dhabi Grand Prix
+16493;ALB;23;0 days 00:01:44.151000;1.0;True;SOFT;5.0;False;Red Bull Racing;1;5.0;2020;Abu Dhabi Grand Prix
+16494;ALB;23;0 days 00:01:43.941000;1.0;True;SOFT;6.0;False;Red Bull Racing;1;5.0;2020;Abu Dhabi Grand Prix
+16495;ALB;23;0 days 00:01:44.029000;1.0;False;SOFT;7.0;False;Red Bull Racing;1;5.0;2020;Abu Dhabi Grand Prix
+16496;ALB;23;0 days 00:01:44.076000;1.0;False;SOFT;8.0;False;Red Bull Racing;1;5.0;2020;Abu Dhabi Grand Prix
+16497;ALB;23;0 days 00:01:42.885000;1.0;True;SOFT;9.0;False;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16498;ALB;23;0 days 00:01:43.334000;1.0;False;SOFT;10.0;False;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16499;ALB;23;0 days 00:01:43.081000;1.0;False;SOFT;11.0;False;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16500;ALB;23;0 days 00:01:43.274000;1.0;False;SOFT;12.0;False;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16501;ALB;23;0 days 00:02:10.847000;1.0;False;SOFT;13.0;False;Red Bull Racing;26;4.0;2020;Abu Dhabi Grand Prix
+16502;ALB;23;;2.0;False;HARD;1.0;True;Red Bull Racing;64;4.0;2020;Abu Dhabi Grand Prix
+16503;ALB;23;0 days 00:02:27.288000;2.0;False;HARD;2.0;True;Red Bull Racing;4;4.0;2020;Abu Dhabi Grand Prix
+16504;ALB;23;;2.0;False;HARD;3.0;True;Red Bull Racing;4;4.0;2020;Abu Dhabi Grand Prix
+16505;ALB;23;0 days 00:01:43.243000;2.0;False;HARD;4.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16506;ALB;23;0 days 00:01:42.429000;2.0;True;HARD;5.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16507;ALB;23;0 days 00:01:42.735000;2.0;False;HARD;6.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16508;ALB;23;0 days 00:01:42.572000;2.0;False;HARD;7.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16509;ALB;23;0 days 00:01:42.322000;2.0;True;HARD;8.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16510;ALB;23;0 days 00:01:42.272000;2.0;True;HARD;9.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16511;ALB;23;0 days 00:01:42.192000;2.0;True;HARD;10.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16512;ALB;23;0 days 00:01:42.022000;2.0;True;HARD;11.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16513;ALB;23;0 days 00:01:41.855000;2.0;True;HARD;12.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16514;ALB;23;0 days 00:01:42.182000;2.0;False;HARD;13.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16515;ALB;23;0 days 00:01:42.213000;2.0;False;HARD;14.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16516;ALB;23;0 days 00:01:42.090000;2.0;False;HARD;15.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16517;ALB;23;0 days 00:01:41.807000;2.0;True;HARD;16.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16518;ALB;23;0 days 00:01:41.867000;2.0;False;HARD;17.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16519;ALB;23;0 days 00:01:42.151000;2.0;False;HARD;18.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16520;ALB;23;0 days 00:01:41.983000;2.0;False;HARD;19.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16521;ALB;23;0 days 00:01:41.702000;2.0;True;HARD;20.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16522;ALB;23;0 days 00:01:41.687000;2.0;True;HARD;21.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16523;ALB;23;0 days 00:01:41.782000;2.0;False;HARD;22.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16524;ALB;23;0 days 00:01:41.814000;2.0;False;HARD;23.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16525;ALB;23;0 days 00:01:42.145000;2.0;False;HARD;24.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16526;ALB;23;0 days 00:01:42.139000;2.0;False;HARD;25.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16527;ALB;23;0 days 00:01:42.247000;2.0;False;HARD;26.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16528;ALB;23;0 days 00:01:41.824000;2.0;False;HARD;27.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16529;ALB;23;0 days 00:01:41.470000;2.0;True;HARD;28.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16530;ALB;23;0 days 00:01:41.386000;2.0;True;HARD;29.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16531;ALB;23;0 days 00:01:41.625000;2.0;False;HARD;30.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16532;ALB;23;0 days 00:01:41.510000;2.0;False;HARD;31.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16533;ALB;23;0 days 00:01:41.227000;2.0;True;HARD;32.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16534;ALB;23;0 days 00:01:41.443000;2.0;False;HARD;33.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16535;ALB;23;0 days 00:01:41.674000;2.0;False;HARD;34.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16536;ALB;23;0 days 00:01:41.353000;2.0;False;HARD;35.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16537;ALB;23;0 days 00:01:41.655000;2.0;False;HARD;36.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16538;ALB;23;0 days 00:01:41.532000;2.0;False;HARD;37.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16539;ALB;23;0 days 00:01:41.588000;2.0;False;HARD;38.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16540;ALB;23;0 days 00:01:41.753000;2.0;False;HARD;39.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16541;ALB;23;0 days 00:01:41.968000;2.0;False;HARD;40.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16542;ALB;23;0 days 00:01:41.583000;2.0;False;HARD;41.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16543;ALB;23;0 days 00:01:41.636000;2.0;False;HARD;42.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16544;ALB;23;0 days 00:01:42.009000;2.0;False;HARD;43.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16545;ALB;23;0 days 00:01:41.674000;2.0;False;HARD;44.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16546;ALB;23;0 days 00:01:42.354000;2.0;False;HARD;45.0;True;Red Bull Racing;1;4.0;2020;Abu Dhabi Grand Prix
+16547;KVY;26;0 days 00:01:50.426000;1.0;False;SOFT;4.0;False;AlphaTauri;1;7.0;2020;Abu Dhabi Grand Prix
+16548;KVY;26;0 days 00:01:45.145000;1.0;True;SOFT;5.0;False;AlphaTauri;1;7.0;2020;Abu Dhabi Grand Prix
+16549;KVY;26;0 days 00:01:44.320000;1.0;True;SOFT;6.0;False;AlphaTauri;1;7.0;2020;Abu Dhabi Grand Prix
+16550;KVY;26;0 days 00:01:44.544000;1.0;False;SOFT;7.0;False;AlphaTauri;1;7.0;2020;Abu Dhabi Grand Prix
+16551;KVY;26;0 days 00:01:44.620000;1.0;False;SOFT;8.0;False;AlphaTauri;1;7.0;2020;Abu Dhabi Grand Prix
+16552;KVY;26;0 days 00:01:44.741000;1.0;False;SOFT;9.0;False;AlphaTauri;1;7.0;2020;Abu Dhabi Grand Prix
+16553;KVY;26;0 days 00:01:44.781000;1.0;False;SOFT;10.0;False;AlphaTauri;1;7.0;2020;Abu Dhabi Grand Prix
+16554;KVY;26;0 days 00:01:46.648000;1.0;False;SOFT;11.0;False;AlphaTauri;1;8.0;2020;Abu Dhabi Grand Prix
+16555;KVY;26;0 days 00:01:47.228000;1.0;False;SOFT;12.0;False;AlphaTauri;2;9.0;2020;Abu Dhabi Grand Prix
+16556;KVY;26;0 days 00:02:17.188000;1.0;False;SOFT;13.0;False;AlphaTauri;26;9.0;2020;Abu Dhabi Grand Prix
+16557;KVY;26;;2.0;False;HARD;1.0;True;AlphaTauri;64;14.0;2020;Abu Dhabi Grand Prix
+16558;KVY;26;0 days 00:02:21.705000;2.0;False;HARD;2.0;True;AlphaTauri;4;14.0;2020;Abu Dhabi Grand Prix
+16559;KVY;26;0 days 00:02:20.028000;2.0;False;HARD;3.0;True;AlphaTauri;4;14.0;2020;Abu Dhabi Grand Prix
+16560;KVY;26;0 days 00:01:47.073000;2.0;False;HARD;4.0;True;AlphaTauri;1;14.0;2020;Abu Dhabi Grand Prix
+16561;KVY;26;0 days 00:01:46.524000;2.0;False;HARD;5.0;True;AlphaTauri;1;14.0;2020;Abu Dhabi Grand Prix
+16562;KVY;26;0 days 00:01:43.928000;2.0;True;HARD;6.0;True;AlphaTauri;1;13.0;2020;Abu Dhabi Grand Prix
+16563;KVY;26;0 days 00:01:44.144000;2.0;False;HARD;7.0;True;AlphaTauri;1;13.0;2020;Abu Dhabi Grand Prix
+16564;KVY;26;0 days 00:01:44.707000;2.0;False;HARD;8.0;True;AlphaTauri;1;13.0;2020;Abu Dhabi Grand Prix
+16565;KVY;26;0 days 00:01:44.800000;2.0;False;HARD;9.0;True;AlphaTauri;1;13.0;2020;Abu Dhabi Grand Prix
+16566;KVY;26;0 days 00:01:45.119000;2.0;False;HARD;10.0;True;AlphaTauri;1;13.0;2020;Abu Dhabi Grand Prix
+16567;KVY;26;0 days 00:01:45.332000;2.0;False;HARD;11.0;True;AlphaTauri;1;13.0;2020;Abu Dhabi Grand Prix
+16568;KVY;26;0 days 00:01:45.207000;2.0;False;HARD;12.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16569;KVY;26;0 days 00:01:43.677000;2.0;True;HARD;13.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16570;KVY;26;0 days 00:01:43.255000;2.0;True;HARD;14.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16571;KVY;26;0 days 00:01:43.497000;2.0;False;HARD;15.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16572;KVY;26;0 days 00:01:43.304000;2.0;False;HARD;16.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16573;KVY;26;0 days 00:01:43.502000;2.0;False;HARD;17.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16574;KVY;26;0 days 00:01:43.361000;2.0;False;HARD;18.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16575;KVY;26;0 days 00:01:43.608000;2.0;False;HARD;19.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16576;KVY;26;0 days 00:01:43.753000;2.0;False;HARD;20.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16577;KVY;26;0 days 00:01:44.166000;2.0;False;HARD;21.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16578;KVY;26;0 days 00:01:44.204000;2.0;False;HARD;22.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16579;KVY;26;0 days 00:01:44.243000;2.0;False;HARD;23.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16580;KVY;26;0 days 00:01:44.392000;2.0;False;HARD;24.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16581;KVY;26;0 days 00:01:44.460000;2.0;False;HARD;25.0;True;AlphaTauri;1;12.0;2020;Abu Dhabi Grand Prix
+16582;KVY;26;0 days 00:01:43.998000;2.0;False;HARD;26.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16583;KVY;26;0 days 00:01:43.500000;2.0;False;HARD;27.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16584;KVY;26;0 days 00:01:43.430000;2.0;False;HARD;28.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16585;KVY;26;0 days 00:01:42.906000;2.0;True;HARD;29.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16586;KVY;26;0 days 00:01:42.900000;2.0;True;HARD;30.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16587;KVY;26;0 days 00:01:42.788000;2.0;True;HARD;31.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16588;KVY;26;0 days 00:01:42.953000;2.0;False;HARD;32.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16589;KVY;26;0 days 00:01:43.148000;2.0;False;HARD;33.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16590;KVY;26;0 days 00:01:43.165000;2.0;False;HARD;34.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16591;KVY;26;0 days 00:01:43.118000;2.0;False;HARD;35.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16592;KVY;26;0 days 00:01:42.788000;2.0;False;HARD;36.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16593;KVY;26;0 days 00:01:42.704000;2.0;True;HARD;37.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16594;KVY;26;0 days 00:01:42.985000;2.0;False;HARD;38.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16595;KVY;26;0 days 00:01:43.119000;2.0;False;HARD;39.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16596;KVY;26;0 days 00:01:42.966000;2.0;False;HARD;40.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16597;KVY;26;0 days 00:01:42.921000;2.0;False;HARD;41.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16598;KVY;26;0 days 00:01:43.045000;2.0;False;HARD;42.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16599;KVY;26;0 days 00:01:43.437000;2.0;False;HARD;43.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16600;KVY;26;0 days 00:01:46.316000;2.0;False;HARD;44.0;True;AlphaTauri;1;11.0;2020;Abu Dhabi Grand Prix
+16601;RIC;3;0 days 00:01:53.282000;1.0;False;HARD;1.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16602;RIC;3;0 days 00:01:45.912000;1.0;True;HARD;2.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16603;RIC;3;0 days 00:01:44.878000;1.0;True;HARD;3.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16604;RIC;3;0 days 00:01:44.667000;1.0;True;HARD;4.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16605;RIC;3;0 days 00:01:44.817000;1.0;False;HARD;5.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16606;RIC;3;0 days 00:01:43.625000;1.0;True;HARD;6.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16607;RIC;3;0 days 00:01:44.429000;1.0;False;HARD;7.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16608;RIC;3;0 days 00:01:45.241000;1.0;False;HARD;8.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16609;RIC;3;0 days 00:01:46.233000;1.0;False;HARD;9.0;True;Renault;2;10.0;2020;Abu Dhabi Grand Prix
+16610;RIC;3;0 days 00:02:16.955000;1.0;False;HARD;10.0;True;Renault;26;10.0;2020;Abu Dhabi Grand Prix
+16611;RIC;3;0 days 00:02:21.882000;1.0;False;HARD;11.0;True;Renault;64;5.0;2020;Abu Dhabi Grand Prix
+16612;RIC;3;0 days 00:02:24.547000;1.0;False;HARD;12.0;True;Renault;4;5.0;2020;Abu Dhabi Grand Prix
+16613;RIC;3;;1.0;False;HARD;13.0;True;Renault;4;5.0;2020;Abu Dhabi Grand Prix
+16614;RIC;3;0 days 00:01:44.183000;1.0;False;HARD;14.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16615;RIC;3;0 days 00:01:43.867000;1.0;False;HARD;15.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16616;RIC;3;0 days 00:01:43.359000;1.0;True;HARD;16.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16617;RIC;3;0 days 00:01:43.372000;1.0;False;HARD;17.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16618;RIC;3;0 days 00:01:43.409000;1.0;False;HARD;18.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16619;RIC;3;0 days 00:01:43.200000;1.0;True;HARD;19.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16620;RIC;3;0 days 00:01:43.182000;1.0;True;HARD;20.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16621;RIC;3;0 days 00:01:43.192000;1.0;False;HARD;21.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16622;RIC;3;0 days 00:01:43.074000;1.0;True;HARD;22.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16623;RIC;3;0 days 00:01:43.197000;1.0;False;HARD;23.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16624;RIC;3;0 days 00:01:42.931000;1.0;True;HARD;24.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16625;RIC;3;0 days 00:01:42.939000;1.0;False;HARD;25.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16626;RIC;3;0 days 00:01:42.920000;1.0;True;HARD;26.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16627;RIC;3;0 days 00:01:42.955000;1.0;False;HARD;27.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16628;RIC;3;0 days 00:01:43.163000;1.0;False;HARD;28.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16629;RIC;3;0 days 00:01:42.904000;1.0;True;HARD;29.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16630;RIC;3;0 days 00:01:42.819000;1.0;True;HARD;30.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16631;RIC;3;0 days 00:01:42.815000;1.0;True;HARD;31.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16632;RIC;3;0 days 00:01:42.619000;1.0;True;HARD;32.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16633;RIC;3;0 days 00:01:42.390000;1.0;True;HARD;33.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16634;RIC;3;0 days 00:01:42.283000;1.0;True;HARD;34.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16635;RIC;3;0 days 00:01:42.390000;1.0;False;HARD;35.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16636;RIC;3;0 days 00:01:42.604000;1.0;False;HARD;36.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16637;RIC;3;0 days 00:01:42.974000;1.0;False;HARD;37.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16638;RIC;3;0 days 00:01:43.106000;1.0;False;HARD;38.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16639;RIC;3;0 days 00:01:45.290000;1.0;False;HARD;39.0;True;Renault;1;5.0;2020;Abu Dhabi Grand Prix
+16640;RIC;3;0 days 00:02:03.636000;2.0;False;MEDIUM;1.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16641;RIC;3;0 days 00:01:43.472000;2.0;False;MEDIUM;2.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16642;RIC;3;0 days 00:01:43.286000;2.0;False;MEDIUM;3.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16643;RIC;3;0 days 00:01:42.238000;2.0;True;MEDIUM;4.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16644;RIC;3;0 days 00:01:40.958000;2.0;True;MEDIUM;5.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16645;RIC;3;0 days 00:01:42.071000;2.0;False;MEDIUM;6.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16646;RIC;3;0 days 00:01:41.906000;2.0;False;MEDIUM;7.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16647;RIC;3;0 days 00:01:42.037000;2.0;False;MEDIUM;8.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16648;RIC;3;0 days 00:01:41.742000;2.0;False;MEDIUM;9.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16649;RIC;3;0 days 00:01:41.920000;2.0;False;MEDIUM;10.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16650;RIC;3;0 days 00:01:41.860000;2.0;False;MEDIUM;11.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16651;RIC;3;0 days 00:01:41.713000;2.0;False;MEDIUM;12.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16652;RIC;3;0 days 00:01:41.106000;2.0;False;MEDIUM;13.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16653;RIC;3;0 days 00:01:42.566000;2.0;False;MEDIUM;14.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16654;RIC;3;0 days 00:01:41.411000;2.0;False;MEDIUM;15.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16655;RIC;3;0 days 00:01:40.926000;2.0;True;MEDIUM;16.0;True;Renault;1;7.0;2020;Abu Dhabi Grand Prix
+16656;OCO;31;0 days 00:01:52.035000;1.0;False;MEDIUM;1.0;True;Renault;1;9.0;2020;Abu Dhabi Grand Prix
+16657;OCO;31;0 days 00:01:46.281000;1.0;True;MEDIUM;2.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16658;OCO;31;0 days 00:01:44.927000;1.0;True;MEDIUM;3.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16659;OCO;31;0 days 00:01:44.696000;1.0;True;MEDIUM;4.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16660;OCO;31;0 days 00:01:44.597000;1.0;True;MEDIUM;5.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16661;OCO;31;0 days 00:01:46.075000;1.0;False;MEDIUM;6.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16662;OCO;31;0 days 00:01:44.916000;1.0;False;MEDIUM;7.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16663;OCO;31;0 days 00:01:45.195000;1.0;False;MEDIUM;8.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16664;OCO;31;0 days 00:01:45.600000;1.0;False;MEDIUM;9.0;True;Renault;2;11.0;2020;Abu Dhabi Grand Prix
+16665;OCO;31;0 days 00:02:18.556000;1.0;False;MEDIUM;10.0;True;Renault;26;12.0;2020;Abu Dhabi Grand Prix
+16666;OCO;31;;2.0;False;HARD;1.0;True;Renault;64;13.0;2020;Abu Dhabi Grand Prix
+16667;OCO;31;0 days 00:02:22.253000;2.0;False;HARD;2.0;True;Renault;4;13.0;2020;Abu Dhabi Grand Prix
+16668;OCO;31;0 days 00:02:22.022000;2.0;False;HARD;3.0;True;Renault;4;13.0;2020;Abu Dhabi Grand Prix
+16669;OCO;31;0 days 00:01:46.969000;2.0;False;HARD;4.0;True;Renault;1;13.0;2020;Abu Dhabi Grand Prix
+16670;OCO;31;0 days 00:01:45.056000;2.0;False;HARD;5.0;True;Renault;1;12.0;2020;Abu Dhabi Grand Prix
+16671;OCO;31;0 days 00:01:44.567000;2.0;True;HARD;6.0;True;Renault;1;12.0;2020;Abu Dhabi Grand Prix
+16672;OCO;31;0 days 00:01:44.334000;2.0;True;HARD;7.0;True;Renault;1;12.0;2020;Abu Dhabi Grand Prix
+16673;OCO;31;0 days 00:01:44.854000;2.0;False;HARD;8.0;True;Renault;1;12.0;2020;Abu Dhabi Grand Prix
+16674;OCO;31;0 days 00:01:44.921000;2.0;False;HARD;9.0;True;Renault;1;12.0;2020;Abu Dhabi Grand Prix
+16675;OCO;31;0 days 00:01:44.956000;2.0;False;HARD;10.0;True;Renault;1;12.0;2020;Abu Dhabi Grand Prix
+16676;OCO;31;0 days 00:01:45.673000;2.0;False;HARD;11.0;True;Renault;1;12.0;2020;Abu Dhabi Grand Prix
+16677;OCO;31;0 days 00:01:43.705000;2.0;True;HARD;12.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16678;OCO;31;0 days 00:01:43.652000;2.0;True;HARD;13.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16679;OCO;31;0 days 00:01:43.402000;2.0;True;HARD;14.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16680;OCO;31;0 days 00:01:43.331000;2.0;True;HARD;15.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16681;OCO;31;0 days 00:01:43.704000;2.0;False;HARD;16.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16682;OCO;31;0 days 00:01:43.583000;2.0;False;HARD;17.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16683;OCO;31;0 days 00:01:43.654000;2.0;False;HARD;18.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16684;OCO;31;0 days 00:01:43.834000;2.0;False;HARD;19.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16685;OCO;31;0 days 00:01:43.766000;2.0;False;HARD;20.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16686;OCO;31;0 days 00:01:44.112000;2.0;False;HARD;21.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16687;OCO;31;0 days 00:01:44.546000;2.0;False;HARD;22.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16688;OCO;31;0 days 00:01:44.387000;2.0;False;HARD;23.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16689;OCO;31;0 days 00:01:44.323000;2.0;False;HARD;24.0;True;Renault;1;11.0;2020;Abu Dhabi Grand Prix
+16690;OCO;31;0 days 00:01:44.396000;2.0;False;HARD;25.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16691;OCO;31;0 days 00:01:43.862000;2.0;False;HARD;26.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16692;OCO;31;0 days 00:01:43.166000;2.0;True;HARD;27.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16693;OCO;31;0 days 00:01:43.031000;2.0;True;HARD;28.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16694;OCO;31;0 days 00:01:42.896000;2.0;True;HARD;29.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16695;OCO;31;0 days 00:01:42.936000;2.0;False;HARD;30.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16696;OCO;31;0 days 00:01:43.020000;2.0;False;HARD;31.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16697;OCO;31;0 days 00:01:43.130000;2.0;False;HARD;32.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16698;OCO;31;0 days 00:01:42.960000;2.0;False;HARD;33.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16699;OCO;31;0 days 00:01:43.001000;2.0;False;HARD;34.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16700;OCO;31;0 days 00:01:42.964000;2.0;False;HARD;35.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16701;OCO;31;0 days 00:01:42.931000;2.0;False;HARD;36.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16702;OCO;31;0 days 00:01:42.894000;2.0;True;HARD;37.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16703;OCO;31;0 days 00:01:42.932000;2.0;False;HARD;38.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16704;OCO;31;0 days 00:01:42.950000;2.0;False;HARD;39.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16705;OCO;31;0 days 00:01:42.947000;2.0;False;HARD;40.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16706;OCO;31;0 days 00:01:42.911000;2.0;False;HARD;41.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16707;OCO;31;0 days 00:01:43.180000;2.0;False;HARD;42.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16708;OCO;31;0 days 00:01:43.077000;2.0;False;HARD;43.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16709;OCO;31;0 days 00:01:43.459000;2.0;False;HARD;44.0;True;Renault;1;10.0;2020;Abu Dhabi Grand Prix
+16710;OCO;31;0 days 00:01:43.285000;2.0;False;HARD;45.0;True;Renault;1;9.0;2020;Abu Dhabi Grand Prix
+16711;VER;33;0 days 00:01:43.833000;1.0;False;MEDIUM;4.0;False;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16712;VER;33;0 days 00:01:42.292000;1.0;True;MEDIUM;5.0;False;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16713;VER;33;0 days 00:01:42.207000;1.0;True;MEDIUM;6.0;False;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16714;VER;33;0 days 00:01:42.450000;1.0;False;MEDIUM;7.0;False;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16715;VER;33;0 days 00:01:42.652000;1.0;False;MEDIUM;8.0;False;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16716;VER;33;0 days 00:01:42.562000;1.0;False;MEDIUM;9.0;False;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16717;VER;33;0 days 00:01:42.651000;1.0;False;MEDIUM;10.0;False;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16718;VER;33;0 days 00:01:42.506000;1.0;False;MEDIUM;11.0;False;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16719;VER;33;0 days 00:01:42.461000;1.0;False;MEDIUM;12.0;False;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16720;VER;33;0 days 00:02:06.235000;1.0;False;MEDIUM;13.0;False;Red Bull Racing;26;1.0;2020;Abu Dhabi Grand Prix
+16721;VER;33;;2.0;False;HARD;1.0;True;Red Bull Racing;64;1.0;2020;Abu Dhabi Grand Prix
+16722;VER;33;;2.0;False;HARD;2.0;True;Red Bull Racing;4;1.0;2020;Abu Dhabi Grand Prix
+16723;VER;33;;2.0;False;HARD;3.0;True;Red Bull Racing;4;1.0;2020;Abu Dhabi Grand Prix
+16724;VER;33;0 days 00:01:40.958000;2.0;True;HARD;4.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16725;VER;33;0 days 00:01:41.153000;2.0;False;HARD;5.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16726;VER;33;0 days 00:01:41.315000;2.0;False;HARD;6.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16727;VER;33;0 days 00:01:41.571000;2.0;False;HARD;7.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16728;VER;33;0 days 00:01:41.427000;2.0;False;HARD;8.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16729;VER;33;0 days 00:01:41.423000;2.0;False;HARD;9.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16730;VER;33;0 days 00:01:41.560000;2.0;False;HARD;10.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16731;VER;33;0 days 00:01:41.462000;2.0;False;HARD;11.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16732;VER;33;0 days 00:01:41.250000;2.0;False;HARD;12.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16733;VER;33;0 days 00:01:41.400000;2.0;False;HARD;13.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16734;VER;33;0 days 00:01:41.579000;2.0;False;HARD;14.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16735;VER;33;0 days 00:01:41.653000;2.0;False;HARD;15.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16736;VER;33;0 days 00:01:41.357000;2.0;False;HARD;16.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16737;VER;33;0 days 00:01:41.362000;2.0;False;HARD;17.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16738;VER;33;0 days 00:01:41.318000;2.0;False;HARD;18.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16739;VER;33;0 days 00:01:41.491000;2.0;False;HARD;19.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16740;VER;33;0 days 00:01:41.296000;2.0;False;HARD;20.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16741;VER;33;0 days 00:01:41.281000;2.0;False;HARD;21.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16742;VER;33;0 days 00:01:41.254000;2.0;False;HARD;22.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16743;VER;33;0 days 00:01:41.162000;2.0;False;HARD;23.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16744;VER;33;0 days 00:01:41.201000;2.0;False;HARD;24.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16745;VER;33;0 days 00:01:41.455000;2.0;False;HARD;25.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16746;VER;33;0 days 00:01:41.565000;2.0;False;HARD;26.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16747;VER;33;0 days 00:01:41.725000;2.0;False;HARD;27.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16748;VER;33;0 days 00:01:42.119000;2.0;False;HARD;28.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16749;VER;33;0 days 00:01:41.334000;2.0;False;HARD;29.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16750;VER;33;0 days 00:01:41.228000;2.0;False;HARD;30.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16751;VER;33;0 days 00:01:41.180000;2.0;False;HARD;31.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16752;VER;33;0 days 00:01:41.421000;2.0;False;HARD;32.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16753;VER;33;0 days 00:01:41.569000;2.0;False;HARD;33.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16754;VER;33;0 days 00:01:41.546000;2.0;False;HARD;34.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16755;VER;33;0 days 00:01:41.621000;2.0;False;HARD;35.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16756;VER;33;0 days 00:01:41.367000;2.0;False;HARD;36.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16757;VER;33;0 days 00:01:41.650000;2.0;False;HARD;37.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16758;VER;33;0 days 00:01:41.982000;2.0;False;HARD;38.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16759;VER;33;0 days 00:01:42.033000;2.0;False;HARD;39.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16760;VER;33;0 days 00:01:41.805000;2.0;False;HARD;40.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16761;VER;33;0 days 00:01:41.838000;2.0;False;HARD;41.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16762;VER;33;0 days 00:01:41.497000;2.0;False;HARD;42.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16763;VER;33;0 days 00:01:41.596000;2.0;False;HARD;43.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16764;VER;33;0 days 00:01:41.626000;2.0;False;HARD;44.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16765;VER;33;0 days 00:01:42.182000;2.0;False;HARD;45.0;True;Red Bull Racing;1;1.0;2020;Abu Dhabi Grand Prix
+16766;NOR;4;0 days 00:01:47.989000;1.0;False;SOFT;4.0;False;McLaren;1;4.0;2020;Abu Dhabi Grand Prix
+16767;NOR;4;0 days 00:01:44.054000;1.0;True;SOFT;5.0;False;McLaren;1;4.0;2020;Abu Dhabi Grand Prix
+16768;NOR;4;0 days 00:01:43.879000;1.0;True;SOFT;6.0;False;McLaren;1;4.0;2020;Abu Dhabi Grand Prix
+16769;NOR;4;0 days 00:01:43.951000;1.0;False;SOFT;7.0;False;McLaren;1;4.0;2020;Abu Dhabi Grand Prix
+16770;NOR;4;0 days 00:01:43.966000;1.0;False;SOFT;8.0;False;McLaren;1;4.0;2020;Abu Dhabi Grand Prix
+16771;NOR;4;0 days 00:01:45.683000;1.0;False;SOFT;9.0;False;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16772;NOR;4;0 days 00:01:44.650000;1.0;False;SOFT;10.0;False;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16773;NOR;4;0 days 00:01:44.286000;1.0;False;SOFT;11.0;False;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16774;NOR;4;0 days 00:01:44.281000;1.0;False;SOFT;12.0;False;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16775;NOR;4;0 days 00:02:12.176000;1.0;False;SOFT;13.0;False;McLaren;26;5.0;2020;Abu Dhabi Grand Prix
+16776;NOR;4;;2.0;False;HARD;1.0;True;McLaren;64;6.0;2020;Abu Dhabi Grand Prix
+16777;NOR;4;0 days 00:02:25.506000;2.0;False;HARD;2.0;True;McLaren;4;6.0;2020;Abu Dhabi Grand Prix
+16778;NOR;4;;2.0;False;HARD;3.0;True;McLaren;4;6.0;2020;Abu Dhabi Grand Prix
+16779;NOR;4;0 days 00:01:44.829000;2.0;False;HARD;4.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16780;NOR;4;0 days 00:01:43.704000;2.0;True;HARD;5.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16781;NOR;4;0 days 00:01:43.380000;2.0;True;HARD;6.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16782;NOR;4;0 days 00:01:43.455000;2.0;False;HARD;7.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16783;NOR;4;0 days 00:01:43.370000;2.0;True;HARD;8.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16784;NOR;4;0 days 00:01:43.410000;2.0;False;HARD;9.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16785;NOR;4;0 days 00:01:43.539000;2.0;False;HARD;10.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16786;NOR;4;0 days 00:01:43.546000;2.0;False;HARD;11.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16787;NOR;4;0 days 00:01:43.343000;2.0;True;HARD;12.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16788;NOR;4;0 days 00:01:42.999000;2.0;True;HARD;13.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16789;NOR;4;0 days 00:01:42.914000;2.0;True;HARD;14.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16790;NOR;4;0 days 00:01:42.916000;2.0;False;HARD;15.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16791;NOR;4;0 days 00:01:43.041000;2.0;False;HARD;16.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16792;NOR;4;0 days 00:01:43.183000;2.0;False;HARD;17.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16793;NOR;4;0 days 00:01:43.058000;2.0;False;HARD;18.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16794;NOR;4;0 days 00:01:42.894000;2.0;True;HARD;19.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16795;NOR;4;0 days 00:01:42.902000;2.0;False;HARD;20.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16796;NOR;4;0 days 00:01:42.974000;2.0;False;HARD;21.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16797;NOR;4;0 days 00:01:42.735000;2.0;True;HARD;22.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16798;NOR;4;0 days 00:01:42.693000;2.0;True;HARD;23.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16799;NOR;4;0 days 00:01:42.434000;2.0;True;HARD;24.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16800;NOR;4;0 days 00:01:42.401000;2.0;True;HARD;25.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16801;NOR;4;0 days 00:01:42.549000;2.0;False;HARD;26.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16802;NOR;4;0 days 00:01:42.542000;2.0;False;HARD;27.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16803;NOR;4;0 days 00:01:43.084000;2.0;False;HARD;28.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16804;NOR;4;0 days 00:01:42.771000;2.0;False;HARD;29.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16805;NOR;4;0 days 00:01:42.730000;2.0;False;HARD;30.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16806;NOR;4;0 days 00:01:42.794000;2.0;False;HARD;31.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16807;NOR;4;0 days 00:01:42.647000;2.0;False;HARD;32.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16808;NOR;4;0 days 00:01:42.613000;2.0;False;HARD;33.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16809;NOR;4;0 days 00:01:42.660000;2.0;False;HARD;34.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16810;NOR;4;0 days 00:01:42.449000;2.0;False;HARD;35.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16811;NOR;4;0 days 00:01:42.644000;2.0;False;HARD;36.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16812;NOR;4;0 days 00:01:42.686000;2.0;False;HARD;37.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16813;NOR;4;0 days 00:01:42.561000;2.0;False;HARD;38.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16814;NOR;4;0 days 00:01:42.495000;2.0;False;HARD;39.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16815;NOR;4;0 days 00:01:42.314000;2.0;True;HARD;40.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16816;NOR;4;0 days 00:01:42.294000;2.0;True;HARD;41.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16817;NOR;4;0 days 00:01:42.069000;2.0;True;HARD;42.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16818;NOR;4;0 days 00:01:41.964000;2.0;True;HARD;43.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16819;NOR;4;0 days 00:01:42.312000;2.0;False;HARD;44.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16820;NOR;4;0 days 00:01:42.315000;2.0;False;HARD;45.0;True;McLaren;1;5.0;2020;Abu Dhabi Grand Prix
+16821;HAM;44;0 days 00:01:46.347000;1.0;False;MEDIUM;4.0;False;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16822;HAM;44;0 days 00:01:43.524000;1.0;True;MEDIUM;5.0;False;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16823;HAM;44;0 days 00:01:43.154000;1.0;True;MEDIUM;6.0;False;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16824;HAM;44;0 days 00:01:43.051000;1.0;True;MEDIUM;7.0;False;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16825;HAM;44;0 days 00:01:43.157000;1.0;False;MEDIUM;8.0;False;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16826;HAM;44;0 days 00:01:42.997000;1.0;True;MEDIUM;9.0;False;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16827;HAM;44;0 days 00:01:43.033000;1.0;False;MEDIUM;10.0;False;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16828;HAM;44;0 days 00:01:43.069000;1.0;False;MEDIUM;11.0;False;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16829;HAM;44;0 days 00:01:43.289000;1.0;False;MEDIUM;12.0;False;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16830;HAM;44;0 days 00:02:09.878000;1.0;False;MEDIUM;13.0;False;Mercedes;26;3.0;2020;Abu Dhabi Grand Prix
+16831;HAM;44;;2.0;False;HARD;1.0;True;Mercedes;64;3.0;2020;Abu Dhabi Grand Prix
+16832;HAM;44;;2.0;False;HARD;2.0;True;Mercedes;4;3.0;2020;Abu Dhabi Grand Prix
+16833;HAM;44;;2.0;False;HARD;3.0;True;Mercedes;4;3.0;2020;Abu Dhabi Grand Prix
+16834;HAM;44;0 days 00:01:42.117000;2.0;True;HARD;4.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16835;HAM;44;0 days 00:01:41.947000;2.0;True;HARD;5.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16836;HAM;44;0 days 00:01:42.109000;2.0;False;HARD;6.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16837;HAM;44;0 days 00:01:42.106000;2.0;False;HARD;7.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16838;HAM;44;0 days 00:01:41.819000;2.0;True;HARD;8.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16839;HAM;44;0 days 00:01:41.791000;2.0;True;HARD;9.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16840;HAM;44;0 days 00:01:41.991000;2.0;False;HARD;10.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16841;HAM;44;0 days 00:01:41.720000;2.0;True;HARD;11.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16842;HAM;44;0 days 00:01:41.600000;2.0;True;HARD;12.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16843;HAM;44;0 days 00:01:42.004000;2.0;False;HARD;13.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16844;HAM;44;0 days 00:01:41.894000;2.0;False;HARD;14.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16845;HAM;44;0 days 00:01:41.745000;2.0;False;HARD;15.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16846;HAM;44;0 days 00:01:41.979000;2.0;False;HARD;16.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16847;HAM;44;0 days 00:01:42.034000;2.0;False;HARD;17.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16848;HAM;44;0 days 00:01:41.658000;2.0;False;HARD;18.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16849;HAM;44;0 days 00:01:41.811000;2.0;False;HARD;19.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16850;HAM;44;0 days 00:01:41.649000;2.0;False;HARD;20.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16851;HAM;44;0 days 00:01:41.993000;2.0;False;HARD;21.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16852;HAM;44;0 days 00:01:41.510000;2.0;True;HARD;22.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16853;HAM;44;0 days 00:01:41.457000;2.0;True;HARD;23.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16854;HAM;44;0 days 00:01:41.744000;2.0;False;HARD;24.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16855;HAM;44;0 days 00:01:41.431000;2.0;True;HARD;25.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16856;HAM;44;0 days 00:01:41.689000;2.0;False;HARD;26.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16857;HAM;44;0 days 00:01:41.420000;2.0;True;HARD;27.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16858;HAM;44;0 days 00:01:41.502000;2.0;False;HARD;28.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16859;HAM;44;0 days 00:01:41.452000;2.0;False;HARD;29.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16860;HAM;44;0 days 00:01:41.429000;2.0;False;HARD;30.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16861;HAM;44;0 days 00:01:41.572000;2.0;False;HARD;31.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16862;HAM;44;0 days 00:01:41.611000;2.0;False;HARD;32.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16863;HAM;44;0 days 00:01:42.168000;2.0;False;HARD;33.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16864;HAM;44;0 days 00:01:41.630000;2.0;False;HARD;34.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16865;HAM;44;0 days 00:01:41.650000;2.0;False;HARD;35.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16866;HAM;44;0 days 00:01:42.431000;2.0;False;HARD;36.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16867;HAM;44;0 days 00:01:42.097000;2.0;False;HARD;37.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16868;HAM;44;0 days 00:01:41.794000;2.0;False;HARD;38.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16869;HAM;44;0 days 00:01:42.482000;2.0;False;HARD;39.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16870;HAM;44;0 days 00:01:41.979000;2.0;False;HARD;40.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16871;HAM;44;0 days 00:01:42.282000;2.0;False;HARD;41.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16872;HAM;44;0 days 00:01:42.652000;2.0;False;HARD;42.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16873;HAM;44;0 days 00:01:42.992000;2.0;False;HARD;43.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16874;HAM;44;0 days 00:01:42.083000;2.0;False;HARD;44.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16875;HAM;44;0 days 00:01:42.665000;2.0;False;HARD;45.0;True;Mercedes;1;3.0;2020;Abu Dhabi Grand Prix
+16876;VET;5;0 days 00:01:53.980000;1.0;False;HARD;1.0;True;Ferrari;1;12.0;2020;Abu Dhabi Grand Prix
+16877;VET;5;0 days 00:01:46.008000;1.0;True;HARD;2.0;True;Ferrari;1;12.0;2020;Abu Dhabi Grand Prix
+16878;VET;5;0 days 00:01:44.878000;1.0;True;HARD;3.0;True;Ferrari;1;12.0;2020;Abu Dhabi Grand Prix
+16879;VET;5;0 days 00:01:44.989000;1.0;False;HARD;4.0;True;Ferrari;1;12.0;2020;Abu Dhabi Grand Prix
+16880;VET;5;0 days 00:01:44.846000;1.0;True;HARD;5.0;True;Ferrari;1;12.0;2020;Abu Dhabi Grand Prix
+16881;VET;5;0 days 00:01:44.788000;1.0;True;HARD;6.0;True;Ferrari;1;12.0;2020;Abu Dhabi Grand Prix
+16882;VET;5;0 days 00:01:45.228000;1.0;False;HARD;7.0;True;Ferrari;1;12.0;2020;Abu Dhabi Grand Prix
+16883;VET;5;0 days 00:01:45.099000;1.0;False;HARD;8.0;True;Ferrari;1;12.0;2020;Abu Dhabi Grand Prix
+16884;VET;5;0 days 00:01:45.336000;1.0;False;HARD;9.0;True;Ferrari;2;12.0;2020;Abu Dhabi Grand Prix
+16885;VET;5;0 days 00:02:17.108000;1.0;False;HARD;10.0;True;Ferrari;26;11.0;2020;Abu Dhabi Grand Prix
+16886;VET;5;0 days 00:02:22.813000;1.0;False;HARD;11.0;True;Ferrari;64;7.0;2020;Abu Dhabi Grand Prix
+16887;VET;5;0 days 00:02:24.933000;1.0;False;HARD;12.0;True;Ferrari;4;7.0;2020;Abu Dhabi Grand Prix
+16888;VET;5;0 days 00:02:29.720000;1.0;False;HARD;13.0;True;Ferrari;4;7.0;2020;Abu Dhabi Grand Prix
+16889;VET;5;0 days 00:01:45.338000;1.0;False;HARD;14.0;True;Ferrari;1;7.0;2020;Abu Dhabi Grand Prix
+16890;VET;5;0 days 00:01:44.226000;1.0;True;HARD;15.0;True;Ferrari;1;7.0;2020;Abu Dhabi Grand Prix
+16891;VET;5;0 days 00:01:44.057000;1.0;True;HARD;16.0;True;Ferrari;1;7.0;2020;Abu Dhabi Grand Prix
+16892;VET;5;0 days 00:01:45.963000;1.0;False;HARD;17.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16893;VET;5;0 days 00:01:44.618000;1.0;False;HARD;18.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16894;VET;5;0 days 00:01:44.135000;1.0;False;HARD;19.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16895;VET;5;0 days 00:01:43.953000;1.0;True;HARD;20.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16896;VET;5;0 days 00:01:44.038000;1.0;False;HARD;21.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16897;VET;5;0 days 00:01:43.541000;1.0;True;HARD;22.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16898;VET;5;0 days 00:01:43.753000;1.0;False;HARD;23.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16899;VET;5;0 days 00:01:43.655000;1.0;False;HARD;24.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16900;VET;5;0 days 00:01:43.837000;1.0;False;HARD;25.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16901;VET;5;0 days 00:01:43.954000;1.0;False;HARD;26.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16902;VET;5;0 days 00:01:45.512000;1.0;False;HARD;27.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16903;VET;5;0 days 00:01:44.186000;1.0;False;HARD;28.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16904;VET;5;0 days 00:01:43.880000;1.0;False;HARD;29.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16905;VET;5;0 days 00:01:44.083000;1.0;False;HARD;30.0;True;Ferrari;1;8.0;2020;Abu Dhabi Grand Prix
+16906;VET;5;0 days 00:01:46.209000;1.0;False;HARD;31.0;True;Ferrari;1;9.0;2020;Abu Dhabi Grand Prix
+16907;VET;5;0 days 00:01:44.567000;1.0;False;HARD;32.0;True;Ferrari;1;9.0;2020;Abu Dhabi Grand Prix
+16908;VET;5;0 days 00:01:44.255000;1.0;False;HARD;33.0;True;Ferrari;1;9.0;2020;Abu Dhabi Grand Prix
+16909;VET;5;0 days 00:01:44.641000;1.0;False;HARD;34.0;True;Ferrari;1;9.0;2020;Abu Dhabi Grand Prix
+16910;VET;5;0 days 00:01:46.172000;1.0;False;HARD;35.0;True;Ferrari;1;11.0;2020;Abu Dhabi Grand Prix
+16911;VET;5;0 days 00:02:02.555000;2.0;False;MEDIUM;1.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16912;VET;5;0 days 00:01:41.475000;2.0;True;MEDIUM;2.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16913;VET;5;0 days 00:01:41.886000;2.0;False;MEDIUM;3.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16914;VET;5;0 days 00:01:42.767000;2.0;False;MEDIUM;4.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16915;VET;5;0 days 00:01:43.530000;2.0;False;MEDIUM;5.0;True;Ferrari;1;15.0;2020;Abu Dhabi Grand Prix
+16916;VET;5;0 days 00:01:41.983000;2.0;False;MEDIUM;6.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16917;VET;5;0 days 00:01:42.342000;2.0;False;MEDIUM;7.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16918;VET;5;0 days 00:01:42.212000;2.0;False;MEDIUM;8.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16919;VET;5;0 days 00:01:42.332000;2.0;False;MEDIUM;9.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16920;VET;5;0 days 00:01:44.710000;2.0;False;MEDIUM;10.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16921;VET;5;0 days 00:01:43.384000;2.0;False;MEDIUM;11.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16922;VET;5;0 days 00:01:43.276000;2.0;False;MEDIUM;12.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16923;VET;5;0 days 00:01:43.273000;2.0;False;MEDIUM;13.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16924;VET;5;0 days 00:01:43.605000;2.0;False;MEDIUM;14.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16925;VET;5;0 days 00:01:43.654000;2.0;False;MEDIUM;15.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16926;VET;5;0 days 00:01:45.724000;2.0;False;MEDIUM;16.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16927;VET;5;0 days 00:01:44.527000;2.0;False;MEDIUM;17.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16928;VET;5;0 days 00:01:46.875000;2.0;False;MEDIUM;18.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16929;VET;5;0 days 00:01:43.467000;2.0;False;MEDIUM;19.0;True;Ferrari;1;14.0;2020;Abu Dhabi Grand Prix
+16930;SAI;55;0 days 00:01:49.619000;1.0;False;MEDIUM;4.0;False;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16931;SAI;55;0 days 00:01:44.726000;1.0;True;MEDIUM;5.0;False;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16932;SAI;55;0 days 00:01:44.346000;1.0;True;MEDIUM;6.0;False;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16933;SAI;55;0 days 00:01:44.272000;1.0;True;MEDIUM;7.0;False;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16934;SAI;55;0 days 00:01:44.369000;1.0;False;MEDIUM;8.0;False;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16935;SAI;55;0 days 00:01:44.631000;1.0;False;MEDIUM;9.0;False;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16936;SAI;55;0 days 00:01:44.685000;1.0;False;MEDIUM;10.0;False;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16937;SAI;55;0 days 00:01:44.801000;1.0;False;MEDIUM;11.0;False;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16938;SAI;55;0 days 00:01:44.390000;1.0;False;MEDIUM;12.0;False;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16939;SAI;55;0 days 00:02:16.275000;1.0;False;MEDIUM;13.0;False;McLaren;26;6.0;2020;Abu Dhabi Grand Prix
+16940;SAI;55;;2.0;False;HARD;1.0;True;McLaren;64;9.0;2020;Abu Dhabi Grand Prix
+16941;SAI;55;0 days 00:02:23.170000;2.0;False;HARD;2.0;True;McLaren;4;9.0;2020;Abu Dhabi Grand Prix
+16942;SAI;55;0 days 00:02:27.429000;2.0;False;HARD;3.0;True;McLaren;4;9.0;2020;Abu Dhabi Grand Prix
+16943;SAI;55;0 days 00:01:45.532000;2.0;False;HARD;4.0;True;McLaren;1;8.0;2020;Abu Dhabi Grand Prix
+16944;SAI;55;0 days 00:01:44.328000;2.0;False;HARD;5.0;True;McLaren;1;8.0;2020;Abu Dhabi Grand Prix
+16945;SAI;55;0 days 00:01:43.837000;2.0;True;HARD;6.0;True;McLaren;1;8.0;2020;Abu Dhabi Grand Prix
+16946;SAI;55;0 days 00:01:43.790000;2.0;True;HARD;7.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16947;SAI;55;0 days 00:01:44.124000;2.0;False;HARD;8.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16948;SAI;55;0 days 00:01:43.792000;2.0;False;HARD;9.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16949;SAI;55;0 days 00:01:43.584000;2.0;True;HARD;10.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16950;SAI;55;0 days 00:01:43.504000;2.0;True;HARD;11.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16951;SAI;55;0 days 00:01:43.600000;2.0;False;HARD;12.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16952;SAI;55;0 days 00:01:43.436000;2.0;True;HARD;13.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16953;SAI;55;0 days 00:01:43.428000;2.0;True;HARD;14.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16954;SAI;55;0 days 00:01:43.176000;2.0;True;HARD;15.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16955;SAI;55;0 days 00:01:43.241000;2.0;False;HARD;16.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16956;SAI;55;0 days 00:01:43.128000;2.0;True;HARD;17.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16957;SAI;55;0 days 00:01:43.284000;2.0;False;HARD;18.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16958;SAI;55;0 days 00:01:42.960000;2.0;True;HARD;19.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16959;SAI;55;0 days 00:01:43.182000;2.0;False;HARD;20.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16960;SAI;55;0 days 00:01:42.693000;2.0;True;HARD;21.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16961;SAI;55;0 days 00:01:42.821000;2.0;False;HARD;22.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16962;SAI;55;0 days 00:01:42.678000;2.0;True;HARD;23.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16963;SAI;55;0 days 00:01:42.551000;2.0;True;HARD;24.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16964;SAI;55;0 days 00:01:42.369000;2.0;True;HARD;25.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16965;SAI;55;0 days 00:01:42.469000;2.0;False;HARD;26.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16966;SAI;55;0 days 00:01:42.709000;2.0;False;HARD;27.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16967;SAI;55;0 days 00:01:42.487000;2.0;False;HARD;28.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16968;SAI;55;0 days 00:01:42.426000;2.0;False;HARD;29.0;True;McLaren;1;7.0;2020;Abu Dhabi Grand Prix
+16969;SAI;55;0 days 00:01:42.354000;2.0;True;HARD;30.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16970;SAI;55;0 days 00:01:42.425000;2.0;False;HARD;31.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16971;SAI;55;0 days 00:01:42.524000;2.0;False;HARD;32.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16972;SAI;55;0 days 00:01:43.127000;2.0;False;HARD;33.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16973;SAI;55;0 days 00:01:42.325000;2.0;True;HARD;34.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16974;SAI;55;0 days 00:01:42.375000;2.0;False;HARD;35.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16975;SAI;55;0 days 00:01:42.396000;2.0;False;HARD;36.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16976;SAI;55;0 days 00:01:42.574000;2.0;False;HARD;37.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16977;SAI;55;0 days 00:01:41.947000;2.0;True;HARD;38.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16978;SAI;55;0 days 00:01:42.393000;2.0;False;HARD;39.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16979;SAI;55;0 days 00:01:42.295000;2.0;False;HARD;40.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16980;SAI;55;0 days 00:01:42.255000;2.0;False;HARD;41.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16981;SAI;55;0 days 00:01:42.344000;2.0;False;HARD;42.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16982;SAI;55;0 days 00:01:42.426000;2.0;False;HARD;43.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16983;SAI;55;0 days 00:01:42.379000;2.0;False;HARD;44.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16984;SAI;55;0 days 00:01:42.479000;2.0;False;HARD;45.0;True;McLaren;1;6.0;2020;Abu Dhabi Grand Prix
+16985;RUS;63;0 days 00:01:56.502000;1.0;False;MEDIUM;1.0;True;Williams;1;16.0;2020;Abu Dhabi Grand Prix
+16986;RUS;63;0 days 00:01:47.476000;1.0;True;MEDIUM;2.0;True;Williams;1;16.0;2020;Abu Dhabi Grand Prix
+16987;RUS;63;0 days 00:01:46.192000;1.0;True;MEDIUM;3.0;True;Williams;1;16.0;2020;Abu Dhabi Grand Prix
+16988;RUS;63;0 days 00:01:45.619000;1.0;True;MEDIUM;4.0;True;Williams;1;16.0;2020;Abu Dhabi Grand Prix
+16989;RUS;63;0 days 00:01:46.794000;1.0;False;MEDIUM;5.0;True;Williams;1;17.0;2020;Abu Dhabi Grand Prix
+16990;RUS;63;0 days 00:01:46.466000;1.0;False;MEDIUM;6.0;True;Williams;1;17.0;2020;Abu Dhabi Grand Prix
+16991;RUS;63;0 days 00:01:45.834000;1.0;False;MEDIUM;7.0;True;Williams;1;17.0;2020;Abu Dhabi Grand Prix
+16992;RUS;63;0 days 00:01:45.771000;1.0;False;MEDIUM;8.0;True;Williams;1;17.0;2020;Abu Dhabi Grand Prix
+16993;RUS;63;0 days 00:01:45.844000;1.0;False;MEDIUM;9.0;True;Williams;26;16.0;2020;Abu Dhabi Grand Prix
+16994;RUS;63;0 days 00:02:22.381000;1.0;False;MEDIUM;10.0;True;Williams;6;16.0;2020;Abu Dhabi Grand Prix
+16995;RUS;63;;2.0;False;HARD;1.0;True;Williams;64;18.0;2020;Abu Dhabi Grand Prix
+16996;RUS;63;0 days 00:02:23.979000;2.0;False;HARD;2.0;True;Williams;4;17.0;2020;Abu Dhabi Grand Prix
+16997;RUS;63;0 days 00:02:06.430000;2.0;False;HARD;3.0;True;Williams;4;17.0;2020;Abu Dhabi Grand Prix
+16998;RUS;63;0 days 00:01:48.307000;2.0;False;HARD;4.0;True;Williams;1;17.0;2020;Abu Dhabi Grand Prix
+16999;RUS;63;0 days 00:01:46.200000;2.0;False;HARD;5.0;True;Williams;1;17.0;2020;Abu Dhabi Grand Prix
+17000;RUS;63;0 days 00:01:44.923000;2.0;True;HARD;6.0;True;Williams;1;16.0;2020;Abu Dhabi Grand Prix
+17001;RUS;63;0 days 00:01:45.325000;2.0;False;HARD;7.0;True;Williams;1;16.0;2020;Abu Dhabi Grand Prix
+17002;RUS;63;0 days 00:01:45.409000;2.0;False;HARD;8.0;True;Williams;1;16.0;2020;Abu Dhabi Grand Prix
+17003;RUS;63;0 days 00:01:44.867000;2.0;True;HARD;9.0;True;Williams;1;16.0;2020;Abu Dhabi Grand Prix
+17004;RUS;63;0 days 00:01:45.237000;2.0;False;HARD;10.0;True;Williams;1;16.0;2020;Abu Dhabi Grand Prix
+17005;RUS;63;0 days 00:01:45.282000;2.0;False;HARD;11.0;True;Williams;1;16.0;2020;Abu Dhabi Grand Prix
+17006;RUS;63;0 days 00:01:44.718000;2.0;True;HARD;12.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17007;RUS;63;0 days 00:01:44.819000;2.0;False;HARD;13.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17008;RUS;63;0 days 00:01:44.297000;2.0;True;HARD;14.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17009;RUS;63;0 days 00:01:44.105000;2.0;True;HARD;15.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17010;RUS;63;0 days 00:01:44.053000;2.0;True;HARD;16.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17011;RUS;63;0 days 00:01:44.413000;2.0;False;HARD;17.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17012;RUS;63;0 days 00:01:44.157000;2.0;False;HARD;18.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17013;RUS;63;0 days 00:01:43.870000;2.0;True;HARD;19.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17014;RUS;63;0 days 00:01:43.855000;2.0;True;HARD;20.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17015;RUS;63;0 days 00:01:44.599000;2.0;False;HARD;21.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17016;RUS;63;0 days 00:01:43.846000;2.0;True;HARD;22.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17017;RUS;63;0 days 00:01:44.146000;2.0;False;HARD;23.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17018;RUS;63;0 days 00:01:45.820000;2.0;False;HARD;24.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17019;RUS;63;0 days 00:01:44.420000;2.0;False;HARD;25.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17020;RUS;63;0 days 00:01:44.199000;2.0;False;HARD;26.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17021;RUS;63;0 days 00:01:43.669000;2.0;True;HARD;27.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17022;RUS;63;0 days 00:01:43.386000;2.0;True;HARD;28.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17023;RUS;63;0 days 00:01:43.523000;2.0;False;HARD;29.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17024;RUS;63;0 days 00:01:43.762000;2.0;False;HARD;30.0;True;Williams;1;14.0;2020;Abu Dhabi Grand Prix
+17025;RUS;63;0 days 00:01:44.744000;2.0;False;HARD;31.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17026;RUS;63;0 days 00:01:45.804000;2.0;False;HARD;32.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17027;RUS;63;0 days 00:01:44.064000;2.0;False;HARD;33.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17028;RUS;63;0 days 00:01:43.610000;2.0;False;HARD;34.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17029;RUS;63;0 days 00:01:43.548000;2.0;False;HARD;35.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17030;RUS;63;0 days 00:01:47.859000;2.0;False;HARD;36.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17031;RUS;63;0 days 00:01:43.694000;2.0;False;HARD;37.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17032;RUS;63;0 days 00:01:45.775000;2.0;False;HARD;38.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17033;RUS;63;0 days 00:01:43.356000;2.0;True;HARD;39.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17034;RUS;63;0 days 00:01:43.641000;2.0;False;HARD;40.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17035;RUS;63;0 days 00:01:43.359000;2.0;False;HARD;41.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17036;RUS;63;0 days 00:01:44.641000;2.0;False;HARD;42.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17037;RUS;63;0 days 00:01:43.671000;2.0;False;HARD;43.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17038;RUS;63;0 days 00:01:43.328000;2.0;True;HARD;44.0;True;Williams;1;15.0;2020;Abu Dhabi Grand Prix
+17039;RAI;7;0 days 00:01:54.909000;1.0;False;MEDIUM;1.0;True;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17040;RAI;7;0 days 00:01:46.177000;1.0;True;MEDIUM;2.0;True;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17041;RAI;7;0 days 00:01:45.200000;1.0;True;MEDIUM;3.0;True;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17042;RAI;7;0 days 00:01:45.230000;1.0;False;MEDIUM;4.0;True;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17043;RAI;7;0 days 00:01:45.326000;1.0;False;MEDIUM;5.0;True;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17044;RAI;7;0 days 00:01:45.367000;1.0;False;MEDIUM;6.0;True;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17045;RAI;7;0 days 00:01:45.939000;1.0;False;MEDIUM;7.0;True;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17046;RAI;7;0 days 00:01:46.553000;1.0;False;MEDIUM;8.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17047;RAI;7;0 days 00:01:46.348000;1.0;False;MEDIUM;9.0;True;Alfa Romeo Racing;2;14.0;2020;Abu Dhabi Grand Prix
+17048;RAI;7;0 days 00:02:20.626000;1.0;False;MEDIUM;10.0;True;Alfa Romeo Racing;26;14.0;2020;Abu Dhabi Grand Prix
+17049;RAI;7;;2.0;False;HARD;1.0;False;Alfa Romeo Racing;64;16.0;2020;Abu Dhabi Grand Prix
+17050;RAI;7;0 days 00:02:21.753000;2.0;False;HARD;2.0;False;Alfa Romeo Racing;4;16.0;2020;Abu Dhabi Grand Prix
+17051;RAI;7;0 days 00:02:12.308000;2.0;False;HARD;3.0;False;Alfa Romeo Racing;4;16.0;2020;Abu Dhabi Grand Prix
+17052;RAI;7;0 days 00:01:46.828000;2.0;False;HARD;4.0;False;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17053;RAI;7;0 days 00:01:46.572000;2.0;False;HARD;5.0;False;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17054;RAI;7;0 days 00:01:45.161000;2.0;True;HARD;6.0;False;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17055;RAI;7;0 days 00:01:44.203000;2.0;True;HARD;7.0;False;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17056;RAI;7;0 days 00:01:45.196000;2.0;False;HARD;8.0;False;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17057;RAI;7;0 days 00:01:44.927000;2.0;False;HARD;9.0;False;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17058;RAI;7;0 days 00:01:44.789000;2.0;False;HARD;10.0;False;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17059;RAI;7;0 days 00:01:45.282000;2.0;False;HARD;11.0;False;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17060;RAI;7;0 days 00:01:45.043000;2.0;False;HARD;12.0;False;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17061;RAI;7;0 days 00:01:44.538000;2.0;False;HARD;13.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17062;RAI;7;0 days 00:01:44.412000;2.0;False;HARD;14.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17063;RAI;7;0 days 00:01:44.373000;2.0;False;HARD;15.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17064;RAI;7;0 days 00:01:44.011000;2.0;True;HARD;16.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17065;RAI;7;0 days 00:01:44.509000;2.0;False;HARD;17.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17066;RAI;7;0 days 00:01:44.112000;2.0;False;HARD;18.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17067;RAI;7;0 days 00:01:44.361000;2.0;False;HARD;19.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17068;RAI;7;0 days 00:01:44.023000;2.0;False;HARD;20.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17069;RAI;7;0 days 00:01:43.804000;2.0;True;HARD;21.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17070;RAI;7;0 days 00:01:43.776000;2.0;True;HARD;22.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17071;RAI;7;0 days 00:01:43.596000;2.0;True;HARD;23.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17072;RAI;7;0 days 00:01:43.861000;2.0;False;HARD;24.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17073;RAI;7;0 days 00:01:43.412000;2.0;True;HARD;25.0;False;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17074;RAI;7;0 days 00:01:43.711000;2.0;False;HARD;26.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17075;RAI;7;0 days 00:01:43.359000;2.0;True;HARD;27.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17076;RAI;7;0 days 00:01:43.665000;2.0;False;HARD;28.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17077;RAI;7;0 days 00:01:43.211000;2.0;True;HARD;29.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17078;RAI;7;0 days 00:01:43.672000;2.0;False;HARD;30.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17079;RAI;7;0 days 00:01:43.319000;2.0;False;HARD;31.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17080;RAI;7;0 days 00:01:43.161000;2.0;True;HARD;32.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17081;RAI;7;0 days 00:01:42.936000;2.0;True;HARD;33.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17082;RAI;7;0 days 00:01:42.854000;2.0;True;HARD;34.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17083;RAI;7;0 days 00:01:42.657000;2.0;True;HARD;35.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17084;RAI;7;0 days 00:01:42.869000;2.0;False;HARD;36.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17085;RAI;7;0 days 00:01:42.414000;2.0;True;HARD;37.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17086;RAI;7;0 days 00:01:42.891000;2.0;False;HARD;38.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17087;RAI;7;0 days 00:01:42.567000;2.0;False;HARD;39.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17088;RAI;7;0 days 00:01:42.281000;2.0;True;HARD;40.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17089;RAI;7;0 days 00:01:44.854000;2.0;False;HARD;41.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17090;RAI;7;0 days 00:01:42.403000;2.0;False;HARD;42.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17091;RAI;7;0 days 00:01:42.148000;2.0;True;HARD;43.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17092;RAI;7;0 days 00:01:44.382000;2.0;False;HARD;44.0;False;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17093;BOT;77;0 days 00:01:45.274000;1.0;False;MEDIUM;4.0;False;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17094;BOT;77;0 days 00:01:42.716000;1.0;True;MEDIUM;5.0;False;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17095;BOT;77;0 days 00:01:42.641000;1.0;True;MEDIUM;6.0;False;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17096;BOT;77;0 days 00:01:42.798000;1.0;False;MEDIUM;7.0;False;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17097;BOT;77;0 days 00:01:42.589000;1.0;True;MEDIUM;8.0;False;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17098;BOT;77;0 days 00:01:42.662000;1.0;False;MEDIUM;9.0;False;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17099;BOT;77;0 days 00:01:42.764000;1.0;False;MEDIUM;10.0;False;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17100;BOT;77;0 days 00:01:42.752000;1.0;False;MEDIUM;11.0;False;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17101;BOT;77;0 days 00:01:42.691000;1.0;False;MEDIUM;12.0;False;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17102;BOT;77;0 days 00:02:07.879000;1.0;False;MEDIUM;13.0;False;Mercedes;26;2.0;2020;Abu Dhabi Grand Prix
+17103;BOT;77;;2.0;False;HARD;1.0;True;Mercedes;64;2.0;2020;Abu Dhabi Grand Prix
+17104;BOT;77;;2.0;False;HARD;2.0;True;Mercedes;4;2.0;2020;Abu Dhabi Grand Prix
+17105;BOT;77;;2.0;False;HARD;3.0;True;Mercedes;4;2.0;2020;Abu Dhabi Grand Prix
+17106;BOT;77;0 days 00:01:41.542000;2.0;True;HARD;4.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17107;BOT;77;0 days 00:01:41.350000;2.0;True;HARD;5.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17108;BOT;77;0 days 00:01:42.089000;2.0;False;HARD;6.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17109;BOT;77;0 days 00:01:41.835000;2.0;False;HARD;7.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17110;BOT;77;0 days 00:01:41.870000;2.0;False;HARD;8.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17111;BOT;77;0 days 00:01:41.766000;2.0;False;HARD;9.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17112;BOT;77;0 days 00:01:41.919000;2.0;False;HARD;10.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17113;BOT;77;0 days 00:01:41.821000;2.0;False;HARD;11.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17114;BOT;77;0 days 00:01:41.772000;2.0;False;HARD;12.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17115;BOT;77;0 days 00:01:41.686000;2.0;False;HARD;13.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17116;BOT;77;0 days 00:01:41.439000;2.0;False;HARD;14.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17117;BOT;77;0 days 00:01:41.685000;2.0;False;HARD;15.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17118;BOT;77;0 days 00:01:42.086000;2.0;False;HARD;16.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17119;BOT;77;0 days 00:01:41.893000;2.0;False;HARD;17.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17120;BOT;77;0 days 00:01:41.939000;2.0;False;HARD;18.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17121;BOT;77;0 days 00:01:41.951000;2.0;False;HARD;19.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17122;BOT;77;0 days 00:01:41.505000;2.0;False;HARD;20.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17123;BOT;77;0 days 00:01:41.361000;2.0;False;HARD;21.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17124;BOT;77;0 days 00:01:41.552000;2.0;False;HARD;22.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17125;BOT;77;0 days 00:01:41.309000;2.0;True;HARD;23.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17126;BOT;77;0 days 00:01:41.262000;2.0;True;HARD;24.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17127;BOT;77;0 days 00:01:41.388000;2.0;False;HARD;25.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17128;BOT;77;0 days 00:01:41.832000;2.0;False;HARD;26.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17129;BOT;77;0 days 00:01:41.582000;2.0;False;HARD;27.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17130;BOT;77;0 days 00:01:41.773000;2.0;False;HARD;28.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17131;BOT;77;0 days 00:01:41.442000;2.0;False;HARD;29.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17132;BOT;77;0 days 00:01:41.131000;2.0;True;HARD;30.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17133;BOT;77;0 days 00:01:41.324000;2.0;False;HARD;31.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17134;BOT;77;0 days 00:01:41.918000;2.0;False;HARD;32.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17135;BOT;77;0 days 00:01:41.893000;2.0;False;HARD;33.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17136;BOT;77;0 days 00:01:42.318000;2.0;False;HARD;34.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17137;BOT;77;0 days 00:01:42.512000;2.0;False;HARD;35.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17138;BOT;77;0 days 00:01:42.272000;2.0;False;HARD;36.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17139;BOT;77;0 days 00:01:42.445000;2.0;False;HARD;37.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17140;BOT;77;0 days 00:01:41.569000;2.0;False;HARD;38.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17141;BOT;77;0 days 00:01:41.369000;2.0;False;HARD;39.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17142;BOT;77;0 days 00:01:41.722000;2.0;False;HARD;40.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17143;BOT;77;0 days 00:01:42.161000;2.0;False;HARD;41.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17144;BOT;77;0 days 00:01:41.823000;2.0;False;HARD;42.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17145;BOT;77;0 days 00:01:43.072000;2.0;False;HARD;43.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17146;BOT;77;0 days 00:01:41.906000;2.0;False;HARD;44.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17147;BOT;77;0 days 00:01:44.823000;2.0;False;HARD;45.0;True;Mercedes;1;2.0;2020;Abu Dhabi Grand Prix
+17148;GIO;99;0 days 00:01:55.759000;1.0;False;MEDIUM;1.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17149;GIO;99;0 days 00:01:46.822000;1.0;True;MEDIUM;2.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17150;GIO;99;0 days 00:01:45.538000;1.0;True;MEDIUM;3.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17151;GIO;99;0 days 00:01:45.375000;1.0;True;MEDIUM;4.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17152;GIO;99;0 days 00:01:45.775000;1.0;False;MEDIUM;5.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17153;GIO;99;0 days 00:01:46.616000;1.0;False;MEDIUM;6.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17154;GIO;99;0 days 00:01:45.724000;1.0;False;MEDIUM;7.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17155;GIO;99;0 days 00:01:45.605000;1.0;False;MEDIUM;8.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17156;GIO;99;0 days 00:01:46.179000;1.0;False;MEDIUM;9.0;True;Alfa Romeo Racing;2;15.0;2020;Abu Dhabi Grand Prix
+17157;GIO;99;0 days 00:02:21.133000;1.0;False;MEDIUM;10.0;True;Alfa Romeo Racing;26;15.0;2020;Abu Dhabi Grand Prix
+17158;GIO;99;0 days 00:02:22.078000;1.0;False;MEDIUM;11.0;True;Alfa Romeo Racing;64;12.0;2020;Abu Dhabi Grand Prix
+17159;GIO;99;0 days 00:02:22.193000;1.0;False;MEDIUM;12.0;True;Alfa Romeo Racing;4;12.0;2020;Abu Dhabi Grand Prix
+17160;GIO;99;0 days 00:02:23.229000;1.0;False;MEDIUM;13.0;True;Alfa Romeo Racing;4;12.0;2020;Abu Dhabi Grand Prix
+17161;GIO;99;0 days 00:01:46.987000;1.0;False;MEDIUM;14.0;True;Alfa Romeo Racing;1;12.0;2020;Abu Dhabi Grand Prix
+17162;GIO;99;0 days 00:01:46.923000;1.0;False;MEDIUM;15.0;True;Alfa Romeo Racing;1;13.0;2020;Abu Dhabi Grand Prix
+17163;GIO;99;0 days 00:01:46.017000;1.0;False;MEDIUM;16.0;True;Alfa Romeo Racing;1;14.0;2020;Abu Dhabi Grand Prix
+17164;GIO;99;0 days 00:01:46.386000;1.0;False;MEDIUM;17.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17165;GIO;99;0 days 00:01:45.262000;1.0;True;MEDIUM;18.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17166;GIO;99;0 days 00:01:45.074000;1.0;True;MEDIUM;19.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17167;GIO;99;0 days 00:01:45.375000;1.0;False;MEDIUM;20.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17168;GIO;99;0 days 00:01:45.369000;1.0;False;MEDIUM;21.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17169;GIO;99;0 days 00:01:47.130000;1.0;False;MEDIUM;22.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17170;GIO;99;0 days 00:01:45.724000;1.0;False;MEDIUM;23.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17171;GIO;99;0 days 00:01:45.392000;1.0;False;MEDIUM;24.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17172;GIO;99;0 days 00:01:44.960000;1.0;True;MEDIUM;25.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17173;GIO;99;0 days 00:01:45.004000;1.0;False;MEDIUM;26.0;True;Alfa Romeo Racing;1;15.0;2020;Abu Dhabi Grand Prix
+17174;GIO;99;0 days 00:01:46.790000;1.0;False;MEDIUM;27.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17175;GIO;99;0 days 00:02:03.049000;2.0;False;HARD;1.0;True;Alfa Romeo Racing;1;19.0;2020;Abu Dhabi Grand Prix
+17176;GIO;99;0 days 00:01:41.675000;2.0;True;HARD;2.0;True;Alfa Romeo Racing;1;19.0;2020;Abu Dhabi Grand Prix
+17177;GIO;99;0 days 00:01:42.055000;2.0;False;HARD;3.0;True;Alfa Romeo Racing;1;19.0;2020;Abu Dhabi Grand Prix
+17178;GIO;99;0 days 00:01:42.932000;2.0;False;HARD;4.0;True;Alfa Romeo Racing;1;18.0;2020;Abu Dhabi Grand Prix
+17179;GIO;99;0 days 00:01:42.846000;2.0;False;HARD;5.0;True;Alfa Romeo Racing;1;18.0;2020;Abu Dhabi Grand Prix
+17180;GIO;99;0 days 00:01:42.312000;2.0;False;HARD;6.0;True;Alfa Romeo Racing;1;17.0;2020;Abu Dhabi Grand Prix
+17181;GIO;99;0 days 00:01:42.571000;2.0;False;HARD;7.0;True;Alfa Romeo Racing;1;17.0;2020;Abu Dhabi Grand Prix
+17182;GIO;99;0 days 00:01:42.747000;2.0;False;HARD;8.0;True;Alfa Romeo Racing;1;17.0;2020;Abu Dhabi Grand Prix
+17183;GIO;99;0 days 00:01:42.734000;2.0;False;HARD;9.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17184;GIO;99;0 days 00:01:44.874000;2.0;False;HARD;10.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17185;GIO;99;0 days 00:01:42.973000;2.0;False;HARD;11.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17186;GIO;99;0 days 00:01:42.437000;2.0;False;HARD;12.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17187;GIO;99;0 days 00:01:42.440000;2.0;False;HARD;13.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17188;GIO;99;0 days 00:01:42.317000;2.0;False;HARD;14.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17189;GIO;99;0 days 00:01:42.495000;2.0;False;HARD;15.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17190;GIO;99;0 days 00:01:42.523000;2.0;False;HARD;16.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17191;GIO;99;0 days 00:01:43.060000;2.0;False;HARD;17.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17192;GIO;99;0 days 00:01:47.125000;2.0;False;HARD;18.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17193;GIO;99;0 days 00:01:43.064000;2.0;False;HARD;19.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17194;GIO;99;0 days 00:01:43.468000;2.0;False;HARD;20.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17195;GIO;99;0 days 00:01:45.728000;2.0;False;HARD;21.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17196;GIO;99;0 days 00:01:43.708000;2.0;False;HARD;22.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17197;GIO;99;0 days 00:01:43.496000;2.0;False;HARD;23.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17198;GIO;99;0 days 00:01:43.674000;2.0;False;HARD;24.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17199;GIO;99;0 days 00:01:44.230000;2.0;False;HARD;25.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17200;GIO;99;0 days 00:01:43.876000;2.0;False;HARD;26.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix
+17201;GIO;99;0 days 00:01:43.553000;2.0;False;HARD;27.0;True;Alfa Romeo Racing;1;16.0;2020;Abu Dhabi Grand Prix

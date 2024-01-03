@@ -20298,3 +20298,1008 @@
 20296;BOT;77;0 days 00:01:15.674000;3.0;False;SOFT;24.0;True;Alfa Romeo;1;9.0;2022;São Paulo Grand Prix
 20297;BOT;77;0 days 00:01:15.756000;3.0;False;SOFT;25.0;True;Alfa Romeo;1;9.0;2022;São Paulo Grand Prix
 20298;BOT;77;0 days 00:01:15.966000;3.0;False;SOFT;26.0;True;Alfa Romeo;1;9.0;2022;São Paulo Grand Prix
+20299;VER;1;0 days 00:01:32.198000;1.0;False;MEDIUM;1.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20300;VER;1;0 days 00:01:30.541000;1.0;True;MEDIUM;2.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20301;VER;1;0 days 00:01:29.968000;1.0;True;MEDIUM;3.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20302;VER;1;0 days 00:01:30.368000;1.0;False;MEDIUM;4.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20303;VER;1;0 days 00:01:30.502000;1.0;False;MEDIUM;5.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20304;VER;1;0 days 00:01:30.567000;1.0;False;MEDIUM;6.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20305;VER;1;0 days 00:01:30.661000;1.0;False;MEDIUM;7.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20306;VER;1;0 days 00:01:30.691000;1.0;False;MEDIUM;8.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20307;VER;1;0 days 00:01:30.601000;1.0;False;MEDIUM;9.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20308;VER;1;0 days 00:01:30.621000;1.0;False;MEDIUM;10.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20309;VER;1;0 days 00:01:30.798000;1.0;False;MEDIUM;11.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20310;VER;1;0 days 00:01:30.921000;1.0;False;MEDIUM;12.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20311;VER;1;0 days 00:01:30.747000;1.0;False;MEDIUM;13.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20312;VER;1;0 days 00:01:30.966000;1.0;False;MEDIUM;14.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20313;VER;1;0 days 00:01:31.023000;1.0;False;MEDIUM;15.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20314;VER;1;0 days 00:01:31.245000;1.0;False;MEDIUM;16.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20315;VER;1;0 days 00:01:31.592000;1.0;False;MEDIUM;17.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20316;VER;1;0 days 00:01:31.598000;1.0;False;MEDIUM;18.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20317;VER;1;0 days 00:01:31.882000;1.0;False;MEDIUM;19.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20318;VER;1;0 days 00:01:34.033000;1.0;False;MEDIUM;20.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20319;VER;1;0 days 00:01:51.197000;2.0;False;HARD;1.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20320;VER;1;0 days 00:01:30.660000;2.0;False;HARD;2.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20321;VER;1;0 days 00:01:30.671000;2.0;False;HARD;3.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20322;VER;1;0 days 00:01:30.955000;2.0;False;HARD;4.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20323;VER;1;0 days 00:01:30.803000;2.0;False;HARD;5.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20324;VER;1;0 days 00:01:30.892000;2.0;False;HARD;6.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20325;VER;1;0 days 00:01:30.610000;2.0;False;HARD;7.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20326;VER;1;0 days 00:01:30.443000;2.0;False;HARD;8.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20327;VER;1;0 days 00:01:30.271000;2.0;False;HARD;9.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20328;VER;1;0 days 00:01:29.936000;2.0;True;HARD;10.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20329;VER;1;0 days 00:01:30.063000;2.0;False;HARD;11.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20330;VER;1;0 days 00:01:29.924000;2.0;True;HARD;12.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20331;VER;1;0 days 00:01:29.808000;2.0;True;HARD;13.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20332;VER;1;0 days 00:01:29.891000;2.0;False;HARD;14.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20333;VER;1;0 days 00:01:30.109000;2.0;False;HARD;15.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20334;VER;1;0 days 00:01:29.886000;2.0;False;HARD;16.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20335;VER;1;0 days 00:01:30.116000;2.0;False;HARD;17.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20336;VER;1;0 days 00:01:30.160000;2.0;False;HARD;18.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20337;VER;1;0 days 00:01:30.027000;2.0;False;HARD;19.0;True;Red Bull Racing;2;1.0;2022;Abu Dhabi Grand Prix
+20338;VER;1;0 days 00:01:30.019000;2.0;False;HARD;20.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20339;VER;1;0 days 00:01:30.048000;2.0;False;HARD;21.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20340;VER;1;0 days 00:01:29.885000;2.0;False;HARD;22.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20341;VER;1;0 days 00:01:29.897000;2.0;False;HARD;23.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20342;VER;1;0 days 00:01:29.883000;2.0;False;HARD;24.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20343;VER;1;0 days 00:01:29.929000;2.0;False;HARD;25.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20344;VER;1;0 days 00:01:29.725000;2.0;True;HARD;26.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20345;VER;1;0 days 00:01:30.019000;2.0;False;HARD;27.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20346;VER;1;0 days 00:01:29.971000;2.0;False;HARD;28.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20347;VER;1;0 days 00:01:29.959000;2.0;False;HARD;29.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20348;VER;1;0 days 00:01:29.803000;2.0;False;HARD;30.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20349;VER;1;0 days 00:01:29.666000;2.0;True;HARD;31.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20350;VER;1;0 days 00:01:30.461000;2.0;False;HARD;32.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20351;VER;1;0 days 00:01:30.065000;2.0;False;HARD;33.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20352;VER;1;0 days 00:01:29.392000;2.0;True;HARD;34.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20353;VER;1;0 days 00:01:29.715000;2.0;False;HARD;35.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20354;VER;1;0 days 00:01:29.844000;2.0;False;HARD;36.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20355;VER;1;0 days 00:01:29.891000;2.0;False;HARD;37.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20356;VER;1;0 days 00:01:29.797000;2.0;False;HARD;38.0;True;Red Bull Racing;1;1.0;2022;Abu Dhabi Grand Prix
+20357;LEC;16;0 days 00:01:34.192000;1.0;False;MEDIUM;1.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20358;LEC;16;0 days 00:01:30.996000;1.0;True;MEDIUM;2.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20359;LEC;16;0 days 00:01:30.418000;1.0;True;MEDIUM;3.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20360;LEC;16;0 days 00:01:31.167000;1.0;False;MEDIUM;4.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20361;LEC;16;0 days 00:01:31.356000;1.0;False;MEDIUM;5.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20362;LEC;16;0 days 00:01:31.087000;1.0;False;MEDIUM;6.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20363;LEC;16;0 days 00:01:30.861000;1.0;False;MEDIUM;7.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20364;LEC;16;0 days 00:01:30.886000;1.0;False;MEDIUM;8.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20365;LEC;16;0 days 00:01:30.783000;1.0;False;MEDIUM;9.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20366;LEC;16;0 days 00:01:31.147000;1.0;False;MEDIUM;10.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20367;LEC;16;0 days 00:01:31.039000;1.0;False;MEDIUM;11.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20368;LEC;16;0 days 00:01:31.252000;1.0;False;MEDIUM;12.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20369;LEC;16;0 days 00:01:30.920000;1.0;False;MEDIUM;13.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20370;LEC;16;0 days 00:01:31.131000;1.0;False;MEDIUM;14.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20371;LEC;16;0 days 00:01:31.731000;1.0;False;MEDIUM;15.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20372;LEC;16;0 days 00:01:31.237000;1.0;False;MEDIUM;16.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20373;LEC;16;0 days 00:01:31.454000;1.0;False;MEDIUM;17.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20374;LEC;16;0 days 00:01:31.443000;1.0;False;MEDIUM;18.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20375;LEC;16;0 days 00:01:31.740000;1.0;False;MEDIUM;19.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20376;LEC;16;0 days 00:01:31.891000;1.0;False;MEDIUM;20.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20377;LEC;16;0 days 00:01:33.538000;1.0;False;MEDIUM;21.0;True;Ferrari;1;1.0;2022;Abu Dhabi Grand Prix
+20378;LEC;16;0 days 00:01:51.201000;2.0;False;HARD;1.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20379;LEC;16;0 days 00:01:29.886000;2.0;True;HARD;2.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20380;LEC;16;0 days 00:01:30.465000;2.0;False;HARD;3.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20381;LEC;16;0 days 00:01:30.488000;2.0;False;HARD;4.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20382;LEC;16;0 days 00:01:30.421000;2.0;False;HARD;5.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20383;LEC;16;0 days 00:01:30.095000;2.0;False;HARD;6.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20384;LEC;16;0 days 00:01:29.744000;2.0;True;HARD;7.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20385;LEC;16;0 days 00:01:29.980000;2.0;False;HARD;8.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20386;LEC;16;0 days 00:01:30.103000;2.0;False;HARD;9.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20387;LEC;16;0 days 00:01:29.874000;2.0;False;HARD;10.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20388;LEC;16;0 days 00:01:29.795000;2.0;False;HARD;11.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20389;LEC;16;0 days 00:01:30.270000;2.0;False;HARD;12.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20390;LEC;16;0 days 00:01:30.170000;2.0;False;HARD;13.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20391;LEC;16;0 days 00:01:30.017000;2.0;False;HARD;14.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20392;LEC;16;0 days 00:01:30.143000;2.0;False;HARD;15.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20393;LEC;16;0 days 00:01:30.230000;2.0;False;HARD;16.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20394;LEC;16;0 days 00:01:30.412000;2.0;False;HARD;17.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20395;LEC;16;0 days 00:01:31.295000;2.0;False;HARD;18.0;True;Ferrari;2;2.0;2022;Abu Dhabi Grand Prix
+20396;LEC;16;0 days 00:01:30.312000;2.0;False;HARD;19.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20397;LEC;16;0 days 00:01:30.056000;2.0;False;HARD;20.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20398;LEC;16;0 days 00:01:30.135000;2.0;False;HARD;21.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20399;LEC;16;0 days 00:01:29.813000;2.0;False;HARD;22.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20400;LEC;16;0 days 00:01:29.958000;2.0;False;HARD;23.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20401;LEC;16;0 days 00:01:29.853000;2.0;False;HARD;24.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20402;LEC;16;0 days 00:01:30.159000;2.0;False;HARD;25.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20403;LEC;16;0 days 00:01:30.215000;2.0;False;HARD;26.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20404;LEC;16;0 days 00:01:29.719000;2.0;True;HARD;27.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20405;LEC;16;0 days 00:01:29.875000;2.0;False;HARD;28.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20406;LEC;16;0 days 00:01:29.736000;2.0;False;HARD;29.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20407;LEC;16;0 days 00:01:29.782000;2.0;False;HARD;30.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20408;LEC;16;0 days 00:01:29.727000;2.0;False;HARD;31.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20409;LEC;16;0 days 00:01:29.879000;2.0;False;HARD;32.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20410;LEC;16;0 days 00:01:30.095000;2.0;False;HARD;33.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20411;LEC;16;0 days 00:01:30.151000;2.0;False;HARD;34.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20412;LEC;16;0 days 00:01:30.033000;2.0;False;HARD;35.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20413;LEC;16;0 days 00:01:29.829000;2.0;False;HARD;36.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20414;LEC;16;0 days 00:01:30.500000;2.0;False;HARD;37.0;True;Ferrari;1;2.0;2022;Abu Dhabi Grand Prix
+20415;PER;11;0 days 00:01:33.251000;1.0;False;MEDIUM;1.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20416;PER;11;0 days 00:01:30.579000;1.0;True;MEDIUM;2.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20417;PER;11;0 days 00:01:30.272000;1.0;True;MEDIUM;3.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20418;PER;11;0 days 00:01:30.879000;1.0;False;MEDIUM;4.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20419;PER;11;0 days 00:01:30.927000;1.0;False;MEDIUM;5.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20420;PER;11;0 days 00:01:30.635000;1.0;False;MEDIUM;6.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20421;PER;11;0 days 00:01:30.612000;1.0;False;MEDIUM;7.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20422;PER;11;0 days 00:01:30.666000;1.0;False;MEDIUM;8.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20423;PER;11;0 days 00:01:30.971000;1.0;False;MEDIUM;9.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20424;PER;11;0 days 00:01:31.071000;1.0;False;MEDIUM;10.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20425;PER;11;0 days 00:01:31.167000;1.0;False;MEDIUM;11.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20426;PER;11;0 days 00:01:31.407000;1.0;False;MEDIUM;12.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20427;PER;11;0 days 00:01:31.494000;1.0;False;MEDIUM;13.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20428;PER;11;0 days 00:01:31.990000;1.0;False;MEDIUM;14.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20429;PER;11;0 days 00:01:34.430000;1.0;False;MEDIUM;15.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20430;PER;11;0 days 00:01:52.141000;2.0;False;HARD;1.0;True;Red Bull Racing;1;6.0;2022;Abu Dhabi Grand Prix
+20431;PER;11;0 days 00:01:30.226000;2.0;True;HARD;2.0;True;Red Bull Racing;1;5.0;2022;Abu Dhabi Grand Prix
+20432;PER;11;0 days 00:01:30.185000;2.0;True;HARD;3.0;True;Red Bull Racing;1;4.0;2022;Abu Dhabi Grand Prix
+20433;PER;11;0 days 00:01:29.798000;2.0;True;HARD;4.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20434;PER;11;0 days 00:01:30.583000;2.0;False;HARD;5.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20435;PER;11;0 days 00:01:30.673000;2.0;False;HARD;6.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20436;PER;11;0 days 00:01:31.316000;2.0;False;HARD;7.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20437;PER;11;0 days 00:01:31.170000;2.0;False;HARD;8.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20438;PER;11;0 days 00:01:30.927000;2.0;False;HARD;9.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20439;PER;11;0 days 00:01:30.833000;2.0;False;HARD;10.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20440;PER;11;0 days 00:01:30.362000;2.0;False;HARD;11.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20441;PER;11;0 days 00:01:30.697000;2.0;False;HARD;12.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20442;PER;11;0 days 00:01:30.538000;2.0;False;HARD;13.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20443;PER;11;0 days 00:01:30.470000;2.0;False;HARD;14.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20444;PER;11;0 days 00:01:30.034000;2.0;False;HARD;15.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20445;PER;11;0 days 00:01:30.142000;2.0;False;HARD;16.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20446;PER;11;0 days 00:01:30.338000;2.0;False;HARD;17.0;True;Red Bull Racing;1;2.0;2022;Abu Dhabi Grand Prix
+20447;PER;11;0 days 00:01:32.299000;2.0;False;HARD;18.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20448;PER;11;0 days 00:01:49.463000;3.0;False;HARD;1.0;True;Red Bull Racing;1;6.0;2022;Abu Dhabi Grand Prix
+20449;PER;11;0 days 00:01:29.212000;3.0;True;HARD;2.0;True;Red Bull Racing;1;6.0;2022;Abu Dhabi Grand Prix
+20450;PER;11;0 days 00:01:29.199000;3.0;True;HARD;3.0;True;Red Bull Racing;1;6.0;2022;Abu Dhabi Grand Prix
+20451;PER;11;0 days 00:01:29.065000;3.0;True;HARD;4.0;True;Red Bull Racing;1;6.0;2022;Abu Dhabi Grand Prix
+20452;PER;11;0 days 00:01:29.153000;3.0;False;HARD;5.0;True;Red Bull Racing;2;6.0;2022;Abu Dhabi Grand Prix
+20453;PER;11;0 days 00:01:29.471000;3.0;False;HARD;6.0;True;Red Bull Racing;2;6.0;2022;Abu Dhabi Grand Prix
+20454;PER;11;0 days 00:01:29.355000;3.0;False;HARD;7.0;True;Red Bull Racing;1;4.0;2022;Abu Dhabi Grand Prix
+20455;PER;11;0 days 00:01:29.192000;3.0;False;HARD;8.0;True;Red Bull Racing;1;4.0;2022;Abu Dhabi Grand Prix
+20456;PER;11;0 days 00:01:29.150000;3.0;False;HARD;9.0;True;Red Bull Racing;1;4.0;2022;Abu Dhabi Grand Prix
+20457;PER;11;0 days 00:01:29.260000;3.0;False;HARD;10.0;True;Red Bull Racing;1;4.0;2022;Abu Dhabi Grand Prix
+20458;PER;11;0 days 00:01:29.522000;3.0;False;HARD;11.0;True;Red Bull Racing;1;4.0;2022;Abu Dhabi Grand Prix
+20459;PER;11;0 days 00:01:30.257000;3.0;False;HARD;12.0;True;Red Bull Racing;1;4.0;2022;Abu Dhabi Grand Prix
+20460;PER;11;0 days 00:01:29.373000;3.0;False;HARD;13.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20461;PER;11;0 days 00:01:29.217000;3.0;False;HARD;14.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20462;PER;11;0 days 00:01:29.234000;3.0;False;HARD;15.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20463;PER;11;0 days 00:01:29.089000;3.0;False;HARD;16.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20464;PER;11;0 days 00:01:29.253000;3.0;False;HARD;17.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20465;PER;11;0 days 00:01:29.159000;3.0;False;HARD;18.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20466;PER;11;0 days 00:01:28.972000;3.0;True;HARD;19.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20467;PER;11;0 days 00:01:29.096000;3.0;False;HARD;20.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20468;PER;11;0 days 00:01:29.152000;3.0;False;HARD;21.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20469;PER;11;0 days 00:01:29.205000;3.0;False;HARD;22.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20470;PER;11;0 days 00:01:29.446000;3.0;False;HARD;23.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20471;PER;11;0 days 00:01:29.573000;3.0;False;HARD;24.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20472;PER;11;0 days 00:01:29.856000;3.0;False;HARD;25.0;True;Red Bull Racing;1;3.0;2022;Abu Dhabi Grand Prix
+20473;SAI;55;0 days 00:01:35.436000;1.0;False;MEDIUM;1.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20474;SAI;55;0 days 00:01:31.332000;1.0;True;MEDIUM;2.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20475;SAI;55;0 days 00:01:30.946000;1.0;True;MEDIUM;3.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20476;SAI;55;0 days 00:01:30.987000;1.0;False;MEDIUM;4.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20477;SAI;55;0 days 00:01:31.980000;1.0;False;MEDIUM;5.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20478;SAI;55;0 days 00:01:31.270000;1.0;False;MEDIUM;6.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20479;SAI;55;0 days 00:01:31.408000;1.0;False;MEDIUM;7.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20480;SAI;55;0 days 00:01:30.685000;1.0;True;MEDIUM;8.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20481;SAI;55;0 days 00:01:30.874000;1.0;False;MEDIUM;9.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20482;SAI;55;0 days 00:01:31.075000;1.0;False;MEDIUM;10.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20483;SAI;55;0 days 00:01:31.140000;1.0;False;MEDIUM;11.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20484;SAI;55;0 days 00:01:31.296000;1.0;False;MEDIUM;12.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20485;SAI;55;0 days 00:01:31.269000;1.0;False;MEDIUM;13.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20486;SAI;55;0 days 00:01:31.515000;1.0;False;MEDIUM;14.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20487;SAI;55;0 days 00:01:31.534000;1.0;False;MEDIUM;15.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20488;SAI;55;0 days 00:01:31.426000;1.0;False;MEDIUM;16.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20489;SAI;55;0 days 00:01:34.037000;1.0;False;MEDIUM;17.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20490;SAI;55;0 days 00:01:50.912000;2.0;False;HARD;1.0;True;Ferrari;1;7.0;2022;Abu Dhabi Grand Prix
+20491;SAI;55;0 days 00:01:31.373000;2.0;False;HARD;2.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20492;SAI;55;0 days 00:01:30.658000;2.0;True;HARD;3.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20493;SAI;55;0 days 00:01:30.547000;2.0;True;HARD;4.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20494;SAI;55;0 days 00:01:31.006000;2.0;False;HARD;5.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20495;SAI;55;0 days 00:01:30.543000;2.0;True;HARD;6.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20496;SAI;55;0 days 00:01:30.528000;2.0;True;HARD;7.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20497;SAI;55;0 days 00:01:30.470000;2.0;True;HARD;8.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20498;SAI;55;0 days 00:01:30.379000;2.0;True;HARD;9.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20499;SAI;55;0 days 00:01:30.682000;2.0;False;HARD;10.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20500;SAI;55;0 days 00:01:30.179000;2.0;True;HARD;11.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20501;SAI;55;0 days 00:01:30.294000;2.0;False;HARD;12.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20502;SAI;55;0 days 00:01:30.479000;2.0;False;HARD;13.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20503;SAI;55;0 days 00:01:30.842000;2.0;False;HARD;14.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20504;SAI;55;0 days 00:01:30.297000;2.0;False;HARD;15.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20505;SAI;55;0 days 00:01:30.491000;2.0;False;HARD;16.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20506;SAI;55;0 days 00:01:30.318000;2.0;False;HARD;17.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20507;SAI;55;0 days 00:01:30.169000;2.0;True;HARD;18.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20508;SAI;55;0 days 00:01:30.268000;2.0;False;HARD;19.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20509;SAI;55;0 days 00:01:30.469000;2.0;False;HARD;20.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20510;SAI;55;0 days 00:01:30.333000;2.0;False;HARD;21.0;True;Ferrari;1;3.0;2022;Abu Dhabi Grand Prix
+20511;SAI;55;0 days 00:01:32.309000;2.0;False;HARD;22.0;True;Ferrari;2;3.0;2022;Abu Dhabi Grand Prix
+20512;SAI;55;0 days 00:01:49.607000;3.0;False;HARD;1.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20513;SAI;55;0 days 00:01:29.537000;3.0;True;HARD;2.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20514;SAI;55;0 days 00:01:29.318000;3.0;True;HARD;3.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20515;SAI;55;0 days 00:01:29.247000;3.0;True;HARD;4.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20516;SAI;55;0 days 00:01:29.098000;3.0;True;HARD;5.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20517;SAI;55;0 days 00:01:28.978000;3.0;True;HARD;6.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20518;SAI;55;0 days 00:01:29.133000;3.0;False;HARD;7.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20519;SAI;55;0 days 00:01:29.252000;3.0;False;HARD;8.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20520;SAI;55;0 days 00:01:29.102000;3.0;False;HARD;9.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20521;SAI;55;0 days 00:01:29.518000;3.0;False;HARD;10.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20522;SAI;55;0 days 00:01:28.879000;3.0;True;HARD;11.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20523;SAI;55;0 days 00:01:29.274000;3.0;False;HARD;12.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20524;SAI;55;0 days 00:01:29.291000;3.0;False;HARD;13.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20525;SAI;55;0 days 00:01:29.368000;3.0;False;HARD;14.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20526;SAI;55;0 days 00:01:29.919000;3.0;False;HARD;15.0;True;Ferrari;1;5.0;2022;Abu Dhabi Grand Prix
+20527;SAI;55;0 days 00:01:30.048000;3.0;False;HARD;16.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20528;SAI;55;0 days 00:01:29.595000;3.0;False;HARD;17.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20529;SAI;55;0 days 00:01:29.980000;3.0;False;HARD;18.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20530;SAI;55;0 days 00:01:29.906000;3.0;False;HARD;19.0;True;Ferrari;1;4.0;2022;Abu Dhabi Grand Prix
+20531;RUS;63;0 days 00:01:36.506000;1.0;False;MEDIUM;1.0;True;Mercedes;1;7.0;2022;Abu Dhabi Grand Prix
+20532;RUS;63;0 days 00:01:31.786000;1.0;True;MEDIUM;2.0;True;Mercedes;1;7.0;2022;Abu Dhabi Grand Prix
+20533;RUS;63;0 days 00:01:31.189000;1.0;True;MEDIUM;3.0;True;Mercedes;1;7.0;2022;Abu Dhabi Grand Prix
+20534;RUS;63;0 days 00:01:31.243000;1.0;False;MEDIUM;4.0;True;Mercedes;1;7.0;2022;Abu Dhabi Grand Prix
+20535;RUS;63;0 days 00:01:30.631000;1.0;True;MEDIUM;5.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20536;RUS;63;0 days 00:01:31.229000;1.0;False;MEDIUM;6.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20537;RUS;63;0 days 00:01:31.524000;1.0;False;MEDIUM;7.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20538;RUS;63;0 days 00:01:31.483000;1.0;False;MEDIUM;8.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20539;RUS;63;0 days 00:01:30.768000;1.0;False;MEDIUM;9.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20540;RUS;63;0 days 00:01:31.421000;1.0;False;MEDIUM;10.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20541;RUS;63;0 days 00:01:31.371000;1.0;False;MEDIUM;11.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20542;RUS;63;0 days 00:01:31.719000;1.0;False;MEDIUM;12.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20543;RUS;63;0 days 00:01:31.531000;1.0;False;MEDIUM;13.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20544;RUS;63;0 days 00:01:32.115000;1.0;False;MEDIUM;14.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20545;RUS;63;0 days 00:01:33.785000;1.0;False;MEDIUM;15.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20546;RUS;63;0 days 00:01:52.837000;2.0;False;HARD;1.0;True;Mercedes;1;9.0;2022;Abu Dhabi Grand Prix
+20547;RUS;63;0 days 00:01:29.864000;2.0;True;HARD;2.0;True;Mercedes;1;9.0;2022;Abu Dhabi Grand Prix
+20548;RUS;63;0 days 00:01:30.575000;2.0;False;HARD;3.0;True;Mercedes;1;8.0;2022;Abu Dhabi Grand Prix
+20549;RUS;63;0 days 00:01:30.853000;2.0;False;HARD;4.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20550;RUS;63;0 days 00:01:31.393000;2.0;False;HARD;5.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20551;RUS;63;0 days 00:01:30.937000;2.0;False;HARD;6.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20552;RUS;63;0 days 00:01:30.553000;2.0;False;HARD;7.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20553;RUS;63;0 days 00:01:30.663000;2.0;False;HARD;8.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20554;RUS;63;0 days 00:01:30.765000;2.0;False;HARD;9.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20555;RUS;63;0 days 00:01:30.665000;2.0;False;HARD;10.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20556;RUS;63;0 days 00:01:30.400000;2.0;False;HARD;11.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20557;RUS;63;0 days 00:01:30.195000;2.0;False;HARD;12.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20558;RUS;63;0 days 00:01:30.502000;2.0;False;HARD;13.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20559;RUS;63;0 days 00:01:30.471000;2.0;False;HARD;14.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20560;RUS;63;0 days 00:01:30.386000;2.0;False;HARD;15.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20561;RUS;63;0 days 00:01:30.522000;2.0;False;HARD;16.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20562;RUS;63;0 days 00:01:30.364000;2.0;False;HARD;17.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20563;RUS;63;0 days 00:01:30.184000;2.0;False;HARD;18.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20564;RUS;63;0 days 00:01:30.388000;2.0;False;HARD;19.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+20565;RUS;63;0 days 00:01:30.499000;2.0;False;HARD;20.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+20566;RUS;63;0 days 00:01:30.368000;2.0;False;HARD;21.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+20567;RUS;63;0 days 00:01:30.425000;2.0;False;HARD;22.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+20568;RUS;63;0 days 00:01:30.395000;2.0;False;HARD;23.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+20569;RUS;63;0 days 00:01:32.517000;2.0;False;HARD;24.0;True;Mercedes;2;5.0;2022;Abu Dhabi Grand Prix
+20570;RUS;63;0 days 00:01:55.116000;3.0;False;MEDIUM;1.0;True;Mercedes;1;8.0;2022;Abu Dhabi Grand Prix
+20571;RUS;63;0 days 00:01:29.042000;3.0;True;MEDIUM;2.0;True;Mercedes;1;7.0;2022;Abu Dhabi Grand Prix
+20572;RUS;63;0 days 00:01:29.069000;3.0;False;MEDIUM;3.0;True;Mercedes;1;7.0;2022;Abu Dhabi Grand Prix
+20573;RUS;63;0 days 00:01:28.895000;3.0;True;MEDIUM;4.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20574;RUS;63;0 days 00:01:28.842000;3.0;True;MEDIUM;5.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20575;RUS;63;0 days 00:01:28.847000;3.0;False;MEDIUM;6.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20576;RUS;63;0 days 00:01:28.919000;3.0;False;MEDIUM;7.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20577;RUS;63;0 days 00:01:28.872000;3.0;False;MEDIUM;8.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20578;RUS;63;0 days 00:01:28.836000;3.0;True;MEDIUM;9.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20579;RUS;63;0 days 00:01:28.998000;3.0;False;MEDIUM;10.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20580;RUS;63;0 days 00:01:29.004000;3.0;False;MEDIUM;11.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20581;RUS;63;0 days 00:01:29.038000;3.0;False;MEDIUM;12.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20582;RUS;63;0 days 00:01:28.981000;3.0;False;MEDIUM;13.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20583;RUS;63;0 days 00:01:29.401000;3.0;False;MEDIUM;14.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20584;RUS;63;0 days 00:01:29.828000;3.0;False;MEDIUM;15.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+20585;RUS;63;0 days 00:01:31.157000;3.0;False;MEDIUM;16.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20586;RUS;63;0 days 00:01:31.217000;3.0;False;MEDIUM;17.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20587;RUS;63;0 days 00:01:31.165000;3.0;False;MEDIUM;18.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20588;RUS;63;0 days 00:01:31.553000;3.0;False;MEDIUM;19.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+20589;NOR;4;0 days 00:01:35.908000;1.0;False;MEDIUM;1.0;True;McLaren;1;6.0;2022;Abu Dhabi Grand Prix
+20590;NOR;4;0 days 00:01:31.693000;1.0;True;MEDIUM;2.0;True;McLaren;1;6.0;2022;Abu Dhabi Grand Prix
+20591;NOR;4;0 days 00:01:31.188000;1.0;True;MEDIUM;3.0;True;McLaren;1;6.0;2022;Abu Dhabi Grand Prix
+20592;NOR;4;0 days 00:01:31.266000;1.0;False;MEDIUM;4.0;True;McLaren;1;6.0;2022;Abu Dhabi Grand Prix
+20593;NOR;4;0 days 00:01:32.208000;1.0;False;MEDIUM;5.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20594;NOR;4;0 days 00:01:31.932000;1.0;False;MEDIUM;6.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20595;NOR;4;0 days 00:01:31.643000;1.0;False;MEDIUM;7.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20596;NOR;4;0 days 00:01:31.912000;1.0;False;MEDIUM;8.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20597;NOR;4;0 days 00:01:32.178000;1.0;False;MEDIUM;9.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20598;NOR;4;0 days 00:01:32.041000;1.0;False;MEDIUM;10.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20599;NOR;4;0 days 00:01:32.319000;1.0;False;MEDIUM;11.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20600;NOR;4;0 days 00:01:32.398000;1.0;False;MEDIUM;12.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20601;NOR;4;0 days 00:01:32.514000;1.0;False;MEDIUM;13.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20602;NOR;4;0 days 00:01:32.640000;1.0;False;MEDIUM;14.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20603;NOR;4;0 days 00:01:34.516000;1.0;False;MEDIUM;15.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20604;NOR;4;0 days 00:01:52.106000;2.0;False;HARD;1.0;True;McLaren;1;12.0;2022;Abu Dhabi Grand Prix
+20605;NOR;4;0 days 00:01:30.832000;2.0;True;HARD;2.0;True;McLaren;1;11.0;2022;Abu Dhabi Grand Prix
+20606;NOR;4;0 days 00:01:30.532000;2.0;True;HARD;3.0;True;McLaren;1;10.0;2022;Abu Dhabi Grand Prix
+20607;NOR;4;0 days 00:01:30.950000;2.0;False;HARD;4.0;True;McLaren;1;10.0;2022;Abu Dhabi Grand Prix
+20608;NOR;4;0 days 00:01:30.889000;2.0;False;HARD;5.0;True;McLaren;1;8.0;2022;Abu Dhabi Grand Prix
+20609;NOR;4;0 days 00:01:30.741000;2.0;False;HARD;6.0;True;McLaren;1;8.0;2022;Abu Dhabi Grand Prix
+20610;NOR;4;0 days 00:01:30.809000;2.0;False;HARD;7.0;True;McLaren;1;8.0;2022;Abu Dhabi Grand Prix
+20611;NOR;4;0 days 00:01:30.925000;2.0;False;HARD;8.0;True;McLaren;1;8.0;2022;Abu Dhabi Grand Prix
+20612;NOR;4;0 days 00:01:30.733000;2.0;False;HARD;9.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20613;NOR;4;0 days 00:01:30.920000;2.0;False;HARD;10.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20614;NOR;4;0 days 00:01:31.115000;2.0;False;HARD;11.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20615;NOR;4;0 days 00:01:30.930000;2.0;False;HARD;12.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20616;NOR;4;0 days 00:01:31.065000;2.0;False;HARD;13.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20617;NOR;4;0 days 00:01:31.228000;2.0;False;HARD;14.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20618;NOR;4;0 days 00:01:31.109000;2.0;False;HARD;15.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20619;NOR;4;0 days 00:01:31.216000;2.0;False;HARD;16.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20620;NOR;4;0 days 00:01:31.144000;2.0;False;HARD;17.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20621;NOR;4;0 days 00:01:31.046000;2.0;False;HARD;18.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20622;NOR;4;0 days 00:01:31.088000;2.0;False;HARD;19.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20623;NOR;4;0 days 00:01:30.871000;2.0;False;HARD;20.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20624;NOR;4;0 days 00:01:31.309000;2.0;False;HARD;21.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20625;NOR;4;0 days 00:01:30.821000;2.0;False;HARD;22.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20626;NOR;4;0 days 00:01:31.146000;2.0;False;HARD;23.0;True;McLaren;2;7.0;2022;Abu Dhabi Grand Prix
+20627;NOR;4;0 days 00:01:31.223000;2.0;False;HARD;24.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20628;NOR;4;0 days 00:01:31.502000;2.0;False;HARD;25.0;True;McLaren;1;6.0;2022;Abu Dhabi Grand Prix
+20629;NOR;4;0 days 00:01:31.066000;2.0;False;HARD;26.0;True;McLaren;1;6.0;2022;Abu Dhabi Grand Prix
+20630;NOR;4;0 days 00:01:33.097000;2.0;False;HARD;27.0;True;McLaren;1;6.0;2022;Abu Dhabi Grand Prix
+20631;NOR;4;0 days 00:01:49.507000;3.0;False;MEDIUM;1.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20632;NOR;4;0 days 00:01:28.391000;3.0;True;MEDIUM;2.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20633;NOR;4;0 days 00:01:28.688000;3.0;False;MEDIUM;3.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20634;NOR;4;0 days 00:01:28.791000;3.0;False;MEDIUM;4.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20635;NOR;4;0 days 00:01:28.478000;3.0;False;MEDIUM;5.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20636;NOR;4;0 days 00:01:29.221000;3.0;False;MEDIUM;6.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20637;NOR;4;0 days 00:01:28.956000;3.0;False;MEDIUM;7.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20638;NOR;4;0 days 00:01:29.495000;3.0;False;MEDIUM;8.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20639;NOR;4;0 days 00:01:29.496000;3.0;False;MEDIUM;9.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20640;NOR;4;0 days 00:01:29.785000;3.0;False;MEDIUM;10.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20641;NOR;4;0 days 00:01:30.164000;3.0;False;MEDIUM;11.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20642;NOR;4;0 days 00:01:30.631000;3.0;False;MEDIUM;12.0;True;McLaren;1;7.0;2022;Abu Dhabi Grand Prix
+20643;NOR;4;0 days 00:01:30.825000;3.0;False;MEDIUM;13.0;True;McLaren;1;6.0;2022;Abu Dhabi Grand Prix
+20644;NOR;4;0 days 00:01:30.931000;3.0;False;MEDIUM;14.0;True;McLaren;1;6.0;2022;Abu Dhabi Grand Prix
+20645;NOR;4;0 days 00:01:30.884000;3.0;False;MEDIUM;15.0;True;McLaren;1;6.0;2022;Abu Dhabi Grand Prix
+20646;NOR;4;0 days 00:01:31.136000;3.0;False;MEDIUM;16.0;True;McLaren;1;6.0;2022;Abu Dhabi Grand Prix
+20647;OCO;31;0 days 00:01:36.964000;1.0;False;MEDIUM;1.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20648;OCO;31;0 days 00:01:32.136000;1.0;True;MEDIUM;2.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20649;OCO;31;0 days 00:01:31.385000;1.0;True;MEDIUM;3.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20650;OCO;31;0 days 00:01:31.427000;1.0;False;MEDIUM;4.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20651;OCO;31;0 days 00:01:31.722000;1.0;False;MEDIUM;5.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20652;OCO;31;0 days 00:01:31.982000;1.0;False;MEDIUM;6.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20653;OCO;31;0 days 00:01:31.762000;1.0;False;MEDIUM;7.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20654;OCO;31;0 days 00:01:32.711000;1.0;False;MEDIUM;8.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20655;OCO;31;0 days 00:01:32.592000;1.0;False;MEDIUM;9.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20656;OCO;31;0 days 00:01:32.577000;1.0;False;MEDIUM;10.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20657;OCO;31;0 days 00:01:32.393000;1.0;False;MEDIUM;11.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20658;OCO;31;0 days 00:01:32.745000;1.0;False;MEDIUM;12.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20659;OCO;31;0 days 00:01:32.751000;1.0;False;MEDIUM;13.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20660;OCO;31;0 days 00:01:34.944000;1.0;False;MEDIUM;14.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+20661;OCO;31;0 days 00:01:51.540000;2.0;False;HARD;1.0;True;Alpine;1;14.0;2022;Abu Dhabi Grand Prix
+20662;OCO;31;0 days 00:01:31.460000;2.0;False;HARD;2.0;True;Alpine;1;13.0;2022;Abu Dhabi Grand Prix
+20663;OCO;31;0 days 00:01:31.134000;2.0;True;HARD;3.0;True;Alpine;1;13.0;2022;Abu Dhabi Grand Prix
+20664;OCO;31;0 days 00:01:31.516000;2.0;False;HARD;4.0;True;Alpine;1;13.0;2022;Abu Dhabi Grand Prix
+20665;OCO;31;0 days 00:01:30.835000;2.0;True;HARD;5.0;True;Alpine;1;11.0;2022;Abu Dhabi Grand Prix
+20666;OCO;31;0 days 00:01:31.355000;2.0;False;HARD;6.0;True;Alpine;1;9.0;2022;Abu Dhabi Grand Prix
+20667;OCO;31;0 days 00:01:31.117000;2.0;False;HARD;7.0;True;Alpine;1;9.0;2022;Abu Dhabi Grand Prix
+20668;OCO;31;0 days 00:01:30.999000;2.0;False;HARD;8.0;True;Alpine;1;9.0;2022;Abu Dhabi Grand Prix
+20669;OCO;31;0 days 00:01:30.933000;2.0;False;HARD;9.0;True;Alpine;1;9.0;2022;Abu Dhabi Grand Prix
+20670;OCO;31;0 days 00:01:31.190000;2.0;False;HARD;10.0;True;Alpine;1;9.0;2022;Abu Dhabi Grand Prix
+20671;OCO;31;0 days 00:01:31.254000;2.0;False;HARD;11.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20672;OCO;31;0 days 00:01:31.094000;2.0;False;HARD;12.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20673;OCO;31;0 days 00:01:31.097000;2.0;False;HARD;13.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20674;OCO;31;0 days 00:01:31.091000;2.0;False;HARD;14.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20675;OCO;31;0 days 00:01:31.029000;2.0;False;HARD;15.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20676;OCO;31;0 days 00:01:31.091000;2.0;False;HARD;16.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20677;OCO;31;0 days 00:01:31.159000;2.0;False;HARD;17.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20678;OCO;31;0 days 00:01:31.079000;2.0;False;HARD;18.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20679;OCO;31;0 days 00:01:31.043000;2.0;False;HARD;19.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20680;OCO;31;0 days 00:01:31.107000;2.0;False;HARD;20.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20681;OCO;31;0 days 00:01:31.033000;2.0;False;HARD;21.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20682;OCO;31;0 days 00:01:31.118000;2.0;False;HARD;22.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20683;OCO;31;0 days 00:01:30.783000;2.0;True;HARD;23.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20684;OCO;31;0 days 00:01:30.788000;2.0;False;HARD;24.0;True;Alpine;2;8.0;2022;Abu Dhabi Grand Prix
+20685;OCO;31;0 days 00:01:30.992000;2.0;False;HARD;25.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20686;OCO;31;0 days 00:01:31.001000;2.0;False;HARD;26.0;True;Alpine;1;7.0;2022;Abu Dhabi Grand Prix
+20687;OCO;31;0 days 00:01:33.031000;2.0;False;HARD;27.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20688;OCO;31;0 days 00:01:50.243000;3.0;False;HARD;1.0;True;Alpine;1;9.0;2022;Abu Dhabi Grand Prix
+20689;OCO;31;0 days 00:01:29.369000;3.0;True;HARD;2.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20690;OCO;31;0 days 00:01:29.379000;3.0;False;HARD;3.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20691;OCO;31;0 days 00:01:29.333000;3.0;True;HARD;4.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20692;OCO;31;0 days 00:01:29.421000;3.0;False;HARD;5.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20693;OCO;31;0 days 00:01:29.389000;3.0;False;HARD;6.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20694;OCO;31;0 days 00:01:29.707000;3.0;False;HARD;7.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20695;OCO;31;0 days 00:01:29.641000;3.0;False;HARD;8.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20696;OCO;31;0 days 00:01:29.848000;3.0;False;HARD;9.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20697;OCO;31;0 days 00:01:29.502000;3.0;False;HARD;10.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20698;OCO;31;0 days 00:01:29.611000;3.0;False;HARD;11.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20699;OCO;31;0 days 00:01:29.506000;3.0;False;HARD;12.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20700;OCO;31;0 days 00:01:29.434000;3.0;False;HARD;13.0;True;Alpine;1;8.0;2022;Abu Dhabi Grand Prix
+20701;OCO;31;0 days 00:01:29.491000;3.0;False;HARD;14.0;True;Alpine;1;7.0;2022;Abu Dhabi Grand Prix
+20702;OCO;31;0 days 00:01:29.725000;3.0;False;HARD;15.0;True;Alpine;1;7.0;2022;Abu Dhabi Grand Prix
+20703;OCO;31;0 days 00:01:29.574000;3.0;False;HARD;16.0;True;Alpine;1;7.0;2022;Abu Dhabi Grand Prix
+20704;OCO;31;0 days 00:01:30.021000;3.0;False;HARD;17.0;True;Alpine;1;7.0;2022;Abu Dhabi Grand Prix
+20705;STR;18;0 days 00:01:39.172000;1.0;False;MEDIUM;1.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20706;STR;18;0 days 00:01:32.649000;1.0;True;MEDIUM;2.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20707;STR;18;0 days 00:01:31.740000;1.0;True;MEDIUM;3.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20708;STR;18;0 days 00:01:31.827000;1.0;False;MEDIUM;4.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20709;STR;18;0 days 00:01:31.986000;1.0;False;MEDIUM;5.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20710;STR;18;0 days 00:01:31.935000;1.0;False;MEDIUM;6.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20711;STR;18;0 days 00:01:31.887000;1.0;False;MEDIUM;7.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20712;STR;18;0 days 00:01:32.314000;1.0;False;MEDIUM;8.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20713;STR;18;0 days 00:01:32.531000;1.0;False;MEDIUM;9.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20714;STR;18;0 days 00:01:32.588000;1.0;False;MEDIUM;10.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20715;STR;18;0 days 00:01:32.670000;1.0;False;MEDIUM;11.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20716;STR;18;0 days 00:01:32.846000;1.0;False;MEDIUM;12.0;True;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20717;STR;18;0 days 00:01:35.452000;1.0;False;MEDIUM;13.0;True;Aston Martin;1;13.0;2022;Abu Dhabi Grand Prix
+20718;STR;18;0 days 00:01:50.857000;2.0;False;HARD;2.0;False;Aston Martin;1;19.0;2022;Abu Dhabi Grand Prix
+20719;STR;18;0 days 00:01:31.850000;2.0;False;HARD;3.0;False;Aston Martin;1;15.0;2022;Abu Dhabi Grand Prix
+20720;STR;18;0 days 00:01:31.086000;2.0;True;HARD;4.0;False;Aston Martin;1;14.0;2022;Abu Dhabi Grand Prix
+20721;STR;18;0 days 00:01:31.052000;2.0;True;HARD;5.0;False;Aston Martin;1;14.0;2022;Abu Dhabi Grand Prix
+20722;STR;18;0 days 00:01:31.374000;2.0;False;HARD;6.0;False;Aston Martin;1;14.0;2022;Abu Dhabi Grand Prix
+20723;STR;18;0 days 00:01:31.578000;2.0;False;HARD;7.0;False;Aston Martin;1;14.0;2022;Abu Dhabi Grand Prix
+20724;STR;18;0 days 00:01:32.167000;2.0;False;HARD;8.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20725;STR;18;0 days 00:01:31.632000;2.0;False;HARD;9.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20726;STR;18;0 days 00:01:31.396000;2.0;False;HARD;10.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20727;STR;18;0 days 00:01:31.626000;2.0;False;HARD;11.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20728;STR;18;0 days 00:01:30.772000;2.0;True;HARD;12.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20729;STR;18;0 days 00:01:30.974000;2.0;False;HARD;13.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20730;STR;18;0 days 00:01:30.780000;2.0;False;HARD;14.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20731;STR;18;0 days 00:01:30.941000;2.0;False;HARD;15.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20732;STR;18;0 days 00:01:31.155000;2.0;False;HARD;16.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20733;STR;18;0 days 00:01:31.267000;2.0;False;HARD;17.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20734;STR;18;0 days 00:01:31.179000;2.0;False;HARD;18.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20735;STR;18;0 days 00:01:31.167000;2.0;False;HARD;19.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20736;STR;18;0 days 00:01:30.978000;2.0;False;HARD;20.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20737;STR;18;0 days 00:01:30.884000;2.0;False;HARD;21.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20738;STR;18;0 days 00:01:30.886000;2.0;False;HARD;22.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20739;STR;18;0 days 00:01:31.069000;2.0;False;HARD;23.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20740;STR;18;0 days 00:01:31.033000;2.0;False;HARD;24.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20741;STR;18;0 days 00:01:30.980000;2.0;False;HARD;25.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20742;STR;18;0 days 00:01:31.310000;2.0;False;HARD;26.0;False;Aston Martin;2;9.0;2022;Abu Dhabi Grand Prix
+20743;STR;18;0 days 00:01:31.033000;2.0;False;HARD;27.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20744;STR;18;0 days 00:01:33.566000;2.0;False;HARD;28.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20745;STR;18;0 days 00:01:49.780000;3.0;False;MEDIUM;2.0;False;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20746;STR;18;0 days 00:01:29.620000;3.0;True;MEDIUM;3.0;False;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20747;STR;18;0 days 00:01:32.867000;3.0;False;MEDIUM;4.0;False;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20748;STR;18;0 days 00:01:30.880000;3.0;False;MEDIUM;5.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20749;STR;18;0 days 00:01:29.857000;3.0;False;MEDIUM;6.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20750;STR;18;0 days 00:01:29.877000;3.0;False;MEDIUM;7.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20751;STR;18;0 days 00:01:30.080000;3.0;False;MEDIUM;8.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20752;STR;18;0 days 00:01:29.692000;3.0;False;MEDIUM;9.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20753;STR;18;0 days 00:01:31.560000;3.0;False;MEDIUM;10.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20754;STR;18;0 days 00:01:30.041000;3.0;False;MEDIUM;11.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20755;STR;18;0 days 00:01:29.942000;3.0;False;MEDIUM;12.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20756;STR;18;0 days 00:01:30.431000;3.0;False;MEDIUM;13.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20757;STR;18;0 days 00:01:29.805000;3.0;False;MEDIUM;14.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20758;STR;18;0 days 00:01:30.179000;3.0;False;MEDIUM;15.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20759;STR;18;0 days 00:01:30.363000;3.0;False;MEDIUM;16.0;False;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20760;STR;18;0 days 00:01:30.508000;3.0;False;MEDIUM;17.0;False;Aston Martin;1;8.0;2022;Abu Dhabi Grand Prix
+20761;STR;18;0 days 00:01:31.844000;3.0;False;MEDIUM;18.0;False;Aston Martin;1;8.0;2022;Abu Dhabi Grand Prix
+20762;STR;18;0 days 00:01:31.330000;3.0;False;MEDIUM;19.0;False;Aston Martin;1;8.0;2022;Abu Dhabi Grand Prix
+20763;RIC;3;0 days 00:01:40.193000;1.0;False;MEDIUM;1.0;True;McLaren;1;14.0;2022;Abu Dhabi Grand Prix
+20764;RIC;3;0 days 00:01:32.513000;1.0;True;MEDIUM;2.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20765;RIC;3;0 days 00:01:31.815000;1.0;True;MEDIUM;3.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20766;RIC;3;0 days 00:01:32.413000;1.0;False;MEDIUM;4.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20767;RIC;3;0 days 00:01:32.265000;1.0;False;MEDIUM;5.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20768;RIC;3;0 days 00:01:31.862000;1.0;False;MEDIUM;6.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20769;RIC;3;0 days 00:01:32.055000;1.0;False;MEDIUM;7.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20770;RIC;3;0 days 00:01:32.305000;1.0;False;MEDIUM;8.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20771;RIC;3;0 days 00:01:32.367000;1.0;False;MEDIUM;9.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20772;RIC;3;0 days 00:01:32.436000;1.0;False;MEDIUM;10.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20773;RIC;3;0 days 00:01:32.564000;1.0;False;MEDIUM;11.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20774;RIC;3;0 days 00:01:32.768000;1.0;False;MEDIUM;12.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20775;RIC;3;0 days 00:01:32.924000;1.0;False;MEDIUM;13.0;True;McLaren;1;12.0;2022;Abu Dhabi Grand Prix
+20776;RIC;3;0 days 00:01:32.752000;1.0;False;MEDIUM;14.0;True;McLaren;1;12.0;2022;Abu Dhabi Grand Prix
+20777;RIC;3;0 days 00:01:32.721000;1.0;False;MEDIUM;15.0;True;McLaren;1;10.0;2022;Abu Dhabi Grand Prix
+20778;RIC;3;0 days 00:01:32.984000;1.0;False;MEDIUM;16.0;True;McLaren;1;8.0;2022;Abu Dhabi Grand Prix
+20779;RIC;3;0 days 00:01:33.191000;1.0;False;MEDIUM;17.0;True;McLaren;1;8.0;2022;Abu Dhabi Grand Prix
+20780;RIC;3;0 days 00:01:33.540000;1.0;False;MEDIUM;18.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20781;RIC;3;0 days 00:01:35.233000;1.0;False;MEDIUM;19.0;True;McLaren;1;8.0;2022;Abu Dhabi Grand Prix
+20782;RIC;3;0 days 00:01:52.187000;2.0;False;HARD;1.0;True;McLaren;1;18.0;2022;Abu Dhabi Grand Prix
+20783;RIC;3;0 days 00:01:31.130000;2.0;True;HARD;2.0;True;McLaren;1;18.0;2022;Abu Dhabi Grand Prix
+20784;RIC;3;0 days 00:01:31.105000;2.0;True;HARD;3.0;True;McLaren;1;18.0;2022;Abu Dhabi Grand Prix
+20785;RIC;3;0 days 00:01:31.013000;2.0;True;HARD;4.0;True;McLaren;1;17.0;2022;Abu Dhabi Grand Prix
+20786;RIC;3;0 days 00:01:32.467000;2.0;False;HARD;5.0;True;McLaren;1;17.0;2022;Abu Dhabi Grand Prix
+20787;RIC;3;0 days 00:01:31.704000;2.0;False;HARD;6.0;True;McLaren;1;16.0;2022;Abu Dhabi Grand Prix
+20788;RIC;3;0 days 00:01:31.396000;2.0;False;HARD;7.0;True;McLaren;1;15.0;2022;Abu Dhabi Grand Prix
+20789;RIC;3;0 days 00:01:30.963000;2.0;True;HARD;8.0;True;McLaren;1;14.0;2022;Abu Dhabi Grand Prix
+20790;RIC;3;0 days 00:01:31.321000;2.0;False;HARD;9.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20791;RIC;3;0 days 00:01:31.228000;2.0;False;HARD;10.0;True;McLaren;1;13.0;2022;Abu Dhabi Grand Prix
+20792;RIC;3;0 days 00:01:30.852000;2.0;True;HARD;11.0;True;McLaren;1;12.0;2022;Abu Dhabi Grand Prix
+20793;RIC;3;0 days 00:01:31.511000;2.0;False;HARD;12.0;True;McLaren;1;12.0;2022;Abu Dhabi Grand Prix
+20794;RIC;3;0 days 00:01:31.154000;2.0;False;HARD;13.0;True;McLaren;1;12.0;2022;Abu Dhabi Grand Prix
+20795;RIC;3;0 days 00:01:31.156000;2.0;False;HARD;14.0;True;McLaren;1;12.0;2022;Abu Dhabi Grand Prix
+20796;RIC;3;0 days 00:01:31.152000;2.0;False;HARD;15.0;True;McLaren;1;12.0;2022;Abu Dhabi Grand Prix
+20797;RIC;3;0 days 00:01:31.643000;2.0;False;HARD;16.0;True;McLaren;1;11.0;2022;Abu Dhabi Grand Prix
+20798;RIC;3;0 days 00:01:31.621000;2.0;False;HARD;17.0;True;McLaren;1;11.0;2022;Abu Dhabi Grand Prix
+20799;RIC;3;0 days 00:01:31.076000;2.0;False;HARD;18.0;True;McLaren;1;11.0;2022;Abu Dhabi Grand Prix
+20800;RIC;3;0 days 00:01:31.323000;2.0;False;HARD;19.0;True;McLaren;2;11.0;2022;Abu Dhabi Grand Prix
+20801;RIC;3;0 days 00:01:31.096000;2.0;False;HARD;20.0;True;McLaren;1;10.0;2022;Abu Dhabi Grand Prix
+20802;RIC;3;0 days 00:01:31.180000;2.0;False;HARD;21.0;True;McLaren;1;10.0;2022;Abu Dhabi Grand Prix
+20803;RIC;3;0 days 00:01:31.292000;2.0;False;HARD;22.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20804;RIC;3;0 days 00:01:30.993000;2.0;False;HARD;23.0;True;McLaren;1;8.0;2022;Abu Dhabi Grand Prix
+20805;RIC;3;0 days 00:01:31.777000;2.0;False;HARD;24.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20806;RIC;3;0 days 00:01:30.955000;2.0;False;HARD;25.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20807;RIC;3;0 days 00:01:30.785000;2.0;True;HARD;26.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20808;RIC;3;0 days 00:01:30.943000;2.0;False;HARD;27.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20809;RIC;3;0 days 00:01:30.935000;2.0;False;HARD;28.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20810;RIC;3;0 days 00:01:31.089000;2.0;False;HARD;29.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20811;RIC;3;0 days 00:01:32.059000;2.0;False;HARD;30.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20812;RIC;3;0 days 00:01:32.284000;2.0;False;HARD;31.0;True;McLaren;1;10.0;2022;Abu Dhabi Grand Prix
+20813;RIC;3;0 days 00:01:31.249000;2.0;False;HARD;32.0;True;McLaren;1;10.0;2022;Abu Dhabi Grand Prix
+20814;RIC;3;0 days 00:01:31.099000;2.0;False;HARD;33.0;True;McLaren;1;10.0;2022;Abu Dhabi Grand Prix
+20815;RIC;3;0 days 00:01:30.990000;2.0;False;HARD;34.0;True;McLaren;1;10.0;2022;Abu Dhabi Grand Prix
+20816;RIC;3;0 days 00:01:31.087000;2.0;False;HARD;35.0;True;McLaren;1;10.0;2022;Abu Dhabi Grand Prix
+20817;RIC;3;0 days 00:01:31.218000;2.0;False;HARD;36.0;True;McLaren;1;10.0;2022;Abu Dhabi Grand Prix
+20818;RIC;3;0 days 00:01:31.278000;2.0;False;HARD;37.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20819;RIC;3;0 days 00:01:31.114000;2.0;False;HARD;38.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20820;RIC;3;0 days 00:01:30.856000;2.0;False;HARD;39.0;True;McLaren;1;9.0;2022;Abu Dhabi Grand Prix
+20821;VET;5;0 days 00:01:37.455000;1.0;False;MEDIUM;1.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20822;VET;5;0 days 00:01:32.324000;1.0;True;MEDIUM;2.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20823;VET;5;0 days 00:01:31.488000;1.0;True;MEDIUM;3.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20824;VET;5;0 days 00:01:31.439000;1.0;True;MEDIUM;4.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20825;VET;5;0 days 00:01:31.786000;1.0;False;MEDIUM;5.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20826;VET;5;0 days 00:01:31.965000;1.0;False;MEDIUM;6.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20827;VET;5;0 days 00:01:31.688000;1.0;False;MEDIUM;7.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20828;VET;5;0 days 00:01:32.654000;1.0;False;MEDIUM;8.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20829;VET;5;0 days 00:01:32.681000;1.0;False;MEDIUM;9.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20830;VET;5;0 days 00:01:32.511000;1.0;False;MEDIUM;10.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20831;VET;5;0 days 00:01:32.485000;1.0;False;MEDIUM;11.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20832;VET;5;0 days 00:01:32.607000;1.0;False;MEDIUM;12.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20833;VET;5;0 days 00:01:32.744000;1.0;False;MEDIUM;13.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20834;VET;5;0 days 00:01:32.675000;1.0;False;MEDIUM;14.0;True;Aston Martin;1;8.0;2022;Abu Dhabi Grand Prix
+20835;VET;5;0 days 00:01:32.279000;1.0;False;MEDIUM;15.0;True;Aston Martin;1;8.0;2022;Abu Dhabi Grand Prix
+20836;VET;5;0 days 00:01:33.198000;1.0;False;MEDIUM;16.0;True;Aston Martin;1;5.0;2022;Abu Dhabi Grand Prix
+20837;VET;5;0 days 00:01:32.983000;1.0;False;MEDIUM;17.0;True;Aston Martin;1;6.0;2022;Abu Dhabi Grand Prix
+20838;VET;5;0 days 00:01:32.365000;1.0;False;MEDIUM;18.0;True;Aston Martin;1;5.0;2022;Abu Dhabi Grand Prix
+20839;VET;5;0 days 00:01:32.689000;1.0;False;MEDIUM;19.0;True;Aston Martin;1;4.0;2022;Abu Dhabi Grand Prix
+20840;VET;5;0 days 00:01:33.140000;1.0;False;MEDIUM;20.0;True;Aston Martin;1;5.0;2022;Abu Dhabi Grand Prix
+20841;VET;5;0 days 00:01:33.542000;1.0;False;MEDIUM;21.0;True;Aston Martin;1;6.0;2022;Abu Dhabi Grand Prix
+20842;VET;5;0 days 00:01:33.030000;1.0;False;MEDIUM;22.0;True;Aston Martin;1;6.0;2022;Abu Dhabi Grand Prix
+20843;VET;5;0 days 00:01:33.281000;1.0;False;MEDIUM;23.0;True;Aston Martin;1;7.0;2022;Abu Dhabi Grand Prix
+20844;VET;5;0 days 00:01:33.494000;1.0;False;MEDIUM;24.0;True;Aston Martin;1;8.0;2022;Abu Dhabi Grand Prix
+20845;VET;5;0 days 00:01:35.416000;1.0;False;MEDIUM;25.0;True;Aston Martin;1;9.0;2022;Abu Dhabi Grand Prix
+20846;VET;5;0 days 00:01:53.561000;2.0;False;HARD;2.0;False;Aston Martin;1;19.0;2022;Abu Dhabi Grand Prix
+20847;VET;5;0 days 00:01:30.884000;2.0;True;HARD;3.0;False;Aston Martin;1;18.0;2022;Abu Dhabi Grand Prix
+20848;VET;5;0 days 00:01:30.735000;2.0;True;HARD;4.0;False;Aston Martin;1;16.0;2022;Abu Dhabi Grand Prix
+20849;VET;5;0 days 00:01:32.020000;2.0;False;HARD;5.0;False;Aston Martin;1;16.0;2022;Abu Dhabi Grand Prix
+20850;VET;5;0 days 00:01:31.568000;2.0;False;HARD;6.0;False;Aston Martin;1;15.0;2022;Abu Dhabi Grand Prix
+20851;VET;5;0 days 00:01:31.034000;2.0;False;HARD;7.0;False;Aston Martin;1;15.0;2022;Abu Dhabi Grand Prix
+20852;VET;5;0 days 00:01:31.363000;2.0;False;HARD;8.0;False;Aston Martin;1;15.0;2022;Abu Dhabi Grand Prix
+20853;VET;5;0 days 00:01:31.428000;2.0;False;HARD;9.0;False;Aston Martin;1;15.0;2022;Abu Dhabi Grand Prix
+20854;VET;5;0 days 00:01:31.096000;2.0;False;HARD;10.0;False;Aston Martin;1;14.0;2022;Abu Dhabi Grand Prix
+20855;VET;5;0 days 00:01:30.312000;2.0;True;HARD;11.0;False;Aston Martin;1;14.0;2022;Abu Dhabi Grand Prix
+20856;VET;5;0 days 00:01:30.786000;2.0;False;HARD;12.0;False;Aston Martin;1;13.0;2022;Abu Dhabi Grand Prix
+20857;VET;5;0 days 00:01:30.622000;2.0;False;HARD;13.0;False;Aston Martin;1;13.0;2022;Abu Dhabi Grand Prix
+20858;VET;5;0 days 00:01:30.772000;2.0;False;HARD;14.0;False;Aston Martin;2;13.0;2022;Abu Dhabi Grand Prix
+20859;VET;5;0 days 00:01:31.224000;2.0;False;HARD;15.0;False;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20860;VET;5;0 days 00:01:30.748000;2.0;False;HARD;16.0;False;Aston Martin;1;12.0;2022;Abu Dhabi Grand Prix
+20861;VET;5;0 days 00:01:31.214000;2.0;False;HARD;17.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20862;VET;5;0 days 00:01:31.764000;2.0;False;HARD;18.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20863;VET;5;0 days 00:01:30.690000;2.0;False;HARD;19.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20864;VET;5;0 days 00:01:30.733000;2.0;False;HARD;20.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20865;VET;5;0 days 00:01:30.614000;2.0;False;HARD;21.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20866;VET;5;0 days 00:01:30.788000;2.0;False;HARD;22.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20867;VET;5;0 days 00:01:30.634000;2.0;False;HARD;23.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20868;VET;5;0 days 00:01:31.639000;2.0;False;HARD;24.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20869;VET;5;0 days 00:01:31.374000;2.0;False;HARD;25.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20870;VET;5;0 days 00:01:31.437000;2.0;False;HARD;26.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20871;VET;5;0 days 00:01:31.383000;2.0;False;HARD;27.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20872;VET;5;0 days 00:01:31.116000;2.0;False;HARD;28.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20873;VET;5;0 days 00:01:31.056000;2.0;False;HARD;29.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20874;VET;5;0 days 00:01:30.931000;2.0;False;HARD;30.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20875;VET;5;0 days 00:01:31.304000;2.0;False;HARD;31.0;False;Aston Martin;1;11.0;2022;Abu Dhabi Grand Prix
+20876;VET;5;0 days 00:01:31.485000;2.0;False;HARD;32.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20877;VET;5;0 days 00:01:31.227000;2.0;False;HARD;33.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20878;VET;5;0 days 00:01:30.351000;2.0;False;HARD;34.0;False;Aston Martin;1;10.0;2022;Abu Dhabi Grand Prix
+20879;TSU;22;0 days 00:01:38.738000;1.0;False;MEDIUM;1.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20880;TSU;22;0 days 00:01:32.551000;1.0;True;MEDIUM;2.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20881;TSU;22;0 days 00:01:31.604000;1.0;True;MEDIUM;3.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20882;TSU;22;0 days 00:01:31.789000;1.0;False;MEDIUM;4.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20883;TSU;22;0 days 00:01:31.832000;1.0;False;MEDIUM;5.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20884;TSU;22;0 days 00:01:32.038000;1.0;False;MEDIUM;6.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20885;TSU;22;0 days 00:01:31.997000;1.0;False;MEDIUM;7.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20886;TSU;22;0 days 00:01:32.252000;1.0;False;MEDIUM;8.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20887;TSU;22;0 days 00:01:32.620000;1.0;False;MEDIUM;9.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20888;TSU;22;0 days 00:01:32.500000;1.0;False;MEDIUM;10.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20889;TSU;22;0 days 00:01:32.647000;1.0;False;MEDIUM;11.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20890;TSU;22;0 days 00:01:32.630000;1.0;False;MEDIUM;12.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20891;TSU;22;0 days 00:01:32.960000;1.0;False;MEDIUM;13.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20892;TSU;22;0 days 00:01:34.716000;1.0;False;MEDIUM;14.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20893;TSU;22;0 days 00:01:52.725000;2.0;False;HARD;1.0;True;AlphaTauri;1;16.0;2022;Abu Dhabi Grand Prix
+20894;TSU;22;0 days 00:01:31.266000;2.0;True;HARD;2.0;True;AlphaTauri;1;15.0;2022;Abu Dhabi Grand Prix
+20895;TSU;22;0 days 00:01:31.362000;2.0;False;HARD;3.0;True;AlphaTauri;1;15.0;2022;Abu Dhabi Grand Prix
+20896;TSU;22;0 days 00:01:31.483000;2.0;False;HARD;4.0;True;AlphaTauri;1;15.0;2022;Abu Dhabi Grand Prix
+20897;TSU;22;0 days 00:01:31.660000;2.0;False;HARD;5.0;True;AlphaTauri;1;15.0;2022;Abu Dhabi Grand Prix
+20898;TSU;22;0 days 00:01:31.916000;2.0;False;HARD;6.0;True;AlphaTauri;1;13.0;2022;Abu Dhabi Grand Prix
+20899;TSU;22;0 days 00:01:32.326000;2.0;False;HARD;7.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20900;TSU;22;0 days 00:01:32.169000;2.0;False;HARD;8.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20901;TSU;22;0 days 00:01:31.671000;2.0;False;HARD;9.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20902;TSU;22;0 days 00:01:32.387000;2.0;False;HARD;10.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20903;TSU;22;0 days 00:01:31.773000;2.0;False;HARD;11.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20904;TSU;22;0 days 00:01:31.311000;2.0;False;HARD;12.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20905;TSU;22;0 days 00:01:31.294000;2.0;False;HARD;13.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20906;TSU;22;0 days 00:01:31.141000;2.0;True;HARD;14.0;True;AlphaTauri;1;10.0;2022;Abu Dhabi Grand Prix
+20907;TSU;22;0 days 00:01:31.202000;2.0;False;HARD;15.0;True;AlphaTauri;1;10.0;2022;Abu Dhabi Grand Prix
+20908;TSU;22;0 days 00:01:31.215000;2.0;False;HARD;16.0;True;AlphaTauri;1;10.0;2022;Abu Dhabi Grand Prix
+20909;TSU;22;0 days 00:01:31.200000;2.0;False;HARD;17.0;True;AlphaTauri;1;10.0;2022;Abu Dhabi Grand Prix
+20910;TSU;22;0 days 00:01:31.435000;2.0;False;HARD;18.0;True;AlphaTauri;1;10.0;2022;Abu Dhabi Grand Prix
+20911;TSU;22;0 days 00:01:31.307000;2.0;False;HARD;19.0;True;AlphaTauri;1;10.0;2022;Abu Dhabi Grand Prix
+20912;TSU;22;0 days 00:01:31.323000;2.0;False;HARD;20.0;True;AlphaTauri;1;10.0;2022;Abu Dhabi Grand Prix
+20913;TSU;22;0 days 00:01:31.272000;2.0;False;HARD;21.0;True;AlphaTauri;1;10.0;2022;Abu Dhabi Grand Prix
+20914;TSU;22;0 days 00:01:31.015000;2.0;True;HARD;22.0;True;AlphaTauri;1;10.0;2022;Abu Dhabi Grand Prix
+20915;TSU;22;0 days 00:01:31.364000;2.0;False;HARD;23.0;True;AlphaTauri;1;10.0;2022;Abu Dhabi Grand Prix
+20916;TSU;22;0 days 00:01:33.259000;2.0;False;HARD;24.0;True;AlphaTauri;2;10.0;2022;Abu Dhabi Grand Prix
+20917;TSU;22;0 days 00:01:51.244000;3.0;False;SOFT;1.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+20918;TSU;22;0 days 00:01:29.489000;3.0;True;SOFT;2.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+20919;TSU;22;0 days 00:01:29.762000;3.0;False;SOFT;3.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+20920;TSU;22;0 days 00:01:30.101000;3.0;False;SOFT;4.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+20921;TSU;22;0 days 00:01:29.719000;3.0;False;SOFT;5.0;True;AlphaTauri;1;13.0;2022;Abu Dhabi Grand Prix
+20922;TSU;22;0 days 00:01:30.311000;3.0;False;SOFT;6.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20923;TSU;22;0 days 00:01:30.498000;3.0;False;SOFT;7.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20924;TSU;22;0 days 00:01:29.975000;3.0;False;SOFT;8.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20925;TSU;22;0 days 00:01:29.991000;3.0;False;SOFT;9.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20926;TSU;22;0 days 00:01:30.176000;3.0;False;SOFT;10.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20927;TSU;22;0 days 00:01:30.225000;3.0;False;SOFT;11.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20928;TSU;22;0 days 00:01:30.760000;3.0;False;SOFT;12.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20929;TSU;22;0 days 00:01:31.066000;3.0;False;SOFT;13.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20930;TSU;22;0 days 00:01:31.024000;3.0;False;SOFT;14.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20931;TSU;22;0 days 00:01:31.318000;3.0;False;SOFT;15.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20932;TSU;22;0 days 00:01:31.579000;3.0;False;SOFT;16.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20933;TSU;22;0 days 00:01:32.138000;3.0;False;SOFT;17.0;True;AlphaTauri;1;12.0;2022;Abu Dhabi Grand Prix
+20934;TSU;22;0 days 00:01:32.040000;3.0;False;SOFT;18.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20935;TSU;22;0 days 00:01:31.639000;3.0;False;SOFT;19.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20936;TSU;22;0 days 00:01:32.280000;3.0;False;SOFT;20.0;True;AlphaTauri;1;11.0;2022;Abu Dhabi Grand Prix
+20937;ALB;23;0 days 00:01:41.738000;1.0;False;MEDIUM;1.0;True;Williams;1;17.0;2022;Abu Dhabi Grand Prix
+20938;ALB;23;0 days 00:01:33.227000;1.0;True;MEDIUM;2.0;True;Williams;1;16.0;2022;Abu Dhabi Grand Prix
+20939;ALB;23;0 days 00:01:32.356000;1.0;True;MEDIUM;3.0;True;Williams;1;16.0;2022;Abu Dhabi Grand Prix
+20940;ALB;23;0 days 00:01:33.137000;1.0;False;MEDIUM;4.0;True;Williams;1;16.0;2022;Abu Dhabi Grand Prix
+20941;ALB;23;0 days 00:01:32.652000;1.0;False;MEDIUM;5.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20942;ALB;23;0 days 00:01:32.302000;1.0;True;MEDIUM;6.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20943;ALB;23;0 days 00:01:31.987000;1.0;True;MEDIUM;7.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20944;ALB;23;0 days 00:01:32.303000;1.0;False;MEDIUM;8.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20945;ALB;23;0 days 00:01:32.406000;1.0;False;MEDIUM;9.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20946;ALB;23;0 days 00:01:32.550000;1.0;False;MEDIUM;10.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20947;ALB;23;0 days 00:01:33.387000;1.0;False;MEDIUM;11.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20948;ALB;23;0 days 00:01:35.463000;1.0;False;MEDIUM;12.0;True;Williams;1;16.0;2022;Abu Dhabi Grand Prix
+20949;ALB;23;0 days 00:01:51.113000;2.0;False;HARD;1.0;True;Williams;1;20.0;2022;Abu Dhabi Grand Prix
+20950;ALB;23;0 days 00:01:30.982000;2.0;True;HARD;2.0;True;Williams;1;20.0;2022;Abu Dhabi Grand Prix
+20951;ALB;23;0 days 00:01:31.430000;2.0;False;HARD;3.0;True;Williams;1;18.0;2022;Abu Dhabi Grand Prix
+20952;ALB;23;0 days 00:01:31.585000;2.0;False;HARD;4.0;True;Williams;1;16.0;2022;Abu Dhabi Grand Prix
+20953;ALB;23;0 days 00:01:31.496000;2.0;False;HARD;5.0;True;Williams;1;16.0;2022;Abu Dhabi Grand Prix
+20954;ALB;23;0 days 00:01:31.836000;2.0;False;HARD;6.0;True;Williams;1;16.0;2022;Abu Dhabi Grand Prix
+20955;ALB;23;0 days 00:01:31.691000;2.0;False;HARD;7.0;True;Williams;1;16.0;2022;Abu Dhabi Grand Prix
+20956;ALB;23;0 days 00:01:31.835000;2.0;False;HARD;8.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20957;ALB;23;0 days 00:01:31.929000;2.0;False;HARD;9.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20958;ALB;23;0 days 00:01:31.975000;2.0;False;HARD;10.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20959;ALB;23;0 days 00:01:31.717000;2.0;False;HARD;11.0;True;Williams;1;14.0;2022;Abu Dhabi Grand Prix
+20960;ALB;23;0 days 00:01:31.918000;2.0;False;HARD;12.0;True;Williams;1;14.0;2022;Abu Dhabi Grand Prix
+20961;ALB;23;0 days 00:01:31.610000;2.0;False;HARD;13.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20962;ALB;23;0 days 00:01:31.631000;2.0;False;HARD;14.0;True;Williams;1;12.0;2022;Abu Dhabi Grand Prix
+20963;ALB;23;0 days 00:01:31.624000;2.0;False;HARD;15.0;True;Williams;1;12.0;2022;Abu Dhabi Grand Prix
+20964;ALB;23;0 days 00:01:31.521000;2.0;False;HARD;16.0;True;Williams;1;11.0;2022;Abu Dhabi Grand Prix
+20965;ALB;23;0 days 00:01:31.487000;2.0;False;HARD;17.0;True;Williams;1;11.0;2022;Abu Dhabi Grand Prix
+20966;ALB;23;0 days 00:01:31.451000;2.0;False;HARD;18.0;True;Williams;1;11.0;2022;Abu Dhabi Grand Prix
+20967;ALB;23;0 days 00:01:31.587000;2.0;False;HARD;19.0;True;Williams;1;11.0;2022;Abu Dhabi Grand Prix
+20968;ALB;23;0 days 00:01:31.496000;2.0;False;HARD;20.0;True;Williams;1;11.0;2022;Abu Dhabi Grand Prix
+20969;ALB;23;0 days 00:01:31.550000;2.0;False;HARD;21.0;True;Williams;1;11.0;2022;Abu Dhabi Grand Prix
+20970;ALB;23;0 days 00:01:31.509000;2.0;False;HARD;22.0;True;Williams;1;11.0;2022;Abu Dhabi Grand Prix
+20971;ALB;23;0 days 00:01:34.033000;2.0;False;HARD;23.0;True;Williams;1;12.0;2022;Abu Dhabi Grand Prix
+20972;ALB;23;0 days 00:01:51.369000;3.0;False;MEDIUM;1.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20973;ALB;23;0 days 00:01:30.090000;3.0;True;MEDIUM;2.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20974;ALB;23;0 days 00:01:29.974000;3.0;True;MEDIUM;3.0;True;Williams;2;15.0;2022;Abu Dhabi Grand Prix
+20975;ALB;23;0 days 00:01:30.023000;3.0;False;MEDIUM;4.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20976;ALB;23;0 days 00:01:29.939000;3.0;True;MEDIUM;5.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20977;ALB;23;0 days 00:01:30.139000;3.0;False;MEDIUM;6.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20978;ALB;23;0 days 00:01:30.378000;3.0;False;MEDIUM;7.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20979;ALB;23;0 days 00:01:30.241000;3.0;False;MEDIUM;8.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20980;ALB;23;0 days 00:01:30.218000;3.0;False;MEDIUM;9.0;True;Williams;1;15.0;2022;Abu Dhabi Grand Prix
+20981;ALB;23;0 days 00:01:30.760000;3.0;False;MEDIUM;10.0;True;Williams;1;14.0;2022;Abu Dhabi Grand Prix
+20982;ALB;23;0 days 00:01:30.896000;3.0;False;MEDIUM;11.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20983;ALB;23;0 days 00:01:30.976000;3.0;False;MEDIUM;12.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20984;ALB;23;0 days 00:01:31.124000;3.0;False;MEDIUM;13.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20985;ALB;23;0 days 00:01:31.795000;3.0;False;MEDIUM;14.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20986;ALB;23;0 days 00:01:31.925000;3.0;False;MEDIUM;15.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20987;ALB;23;0 days 00:01:32.564000;3.0;False;MEDIUM;16.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20988;ALB;23;0 days 00:01:33.467000;3.0;False;MEDIUM;17.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20989;ALB;23;0 days 00:01:32.523000;3.0;False;MEDIUM;18.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20990;ALB;23;0 days 00:01:32.825000;3.0;False;MEDIUM;19.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20991;ALB;23;0 days 00:01:35.096000;3.0;False;MEDIUM;20.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20992;ALB;23;0 days 00:01:33.126000;3.0;False;MEDIUM;21.0;True;Williams;1;12.0;2022;Abu Dhabi Grand Prix
+20993;ALB;23;0 days 00:01:33.882000;3.0;False;MEDIUM;22.0;True;Williams;1;13.0;2022;Abu Dhabi Grand Prix
+20994;GAS;10;0 days 00:01:42.050000;1.0;False;SOFT;1.0;True;AlphaTauri;1;18.0;2022;Abu Dhabi Grand Prix
+20995;GAS;10;0 days 00:01:34.636000;1.0;True;SOFT;2.0;True;AlphaTauri;1;18.0;2022;Abu Dhabi Grand Prix
+20996;GAS;10;0 days 00:01:32.470000;1.0;True;SOFT;3.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+20997;GAS;10;0 days 00:01:32.473000;1.0;False;SOFT;4.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+20998;GAS;10;0 days 00:01:32.581000;1.0;False;SOFT;5.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+20999;GAS;10;0 days 00:01:33.306000;1.0;False;SOFT;6.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21000;GAS;10;0 days 00:01:32.417000;1.0;True;SOFT;7.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21001;GAS;10;0 days 00:01:32.537000;1.0;False;SOFT;8.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21002;GAS;10;0 days 00:01:32.710000;1.0;False;SOFT;9.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21003;GAS;10;0 days 00:01:32.742000;1.0;False;SOFT;10.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21004;GAS;10;0 days 00:01:32.962000;1.0;False;SOFT;11.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21005;GAS;10;0 days 00:01:33.119000;1.0;False;SOFT;12.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21006;GAS;10;0 days 00:01:33.380000;1.0;False;SOFT;13.0;True;AlphaTauri;1;16.0;2022;Abu Dhabi Grand Prix
+21007;GAS;10;0 days 00:01:36.422000;1.0;False;SOFT;14.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21008;GAS;10;0 days 00:01:51.393000;2.0;False;HARD;1.0;True;AlphaTauri;1;20.0;2022;Abu Dhabi Grand Prix
+21009;GAS;10;0 days 00:01:31.081000;2.0;True;HARD;2.0;True;AlphaTauri;1;19.0;2022;Abu Dhabi Grand Prix
+21010;GAS;10;0 days 00:01:31.018000;2.0;False;HARD;3.0;True;AlphaTauri;1;19.0;2022;Abu Dhabi Grand Prix
+21011;GAS;10;0 days 00:01:31.227000;2.0;False;HARD;4.0;True;AlphaTauri;1;19.0;2022;Abu Dhabi Grand Prix
+21012;GAS;10;0 days 00:01:31.300000;2.0;False;HARD;5.0;True;AlphaTauri;1;19.0;2022;Abu Dhabi Grand Prix
+21013;GAS;10;0 days 00:01:32.182000;2.0;False;HARD;6.0;True;AlphaTauri;1;19.0;2022;Abu Dhabi Grand Prix
+21014;GAS;10;0 days 00:01:31.443000;2.0;False;HARD;7.0;True;AlphaTauri;1;19.0;2022;Abu Dhabi Grand Prix
+21015;GAS;10;0 days 00:01:31.228000;2.0;False;HARD;8.0;True;AlphaTauri;1;19.0;2022;Abu Dhabi Grand Prix
+21016;GAS;10;0 days 00:01:31.704000;2.0;False;HARD;9.0;True;AlphaTauri;1;19.0;2022;Abu Dhabi Grand Prix
+21017;GAS;10;0 days 00:01:31.855000;2.0;False;HARD;10.0;True;AlphaTauri;1;19.0;2022;Abu Dhabi Grand Prix
+21018;GAS;10;0 days 00:01:33.269000;2.0;False;HARD;11.0;True;AlphaTauri;1;19.0;2022;Abu Dhabi Grand Prix
+21019;GAS;10;0 days 00:01:32.542000;2.0;False;HARD;12.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21020;GAS;10;0 days 00:01:31.712000;2.0;False;HARD;13.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21021;GAS;10;0 days 00:01:32.407000;2.0;False;HARD;14.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21022;GAS;10;0 days 00:01:32.050000;2.0;False;HARD;15.0;True;AlphaTauri;1;17.0;2022;Abu Dhabi Grand Prix
+21023;GAS;10;0 days 00:01:32.297000;2.0;False;HARD;16.0;True;AlphaTauri;1;16.0;2022;Abu Dhabi Grand Prix
+21024;GAS;10;0 days 00:01:31.744000;2.0;False;HARD;17.0;True;AlphaTauri;1;16.0;2022;Abu Dhabi Grand Prix
+21025;GAS;10;0 days 00:01:31.676000;2.0;False;HARD;18.0;True;AlphaTauri;1;16.0;2022;Abu Dhabi Grand Prix
+21026;GAS;10;0 days 00:01:31.349000;2.0;False;HARD;19.0;True;AlphaTauri;1;16.0;2022;Abu Dhabi Grand Prix
+21027;GAS;10;0 days 00:01:31.440000;2.0;False;HARD;20.0;True;AlphaTauri;1;16.0;2022;Abu Dhabi Grand Prix
+21028;GAS;10;0 days 00:01:31.249000;2.0;False;HARD;21.0;True;AlphaTauri;1;15.0;2022;Abu Dhabi Grand Prix
+21029;GAS;10;0 days 00:01:31.391000;2.0;False;HARD;22.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21030;GAS;10;0 days 00:01:31.414000;2.0;False;HARD;23.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21031;GAS;10;0 days 00:01:31.250000;2.0;False;HARD;24.0;True;AlphaTauri;2;14.0;2022;Abu Dhabi Grand Prix
+21032;GAS;10;0 days 00:01:31.291000;2.0;False;HARD;25.0;True;AlphaTauri;1;13.0;2022;Abu Dhabi Grand Prix
+21033;GAS;10;0 days 00:01:31.385000;2.0;False;HARD;26.0;True;AlphaTauri;1;13.0;2022;Abu Dhabi Grand Prix
+21034;GAS;10;0 days 00:01:31.491000;2.0;False;HARD;27.0;True;AlphaTauri;1;13.0;2022;Abu Dhabi Grand Prix
+21035;GAS;10;0 days 00:01:31.545000;2.0;False;HARD;28.0;True;AlphaTauri;1;13.0;2022;Abu Dhabi Grand Prix
+21036;GAS;10;0 days 00:01:32.280000;2.0;False;HARD;29.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21037;GAS;10;0 days 00:01:31.426000;2.0;False;HARD;30.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21038;GAS;10;0 days 00:01:31.502000;2.0;False;HARD;31.0;True;AlphaTauri;1;13.0;2022;Abu Dhabi Grand Prix
+21039;GAS;10;0 days 00:01:32.625000;2.0;False;HARD;32.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21040;GAS;10;0 days 00:01:31.851000;2.0;False;HARD;33.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21041;GAS;10;0 days 00:01:31.632000;2.0;False;HARD;34.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21042;GAS;10;0 days 00:01:31.654000;2.0;False;HARD;35.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21043;GAS;10;0 days 00:01:31.598000;2.0;False;HARD;36.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21044;GAS;10;0 days 00:01:32.718000;2.0;False;HARD;37.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21045;GAS;10;0 days 00:01:32.748000;2.0;False;HARD;38.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21046;GAS;10;0 days 00:01:32.671000;2.0;False;HARD;39.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21047;GAS;10;0 days 00:01:33.137000;2.0;False;HARD;40.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21048;GAS;10;0 days 00:01:33.845000;2.0;False;HARD;41.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21049;GAS;10;0 days 00:01:34.193000;2.0;False;HARD;42.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21050;GAS;10;0 days 00:01:32.845000;2.0;False;HARD;43.0;True;AlphaTauri;1;14.0;2022;Abu Dhabi Grand Prix
+21051;BOT;77;0 days 00:01:42.988000;1.0;False;HARD;1.0;True;Alfa Romeo;1;20.0;2022;Abu Dhabi Grand Prix
+21052;BOT;77;0 days 00:01:34.636000;1.0;True;HARD;2.0;True;Alfa Romeo;1;20.0;2022;Abu Dhabi Grand Prix
+21053;BOT;77;0 days 00:01:33.430000;1.0;True;HARD;3.0;True;Alfa Romeo;1;20.0;2022;Abu Dhabi Grand Prix
+21054;BOT;77;0 days 00:01:32.662000;1.0;True;HARD;4.0;True;Alfa Romeo;1;20.0;2022;Abu Dhabi Grand Prix
+21055;BOT;77;0 days 00:01:32.873000;1.0;False;HARD;5.0;True;Alfa Romeo;1;20.0;2022;Abu Dhabi Grand Prix
+21056;BOT;77;0 days 00:01:33.085000;1.0;False;HARD;6.0;True;Alfa Romeo;1;20.0;2022;Abu Dhabi Grand Prix
+21057;BOT;77;0 days 00:01:32.881000;1.0;False;HARD;7.0;True;Alfa Romeo;1;20.0;2022;Abu Dhabi Grand Prix
+21058;BOT;77;0 days 00:01:33.113000;1.0;False;HARD;8.0;True;Alfa Romeo;1;20.0;2022;Abu Dhabi Grand Prix
+21059;BOT;77;0 days 00:01:31.748000;1.0;True;HARD;9.0;True;Alfa Romeo;1;19.0;2022;Abu Dhabi Grand Prix
+21060;BOT;77;0 days 00:01:32.560000;1.0;False;HARD;10.0;True;Alfa Romeo;1;19.0;2022;Abu Dhabi Grand Prix
+21061;BOT;77;0 days 00:01:33.363000;1.0;False;HARD;11.0;True;Alfa Romeo;1;19.0;2022;Abu Dhabi Grand Prix
+21062;BOT;77;0 days 00:01:33.204000;1.0;False;HARD;12.0;True;Alfa Romeo;1;19.0;2022;Abu Dhabi Grand Prix
+21063;BOT;77;0 days 00:01:32.643000;1.0;False;HARD;13.0;True;Alfa Romeo;1;18.0;2022;Abu Dhabi Grand Prix
+21064;BOT;77;0 days 00:01:33.168000;1.0;False;HARD;14.0;True;Alfa Romeo;1;16.0;2022;Abu Dhabi Grand Prix
+21065;BOT;77;0 days 00:01:32.915000;1.0;False;HARD;15.0;True;Alfa Romeo;1;13.0;2022;Abu Dhabi Grand Prix
+21066;BOT;77;0 days 00:01:32.475000;1.0;False;HARD;16.0;True;Alfa Romeo;1;11.0;2022;Abu Dhabi Grand Prix
+21067;BOT;77;0 days 00:01:32.750000;1.0;False;HARD;17.0;True;Alfa Romeo;1;12.0;2022;Abu Dhabi Grand Prix
+21068;BOT;77;0 days 00:01:32.504000;1.0;False;HARD;18.0;True;Alfa Romeo;1;12.0;2022;Abu Dhabi Grand Prix
+21069;BOT;77;0 days 00:01:33.396000;1.0;False;HARD;19.0;True;Alfa Romeo;1;13.0;2022;Abu Dhabi Grand Prix
+21070;BOT;77;0 days 00:01:32.561000;1.0;False;HARD;20.0;True;Alfa Romeo;1;10.0;2022;Abu Dhabi Grand Prix
+21071;BOT;77;0 days 00:01:33.399000;1.0;False;HARD;21.0;True;Alfa Romeo;1;11.0;2022;Abu Dhabi Grand Prix
+21072;BOT;77;0 days 00:01:32.579000;1.0;False;HARD;22.0;True;Alfa Romeo;1;11.0;2022;Abu Dhabi Grand Prix
+21073;BOT;77;0 days 00:01:34.172000;1.0;False;HARD;23.0;True;Alfa Romeo;1;13.0;2022;Abu Dhabi Grand Prix
+21074;BOT;77;0 days 00:01:32.726000;1.0;False;HARD;24.0;True;Alfa Romeo;1;13.0;2022;Abu Dhabi Grand Prix
+21075;BOT;77;0 days 00:01:33.561000;1.0;False;HARD;25.0;True;Alfa Romeo;1;14.0;2022;Abu Dhabi Grand Prix
+21076;BOT;77;0 days 00:01:33.463000;1.0;False;HARD;26.0;True;Alfa Romeo;1;14.0;2022;Abu Dhabi Grand Prix
+21077;BOT;77;0 days 00:01:33.206000;1.0;False;HARD;27.0;True;Alfa Romeo;1;15.0;2022;Abu Dhabi Grand Prix
+21078;BOT;77;0 days 00:01:33.579000;1.0;False;HARD;28.0;True;Alfa Romeo;1;15.0;2022;Abu Dhabi Grand Prix
+21079;BOT;77;0 days 00:01:33.039000;1.0;False;HARD;29.0;True;Alfa Romeo;1;15.0;2022;Abu Dhabi Grand Prix
+21080;BOT;77;0 days 00:01:36.222000;1.0;False;HARD;30.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21081;BOT;77;0 days 00:01:53.328000;2.0;False;MEDIUM;1.0;True;Alfa Romeo;1;18.0;2022;Abu Dhabi Grand Prix
+21082;BOT;77;0 days 00:01:31.442000;2.0;True;MEDIUM;2.0;True;Alfa Romeo;1;18.0;2022;Abu Dhabi Grand Prix
+21083;BOT;77;0 days 00:01:31.276000;2.0;True;MEDIUM;3.0;True;Alfa Romeo;1;18.0;2022;Abu Dhabi Grand Prix
+21084;BOT;77;0 days 00:01:31.487000;2.0;False;MEDIUM;4.0;True;Alfa Romeo;1;18.0;2022;Abu Dhabi Grand Prix
+21085;BOT;77;0 days 00:01:31.453000;2.0;False;MEDIUM;5.0;True;Alfa Romeo;1;18.0;2022;Abu Dhabi Grand Prix
+21086;BOT;77;0 days 00:01:31.331000;2.0;False;MEDIUM;6.0;True;Alfa Romeo;1;18.0;2022;Abu Dhabi Grand Prix
+21087;BOT;77;0 days 00:01:31.188000;2.0;True;MEDIUM;7.0;True;Alfa Romeo;1;18.0;2022;Abu Dhabi Grand Prix
+21088;BOT;77;0 days 00:01:32.518000;2.0;False;MEDIUM;8.0;True;Alfa Romeo;2;16.0;2022;Abu Dhabi Grand Prix
+21089;BOT;77;0 days 00:01:32.017000;2.0;False;MEDIUM;9.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21090;BOT;77;0 days 00:01:31.512000;2.0;False;MEDIUM;10.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21091;BOT;77;0 days 00:01:30.757000;2.0;True;MEDIUM;11.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21092;BOT;77;0 days 00:01:33.093000;2.0;False;MEDIUM;12.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21093;BOT;77;0 days 00:01:31.448000;2.0;False;MEDIUM;13.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21094;BOT;77;0 days 00:01:31.246000;2.0;False;MEDIUM;14.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21095;BOT;77;0 days 00:01:31.319000;2.0;False;MEDIUM;15.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21096;BOT;77;0 days 00:01:31.158000;2.0;False;MEDIUM;16.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21097;BOT;77;0 days 00:01:30.352000;2.0;True;MEDIUM;17.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21098;BOT;77;0 days 00:01:32.319000;2.0;False;MEDIUM;18.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21099;BOT;77;0 days 00:01:30.639000;2.0;False;MEDIUM;19.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21100;BOT;77;0 days 00:01:30.457000;2.0;False;MEDIUM;20.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21101;BOT;77;0 days 00:01:30.539000;2.0;False;MEDIUM;21.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21102;BOT;77;0 days 00:01:31.299000;2.0;False;MEDIUM;22.0;True;Alfa Romeo;1;17.0;2022;Abu Dhabi Grand Prix
+21103;BOT;77;0 days 00:01:32.998000;2.0;False;MEDIUM;23.0;True;Alfa Romeo;1;16.0;2022;Abu Dhabi Grand Prix
+21104;BOT;77;0 days 00:01:32.995000;2.0;False;MEDIUM;24.0;True;Alfa Romeo;1;16.0;2022;Abu Dhabi Grand Prix
+21105;BOT;77;0 days 00:01:31.236000;2.0;False;MEDIUM;25.0;True;Alfa Romeo;1;16.0;2022;Abu Dhabi Grand Prix
+21106;BOT;77;0 days 00:01:30.566000;2.0;False;MEDIUM;26.0;True;Alfa Romeo;1;15.0;2022;Abu Dhabi Grand Prix
+21107;BOT;77;0 days 00:01:30.743000;2.0;False;MEDIUM;27.0;True;Alfa Romeo;1;15.0;2022;Abu Dhabi Grand Prix
+21108;MSC;47;0 days 00:01:39.723000;1.0;False;MEDIUM;1.0;True;Haas F1 Team;1;13.0;2022;Abu Dhabi Grand Prix
+21109;MSC;47;0 days 00:01:33.725000;1.0;True;MEDIUM;2.0;True;Haas F1 Team;1;14.0;2022;Abu Dhabi Grand Prix
+21110;MSC;47;0 days 00:01:32.196000;1.0;True;MEDIUM;3.0;True;Haas F1 Team;1;14.0;2022;Abu Dhabi Grand Prix
+21111;MSC;47;0 days 00:01:34.204000;1.0;False;MEDIUM;4.0;True;Haas F1 Team;1;15.0;2022;Abu Dhabi Grand Prix
+21112;MSC;47;0 days 00:01:33.757000;1.0;False;MEDIUM;5.0;True;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21113;MSC;47;0 days 00:01:32.836000;1.0;False;MEDIUM;6.0;True;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21114;MSC;47;0 days 00:01:32.045000;1.0;True;MEDIUM;7.0;True;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21115;MSC;47;0 days 00:01:32.389000;1.0;False;MEDIUM;8.0;True;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21116;MSC;47;0 days 00:01:32.453000;1.0;False;MEDIUM;9.0;True;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21117;MSC;47;0 days 00:01:32.732000;1.0;False;MEDIUM;10.0;True;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21118;MSC;47;0 days 00:01:33.014000;1.0;False;MEDIUM;11.0;True;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21119;MSC;47;0 days 00:01:32.787000;1.0;False;MEDIUM;12.0;True;Haas F1 Team;1;15.0;2022;Abu Dhabi Grand Prix
+21120;MSC;47;0 days 00:01:32.669000;1.0;False;MEDIUM;13.0;True;Haas F1 Team;1;15.0;2022;Abu Dhabi Grand Prix
+21121;MSC;47;0 days 00:01:34.647000;1.0;False;MEDIUM;14.0;True;Haas F1 Team;1;14.0;2022;Abu Dhabi Grand Prix
+21122;MSC;47;0 days 00:01:52.783000;2.0;False;HARD;1.0;True;Haas F1 Team;1;19.0;2022;Abu Dhabi Grand Prix
+21123;MSC;47;0 days 00:01:31.364000;2.0;True;HARD;2.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21124;MSC;47;0 days 00:01:31.143000;2.0;True;HARD;3.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21125;MSC;47;0 days 00:01:31.532000;2.0;False;HARD;4.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21126;MSC;47;0 days 00:01:31.331000;2.0;False;HARD;5.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21127;MSC;47;0 days 00:01:31.382000;2.0;False;HARD;6.0;True;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21128;MSC;47;0 days 00:01:31.689000;2.0;False;HARD;7.0;True;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21129;MSC;47;0 days 00:01:31.822000;2.0;False;HARD;8.0;True;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21130;MSC;47;0 days 00:01:32.847000;2.0;False;HARD;9.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21131;MSC;47;0 days 00:01:32.166000;2.0;False;HARD;10.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21132;MSC;47;0 days 00:01:32.238000;2.0;False;HARD;11.0;True;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21133;MSC;47;0 days 00:01:31.783000;2.0;False;HARD;12.0;True;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21134;MSC;47;0 days 00:01:31.596000;2.0;False;HARD;13.0;True;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21135;MSC;47;0 days 00:01:31.449000;2.0;False;HARD;14.0;True;Haas F1 Team;1;14.0;2022;Abu Dhabi Grand Prix
+21136;MSC;47;0 days 00:01:31.762000;2.0;False;HARD;15.0;True;Haas F1 Team;1;14.0;2022;Abu Dhabi Grand Prix
+21137;MSC;47;0 days 00:01:31.472000;2.0;False;HARD;16.0;True;Haas F1 Team;1;14.0;2022;Abu Dhabi Grand Prix
+21138;MSC;47;0 days 00:01:31.521000;2.0;False;HARD;17.0;True;Haas F1 Team;1;14.0;2022;Abu Dhabi Grand Prix
+21139;MSC;47;0 days 00:01:32.070000;2.0;False;HARD;18.0;True;Haas F1 Team;1;14.0;2022;Abu Dhabi Grand Prix
+21140;MSC;47;0 days 00:01:32.046000;2.0;False;HARD;19.0;True;Haas F1 Team;1;14.0;2022;Abu Dhabi Grand Prix
+21141;MSC;47;0 days 00:01:33.827000;2.0;False;HARD;20.0;True;Haas F1 Team;1;15.0;2022;Abu Dhabi Grand Prix
+21142;MSC;47;0 days 00:01:53.429000;3.0;False;MEDIUM;1.0;False;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21143;MSC;47;0 days 00:01:31.088000;3.0;True;MEDIUM;2.0;False;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21144;MSC;47;0 days 00:01:30.952000;3.0;True;MEDIUM;3.0;False;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21145;MSC;47;0 days 00:01:37.111000;3.0;False;MEDIUM;4.0;False;Haas F1 Team;2;17.0;2022;Abu Dhabi Grand Prix
+21146;MSC;47;0 days 00:01:29.833000;3.0;True;MEDIUM;5.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21147;MSC;47;0 days 00:01:30.614000;3.0;False;MEDIUM;6.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21148;MSC;47;0 days 00:01:30.416000;3.0;False;MEDIUM;7.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21149;MSC;47;0 days 00:01:30.161000;3.0;False;MEDIUM;8.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21150;MSC;47;0 days 00:01:30.456000;3.0;False;MEDIUM;9.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21151;MSC;47;0 days 00:01:30.709000;3.0;False;MEDIUM;10.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21152;MSC;47;0 days 00:01:30.851000;3.0;False;MEDIUM;11.0;False;Haas F1 Team;1;15.0;2022;Abu Dhabi Grand Prix
+21153;MSC;47;0 days 00:01:30.704000;3.0;False;MEDIUM;12.0;False;Haas F1 Team;1;15.0;2022;Abu Dhabi Grand Prix
+21154;MSC;47;0 days 00:01:32.870000;3.0;False;MEDIUM;13.0;False;Haas F1 Team;1;15.0;2022;Abu Dhabi Grand Prix
+21155;MSC;47;0 days 00:01:31.948000;3.0;False;MEDIUM;14.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21156;MSC;47;0 days 00:01:31.623000;3.0;False;MEDIUM;15.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21157;MSC;47;0 days 00:01:32.908000;3.0;False;MEDIUM;16.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21158;MSC;47;0 days 00:01:31.493000;3.0;False;MEDIUM;17.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21159;MSC;47;0 days 00:01:32.340000;3.0;False;MEDIUM;18.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21160;MSC;47;0 days 00:01:34.483000;3.0;False;MEDIUM;19.0;False;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21161;MSC;47;0 days 00:01:33.907000;3.0;False;MEDIUM;20.0;False;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21162;MSC;47;0 days 00:01:32.570000;3.0;False;MEDIUM;21.0;False;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21163;MSC;47;0 days 00:01:34.761000;3.0;False;MEDIUM;22.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21164;MSC;47;0 days 00:01:32.757000;3.0;False;MEDIUM;23.0;False;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21165;MAG;20;0 days 00:01:41.200000;1.0;False;HARD;1.0;True;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21166;MAG;20;0 days 00:01:34.950000;1.0;True;HARD;2.0;True;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21167;MAG;20;0 days 00:01:33.566000;1.0;True;HARD;3.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21168;MAG;20;0 days 00:01:32.512000;1.0;True;HARD;4.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21169;MAG;20;0 days 00:01:32.637000;1.0;False;HARD;5.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21170;MAG;20;0 days 00:01:33.355000;1.0;False;HARD;6.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21171;MAG;20;0 days 00:01:32.653000;1.0;False;HARD;7.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21172;MAG;20;0 days 00:01:32.570000;1.0;False;HARD;8.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21173;MAG;20;0 days 00:01:32.976000;1.0;False;HARD;9.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21174;MAG;20;0 days 00:01:32.991000;1.0;False;HARD;10.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21175;MAG;20;0 days 00:01:33.373000;1.0;False;HARD;11.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21176;MAG;20;0 days 00:01:32.989000;1.0;False;HARD;12.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21177;MAG;20;0 days 00:01:32.614000;1.0;False;HARD;13.0;True;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21178;MAG;20;0 days 00:01:32.521000;1.0;False;HARD;14.0;True;Haas F1 Team;1;15.0;2022;Abu Dhabi Grand Prix
+21179;MAG;20;0 days 00:01:32.589000;1.0;False;HARD;15.0;True;Haas F1 Team;1;12.0;2022;Abu Dhabi Grand Prix
+21180;MAG;20;0 days 00:01:32.523000;1.0;False;HARD;16.0;True;Haas F1 Team;1;10.0;2022;Abu Dhabi Grand Prix
+21181;MAG;20;0 days 00:01:32.826000;1.0;False;HARD;17.0;True;Haas F1 Team;1;10.0;2022;Abu Dhabi Grand Prix
+21182;MAG;20;0 days 00:01:32.929000;1.0;False;HARD;18.0;True;Haas F1 Team;1;11.0;2022;Abu Dhabi Grand Prix
+21183;MAG;20;0 days 00:01:34.170000;1.0;False;HARD;19.0;True;Haas F1 Team;1;12.0;2022;Abu Dhabi Grand Prix
+21184;MAG;20;0 days 00:01:34.443000;1.0;False;HARD;20.0;True;Haas F1 Team;1;12.0;2022;Abu Dhabi Grand Prix
+21185;MAG;20;0 days 00:01:34.263000;1.0;False;HARD;21.0;True;Haas F1 Team;1;13.0;2022;Abu Dhabi Grand Prix
+21186;MAG;20;0 days 00:01:33.238000;1.0;False;HARD;22.0;True;Haas F1 Team;1;14.0;2022;Abu Dhabi Grand Prix
+21187;MAG;20;0 days 00:01:34.261000;1.0;False;HARD;23.0;True;Haas F1 Team;1;15.0;2022;Abu Dhabi Grand Prix
+21188;MAG;20;0 days 00:01:34.181000;1.0;False;HARD;24.0;True;Haas F1 Team;1;16.0;2022;Abu Dhabi Grand Prix
+21189;MAG;20;0 days 00:01:34.728000;1.0;False;HARD;25.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21190;MAG;20;0 days 00:01:33.847000;1.0;False;HARD;26.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21191;MAG;20;0 days 00:01:33.391000;1.0;False;HARD;27.0;True;Haas F1 Team;1;19.0;2022;Abu Dhabi Grand Prix
+21192;MAG;20;0 days 00:01:35.327000;1.0;False;HARD;28.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21193;MAG;20;0 days 00:01:53.068000;2.0;False;MEDIUM;1.0;True;Haas F1 Team;1;19.0;2022;Abu Dhabi Grand Prix
+21194;MAG;20;0 days 00:01:33.106000;2.0;False;MEDIUM;2.0;True;Haas F1 Team;1;19.0;2022;Abu Dhabi Grand Prix
+21195;MAG;20;0 days 00:01:31.441000;2.0;True;MEDIUM;3.0;True;Haas F1 Team;1;19.0;2022;Abu Dhabi Grand Prix
+21196;MAG;20;0 days 00:01:31.487000;2.0;False;MEDIUM;4.0;True;Haas F1 Team;1;19.0;2022;Abu Dhabi Grand Prix
+21197;MAG;20;0 days 00:01:31.784000;2.0;False;MEDIUM;5.0;True;Haas F1 Team;1;19.0;2022;Abu Dhabi Grand Prix
+21198;MAG;20;0 days 00:01:31.971000;2.0;False;MEDIUM;6.0;True;Haas F1 Team;1;19.0;2022;Abu Dhabi Grand Prix
+21199;MAG;20;0 days 00:01:32.687000;2.0;False;MEDIUM;7.0;True;Haas F1 Team;1;19.0;2022;Abu Dhabi Grand Prix
+21200;MAG;20;0 days 00:01:31.657000;2.0;False;MEDIUM;8.0;True;Haas F1 Team;1;19.0;2022;Abu Dhabi Grand Prix
+21201;MAG;20;0 days 00:01:31.811000;2.0;False;MEDIUM;9.0;True;Haas F1 Team;1;19.0;2022;Abu Dhabi Grand Prix
+21202;MAG;20;0 days 00:01:34.176000;2.0;False;MEDIUM;10.0;True;Haas F1 Team;2;18.0;2022;Abu Dhabi Grand Prix
+21203;MAG;20;0 days 00:01:31.320000;2.0;True;MEDIUM;11.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21204;MAG;20;0 days 00:01:31.158000;2.0;True;MEDIUM;12.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21205;MAG;20;0 days 00:01:31.563000;2.0;False;MEDIUM;13.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21206;MAG;20;0 days 00:01:31.217000;2.0;False;MEDIUM;14.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21207;MAG;20;0 days 00:01:31.866000;2.0;False;MEDIUM;15.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21208;MAG;20;0 days 00:01:33.317000;2.0;False;MEDIUM;16.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21209;MAG;20;0 days 00:01:31.499000;2.0;False;MEDIUM;17.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21210;MAG;20;0 days 00:01:31.443000;2.0;False;MEDIUM;18.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21211;MAG;20;0 days 00:01:31.644000;2.0;False;MEDIUM;19.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21212;MAG;20;0 days 00:01:31.501000;2.0;False;MEDIUM;20.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21213;MAG;20;0 days 00:01:32.595000;2.0;False;MEDIUM;21.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21214;MAG;20;0 days 00:01:31.533000;2.0;False;MEDIUM;22.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21215;MAG;20;0 days 00:01:32.528000;2.0;False;MEDIUM;23.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21216;MAG;20;0 days 00:01:32.351000;2.0;False;MEDIUM;24.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21217;MAG;20;0 days 00:01:32.669000;2.0;False;MEDIUM;25.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21218;MAG;20;0 days 00:01:33.057000;2.0;False;MEDIUM;26.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21219;MAG;20;0 days 00:01:32.549000;2.0;False;MEDIUM;27.0;True;Haas F1 Team;1;18.0;2022;Abu Dhabi Grand Prix
+21220;MAG;20;0 days 00:01:32.782000;2.0;False;MEDIUM;28.0;True;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21221;MAG;20;0 days 00:01:33.239000;2.0;False;MEDIUM;29.0;True;Haas F1 Team;1;17.0;2022;Abu Dhabi Grand Prix
+21222;HAM;44;0 days 00:01:34.864000;1.0;False;MEDIUM;1.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21223;HAM;44;0 days 00:01:31.094000;1.0;True;MEDIUM;2.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21224;HAM;44;0 days 00:01:30.441000;1.0;True;MEDIUM;3.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21225;HAM;44;0 days 00:01:32.842000;1.0;False;MEDIUM;4.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+21226;HAM;44;0 days 00:01:30.346000;1.0;True;MEDIUM;5.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21227;HAM;44;0 days 00:01:31.334000;1.0;False;MEDIUM;6.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21228;HAM;44;0 days 00:01:31.532000;1.0;False;MEDIUM;7.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21229;HAM;44;0 days 00:01:32.740000;1.0;False;MEDIUM;8.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+21230;HAM;44;0 days 00:01:32.267000;1.0;False;MEDIUM;9.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21231;HAM;44;0 days 00:01:32.115000;1.0;False;MEDIUM;10.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21232;HAM;44;0 days 00:01:31.926000;1.0;False;MEDIUM;11.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21233;HAM;44;0 days 00:01:32.023000;1.0;False;MEDIUM;12.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21234;HAM;44;0 days 00:01:31.655000;1.0;False;MEDIUM;13.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21235;HAM;44;0 days 00:01:31.886000;1.0;False;MEDIUM;14.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21236;HAM;44;0 days 00:01:31.840000;1.0;False;MEDIUM;15.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21237;HAM;44;0 days 00:01:32.069000;1.0;False;MEDIUM;16.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21238;HAM;44;0 days 00:01:32.416000;1.0;False;MEDIUM;17.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21239;HAM;44;0 days 00:01:34.638000;1.0;False;MEDIUM;18.0;True;Mercedes;1;3.0;2022;Abu Dhabi Grand Prix
+21240;HAM;44;0 days 00:01:50.886000;2.0;False;HARD;1.0;True;Mercedes;1;9.0;2022;Abu Dhabi Grand Prix
+21241;HAM;44;0 days 00:01:30.523000;2.0;False;HARD;2.0;True;Mercedes;1;7.0;2022;Abu Dhabi Grand Prix
+21242;HAM;44;0 days 00:01:30.664000;2.0;False;HARD;3.0;True;Mercedes;1;7.0;2022;Abu Dhabi Grand Prix
+21243;HAM;44;0 days 00:01:30.794000;2.0;False;HARD;4.0;True;Mercedes;1;7.0;2022;Abu Dhabi Grand Prix
+21244;HAM;44;0 days 00:01:30.050000;2.0;True;HARD;5.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21245;HAM;44;0 days 00:01:30.639000;2.0;False;HARD;6.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21246;HAM;44;0 days 00:01:30.147000;2.0;False;HARD;7.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21247;HAM;44;0 days 00:01:30.370000;2.0;False;HARD;8.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21248;HAM;44;0 days 00:01:30.082000;2.0;False;HARD;9.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21249;HAM;44;0 days 00:01:30.168000;2.0;False;HARD;10.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21250;HAM;44;0 days 00:01:30.113000;2.0;False;HARD;11.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21251;HAM;44;0 days 00:01:30.233000;2.0;False;HARD;12.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21252;HAM;44;0 days 00:01:29.950000;2.0;True;HARD;13.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21253;HAM;44;0 days 00:01:30.141000;2.0;False;HARD;14.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21254;HAM;44;0 days 00:01:29.965000;2.0;False;HARD;15.0;True;Mercedes;1;6.0;2022;Abu Dhabi Grand Prix
+21255;HAM;44;0 days 00:01:30.159000;2.0;False;HARD;16.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+21256;HAM;44;0 days 00:01:30.086000;2.0;False;HARD;17.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+21257;HAM;44;0 days 00:01:30.232000;2.0;False;HARD;18.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+21258;HAM;44;0 days 00:01:29.954000;2.0;False;HARD;19.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+21259;HAM;44;0 days 00:01:30.277000;2.0;False;HARD;20.0;True;Mercedes;1;5.0;2022;Abu Dhabi Grand Prix
+21260;HAM;44;0 days 00:01:30.331000;2.0;False;HARD;21.0;True;Mercedes;2;4.0;2022;Abu Dhabi Grand Prix
+21261;HAM;44;0 days 00:01:30.286000;2.0;False;HARD;22.0;True;Mercedes;1;3.0;2022;Abu Dhabi Grand Prix
+21262;HAM;44;0 days 00:01:30.006000;2.0;False;HARD;23.0;True;Mercedes;1;3.0;2022;Abu Dhabi Grand Prix
+21263;HAM;44;0 days 00:01:29.788000;2.0;True;HARD;24.0;True;Mercedes;1;3.0;2022;Abu Dhabi Grand Prix
+21264;HAM;44;0 days 00:01:30.256000;2.0;False;HARD;25.0;True;Mercedes;1;3.0;2022;Abu Dhabi Grand Prix
+21265;HAM;44;0 days 00:01:30.335000;2.0;False;HARD;26.0;True;Mercedes;1;3.0;2022;Abu Dhabi Grand Prix
+21266;HAM;44;0 days 00:01:30.184000;2.0;False;HARD;27.0;True;Mercedes;1;3.0;2022;Abu Dhabi Grand Prix
+21267;HAM;44;0 days 00:01:31.178000;2.0;False;HARD;28.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21268;HAM;44;0 days 00:01:30.358000;2.0;False;HARD;29.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21269;HAM;44;0 days 00:01:30.144000;2.0;False;HARD;30.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21270;HAM;44;0 days 00:01:30.283000;2.0;False;HARD;31.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21271;HAM;44;0 days 00:01:30.177000;2.0;False;HARD;32.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21272;HAM;44;0 days 00:01:30.455000;2.0;False;HARD;33.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21273;HAM;44;0 days 00:01:30.375000;2.0;False;HARD;34.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21274;HAM;44;0 days 00:01:30.824000;2.0;False;HARD;35.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21275;HAM;44;0 days 00:01:30.961000;2.0;False;HARD;36.0;True;Mercedes;1;4.0;2022;Abu Dhabi Grand Prix
+21276;HAM;44;0 days 00:02:07.585000;2.0;False;HARD;37.0;True;Mercedes;1;8.0;2022;Abu Dhabi Grand Prix
+21277;ALO;14;0 days 00:01:38.193000;1.0;False;MEDIUM;1.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21278;ALO;14;0 days 00:01:32.329000;1.0;True;MEDIUM;2.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21279;ALO;14;0 days 00:01:31.539000;1.0;True;MEDIUM;3.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21280;ALO;14;0 days 00:01:31.618000;1.0;False;MEDIUM;4.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21281;ALO;14;0 days 00:01:31.638000;1.0;False;MEDIUM;5.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21282;ALO;14;0 days 00:01:32.035000;1.0;False;MEDIUM;6.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21283;ALO;14;0 days 00:01:31.836000;1.0;False;MEDIUM;7.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21284;ALO;14;0 days 00:01:32.527000;1.0;False;MEDIUM;8.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21285;ALO;14;0 days 00:01:32.452000;1.0;False;MEDIUM;9.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21286;ALO;14;0 days 00:01:32.562000;1.0;False;MEDIUM;10.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21287;ALO;14;0 days 00:01:32.651000;1.0;False;MEDIUM;11.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21288;ALO;14;0 days 00:01:32.427000;1.0;False;MEDIUM;12.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21289;ALO;14;0 days 00:01:32.566000;1.0;False;MEDIUM;13.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21290;ALO;14;0 days 00:01:32.892000;1.0;False;MEDIUM;14.0;True;Alpine;1;9.0;2022;Abu Dhabi Grand Prix
+21291;ALO;14;0 days 00:01:32.227000;1.0;False;MEDIUM;15.0;True;Alpine;1;9.0;2022;Abu Dhabi Grand Prix
+21292;ALO;14;0 days 00:01:33.788000;1.0;False;MEDIUM;16.0;True;Alpine;1;7.0;2022;Abu Dhabi Grand Prix
+21293;ALO;14;0 days 00:01:32.439000;1.0;False;MEDIUM;17.0;True;Alpine;1;7.0;2022;Abu Dhabi Grand Prix
+21294;ALO;14;0 days 00:01:32.541000;1.0;False;MEDIUM;18.0;True;Alpine;1;6.0;2022;Abu Dhabi Grand Prix
+21295;ALO;14;0 days 00:01:34.941000;1.0;False;MEDIUM;19.0;True;Alpine;1;7.0;2022;Abu Dhabi Grand Prix
+21296;ALO;14;0 days 00:01:50.604000;2.0;False;HARD;1.0;True;Alpine;1;14.0;2022;Abu Dhabi Grand Prix
+21297;ALO;14;0 days 00:01:31.273000;2.0;True;HARD;2.0;True;Alpine;1;14.0;2022;Abu Dhabi Grand Prix
+21298;ALO;14;0 days 00:01:31.148000;2.0;True;HARD;3.0;True;Alpine;1;13.0;2022;Abu Dhabi Grand Prix
+21299;ALO;14;0 days 00:01:31.819000;2.0;False;HARD;4.0;True;Alpine;1;12.0;2022;Abu Dhabi Grand Prix
+21300;ALO;14;0 days 00:01:30.579000;2.0;True;HARD;5.0;True;Alpine;1;11.0;2022;Abu Dhabi Grand Prix
+21301;ALO;14;0 days 00:01:31.065000;2.0;False;HARD;6.0;True;Alpine;1;11.0;2022;Abu Dhabi Grand Prix
+21302;ALO;14;0 days 00:01:30.688000;2.0;False;HARD;7.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix
+21303;ALO;14;0 days 00:01:33.178000;2.0;False;HARD;8.0;True;Alpine;1;10.0;2022;Abu Dhabi Grand Prix

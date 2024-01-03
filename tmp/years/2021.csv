@@ -21490,3 +21490,952 @@
 21488;GIO;99;0 days 00:01:32.885000;3.0;False;HARD;35.0;False;Alfa Romeo Racing;1;9.0;2021;Saudi Arabian Grand Prix
 21489;GIO;99;0 days 00:01:33.167000;3.0;False;HARD;36.0;False;Alfa Romeo Racing;1;9.0;2021;Saudi Arabian Grand Prix
 21490;GIO;99;0 days 00:01:33.604000;3.0;False;HARD;37.0;False;Alfa Romeo Racing;1;9.0;2021;Saudi Arabian Grand Prix
+21491;GAS;10;0 days 00:01:39.330000;1.0;False;HARD;1.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21492;GAS;10;0 days 00:01:32.814000;1.0;True;HARD;2.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21493;GAS;10;0 days 00:01:31.533000;1.0;True;HARD;3.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21494;GAS;10;0 days 00:01:31.439000;1.0;True;HARD;4.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21495;GAS;10;0 days 00:01:31.367000;1.0;True;HARD;5.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21496;GAS;10;0 days 00:01:30.786000;1.0;True;HARD;6.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21497;GAS;10;0 days 00:01:30.757000;1.0;True;HARD;7.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21498;GAS;10;0 days 00:01:31.135000;1.0;False;HARD;8.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21499;GAS;10;0 days 00:01:31.365000;1.0;False;HARD;9.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21500;GAS;10;0 days 00:01:30.880000;1.0;False;HARD;10.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21501;GAS;10;0 days 00:01:30.726000;1.0;True;HARD;11.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21502;GAS;10;0 days 00:01:30.547000;1.0;True;HARD;12.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21503;GAS;10;0 days 00:01:30.408000;1.0;True;HARD;13.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21504;GAS;10;0 days 00:01:30.641000;1.0;False;HARD;14.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21505;GAS;10;0 days 00:01:30.686000;1.0;False;HARD;15.0;True;AlphaTauri;1;12.0;2021;Abu Dhabi Grand Prix
+21506;GAS;10;0 days 00:01:30.629000;1.0;False;HARD;16.0;True;AlphaTauri;1;10.0;2021;Abu Dhabi Grand Prix
+21507;GAS;10;0 days 00:01:30.744000;1.0;False;HARD;17.0;True;AlphaTauri;1;10.0;2021;Abu Dhabi Grand Prix
+21508;GAS;10;0 days 00:01:30.725000;1.0;False;HARD;18.0;True;AlphaTauri;1;8.0;2021;Abu Dhabi Grand Prix
+21509;GAS;10;0 days 00:01:30.475000;1.0;False;HARD;19.0;True;AlphaTauri;1;8.0;2021;Abu Dhabi Grand Prix
+21510;GAS;10;0 days 00:01:29.954000;1.0;True;HARD;20.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21511;GAS;10;0 days 00:01:29.652000;1.0;True;HARD;21.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21512;GAS;10;0 days 00:01:29.757000;1.0;False;HARD;22.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21513;GAS;10;0 days 00:01:29.607000;1.0;True;HARD;23.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21514;GAS;10;0 days 00:01:29.646000;1.0;False;HARD;24.0;True;AlphaTauri;1;6.0;2021;Abu Dhabi Grand Prix
+21515;GAS;10;0 days 00:01:30.146000;1.0;False;HARD;25.0;True;AlphaTauri;2;6.0;2021;Abu Dhabi Grand Prix
+21516;GAS;10;0 days 00:01:29.448000;1.0;True;HARD;26.0;True;AlphaTauri;2;6.0;2021;Abu Dhabi Grand Prix
+21517;GAS;10;0 days 00:01:29.606000;1.0;False;HARD;27.0;True;AlphaTauri;1;6.0;2021;Abu Dhabi Grand Prix
+21518;GAS;10;0 days 00:01:29.307000;1.0;True;HARD;28.0;True;AlphaTauri;1;6.0;2021;Abu Dhabi Grand Prix
+21519;GAS;10;0 days 00:01:29.130000;1.0;True;HARD;29.0;True;AlphaTauri;1;6.0;2021;Abu Dhabi Grand Prix
+21520;GAS;10;0 days 00:01:29.177000;1.0;False;HARD;30.0;True;AlphaTauri;1;6.0;2021;Abu Dhabi Grand Prix
+21521;GAS;10;0 days 00:01:29.301000;1.0;False;HARD;31.0;True;AlphaTauri;1;5.0;2021;Abu Dhabi Grand Prix
+21522;GAS;10;0 days 00:01:29.076000;1.0;True;HARD;32.0;True;AlphaTauri;1;5.0;2021;Abu Dhabi Grand Prix
+21523;GAS;10;0 days 00:01:29.165000;1.0;False;HARD;33.0;True;AlphaTauri;1;5.0;2021;Abu Dhabi Grand Prix
+21524;GAS;10;0 days 00:01:28.998000;1.0;True;HARD;34.0;True;AlphaTauri;1;5.0;2021;Abu Dhabi Grand Prix
+21525;GAS;10;0 days 00:01:32.681000;1.0;False;HARD;35.0;True;AlphaTauri;6;5.0;2021;Abu Dhabi Grand Prix
+21526;GAS;10;0 days 00:01:54.650000;1.0;False;HARD;36.0;True;AlphaTauri;6;5.0;2021;Abu Dhabi Grand Prix
+21527;GAS;10;0 days 00:01:56.705000;2.0;False;MEDIUM;4.0;False;AlphaTauri;67;9.0;2021;Abu Dhabi Grand Prix
+21528;GAS;10;0 days 00:01:29.559000;2.0;False;MEDIUM;5.0;False;AlphaTauri;1;9.0;2021;Abu Dhabi Grand Prix
+21529;GAS;10;0 days 00:01:29.017000;2.0;False;MEDIUM;6.0;False;AlphaTauri;1;9.0;2021;Abu Dhabi Grand Prix
+21530;GAS;10;0 days 00:01:29.012000;2.0;False;MEDIUM;7.0;False;AlphaTauri;1;9.0;2021;Abu Dhabi Grand Prix
+21531;GAS;10;0 days 00:01:28.385000;2.0;True;MEDIUM;8.0;False;AlphaTauri;1;8.0;2021;Abu Dhabi Grand Prix
+21532;GAS;10;0 days 00:01:28.454000;2.0;False;MEDIUM;9.0;False;AlphaTauri;1;8.0;2021;Abu Dhabi Grand Prix
+21533;GAS;10;0 days 00:01:28.090000;2.0;True;MEDIUM;10.0;False;AlphaTauri;1;8.0;2021;Abu Dhabi Grand Prix
+21534;GAS;10;0 days 00:01:28.071000;2.0;True;MEDIUM;11.0;False;AlphaTauri;1;8.0;2021;Abu Dhabi Grand Prix
+21535;GAS;10;0 days 00:01:27.870000;2.0;True;MEDIUM;12.0;False;AlphaTauri;1;8.0;2021;Abu Dhabi Grand Prix
+21536;GAS;10;0 days 00:01:27.726000;2.0;True;MEDIUM;13.0;False;AlphaTauri;1;8.0;2021;Abu Dhabi Grand Prix
+21537;GAS;10;0 days 00:01:27.699000;2.0;True;MEDIUM;14.0;False;AlphaTauri;1;8.0;2021;Abu Dhabi Grand Prix
+21538;GAS;10;0 days 00:01:27.567000;2.0;True;MEDIUM;15.0;False;AlphaTauri;1;8.0;2021;Abu Dhabi Grand Prix
+21539;GAS;10;0 days 00:01:27.342000;2.0;True;MEDIUM;16.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21540;GAS;10;0 days 00:01:27.424000;2.0;False;MEDIUM;17.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21541;GAS;10;0 days 00:01:27.442000;2.0;False;MEDIUM;18.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21542;GAS;10;0 days 00:01:35.375000;2.0;False;MEDIUM;19.0;False;AlphaTauri;24;7.0;2021;Abu Dhabi Grand Prix
+21543;GAS;10;0 days 00:01:53.281000;2.0;False;MEDIUM;20.0;False;AlphaTauri;4;7.0;2021;Abu Dhabi Grand Prix
+21544;GAS;10;0 days 00:01:50.389000;2.0;False;MEDIUM;21.0;False;AlphaTauri;4;6.0;2021;Abu Dhabi Grand Prix
+21545;GAS;10;0 days 00:02:00.394000;3.0;False;SOFT;1.0;True;AlphaTauri;4;7.0;2021;Abu Dhabi Grand Prix
+21546;GAS;10;0 days 00:02:02.485000;3.0;False;SOFT;2.0;True;AlphaTauri;4;6.0;2021;Abu Dhabi Grand Prix
+21547;GAS;10;0 days 00:02:16.957000;3.0;False;SOFT;3.0;True;AlphaTauri;4;6.0;2021;Abu Dhabi Grand Prix
+21548;GAS;10;0 days 00:01:28.344000;3.0;False;SOFT;4.0;True;AlphaTauri;1;5.0;2021;Abu Dhabi Grand Prix
+21549;PER;11;0 days 00:01:33.756000;1.0;False;SOFT;4.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21550;PER;11;0 days 00:01:29.507000;1.0;True;SOFT;5.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21551;PER;11;0 days 00:01:29.273000;1.0;True;SOFT;6.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21552;PER;11;0 days 00:01:28.902000;1.0;True;SOFT;7.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21553;PER;11;0 days 00:01:29.249000;1.0;False;SOFT;8.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21554;PER;11;0 days 00:01:29.239000;1.0;False;SOFT;9.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21555;PER;11;0 days 00:01:29.022000;1.0;False;SOFT;10.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21556;PER;11;0 days 00:01:28.940000;1.0;False;SOFT;11.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21557;PER;11;0 days 00:01:29.063000;1.0;False;SOFT;12.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21558;PER;11;0 days 00:01:28.937000;1.0;False;SOFT;13.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21559;PER;11;0 days 00:01:28.886000;1.0;True;SOFT;14.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21560;PER;11;0 days 00:01:29.165000;1.0;False;SOFT;15.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21561;PER;11;0 days 00:01:29.267000;1.0;False;SOFT;16.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21562;PER;11;0 days 00:01:29.392000;1.0;False;SOFT;17.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21563;PER;11;0 days 00:01:29.581000;1.0;False;SOFT;18.0;False;Red Bull Racing;1;1.0;2021;Abu Dhabi Grand Prix
+21564;PER;11;0 days 00:01:29.683000;1.0;False;SOFT;19.0;False;Red Bull Racing;1;1.0;2021;Abu Dhabi Grand Prix
+21565;PER;11;0 days 00:01:29.967000;1.0;False;SOFT;20.0;False;Red Bull Racing;1;1.0;2021;Abu Dhabi Grand Prix
+21566;PER;11;0 days 00:01:30.588000;1.0;False;SOFT;21.0;False;Red Bull Racing;1;1.0;2021;Abu Dhabi Grand Prix
+21567;PER;11;0 days 00:01:31.034000;1.0;False;SOFT;22.0;False;Red Bull Racing;1;1.0;2021;Abu Dhabi Grand Prix
+21568;PER;11;0 days 00:01:34.359000;1.0;False;SOFT;23.0;False;Red Bull Racing;1;1.0;2021;Abu Dhabi Grand Prix
+21569;PER;11;0 days 00:01:36.824000;1.0;False;SOFT;24.0;False;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21570;PER;11;0 days 00:01:48.764000;2.0;False;HARD;1.0;True;Red Bull Racing;1;5.0;2021;Abu Dhabi Grand Prix
+21571;PER;11;0 days 00:01:28.513000;2.0;True;HARD;2.0;True;Red Bull Racing;1;5.0;2021;Abu Dhabi Grand Prix
+21572;PER;11;0 days 00:01:28.605000;2.0;False;HARD;3.0;True;Red Bull Racing;1;4.0;2021;Abu Dhabi Grand Prix
+21573;PER;11;0 days 00:01:27.725000;2.0;True;HARD;4.0;True;Red Bull Racing;2;4.0;2021;Abu Dhabi Grand Prix
+21574;PER;11;0 days 00:01:28.313000;2.0;False;HARD;5.0;True;Red Bull Racing;2;4.0;2021;Abu Dhabi Grand Prix
+21575;PER;11;0 days 00:01:28.051000;2.0;False;HARD;6.0;True;Red Bull Racing;1;4.0;2021;Abu Dhabi Grand Prix
+21576;PER;11;0 days 00:01:27.962000;2.0;False;HARD;7.0;True;Red Bull Racing;1;4.0;2021;Abu Dhabi Grand Prix
+21577;PER;11;0 days 00:01:27.978000;2.0;False;HARD;8.0;True;Red Bull Racing;1;4.0;2021;Abu Dhabi Grand Prix
+21578;PER;11;0 days 00:01:28.339000;2.0;False;HARD;9.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21579;PER;11;0 days 00:01:27.950000;2.0;False;HARD;10.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21580;PER;11;0 days 00:01:27.820000;2.0;False;HARD;11.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21581;PER;11;0 days 00:01:27.960000;2.0;False;HARD;12.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21582;PER;11;0 days 00:01:27.306000;2.0;True;HARD;13.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21583;PER;11;0 days 00:01:27.423000;2.0;False;HARD;14.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21584;PER;11;0 days 00:01:52.799000;2.0;False;HARD;15.0;True;Red Bull Racing;6;3.0;2021;Abu Dhabi Grand Prix
+21585;PER;11;0 days 00:01:59.707000;3.0;False;HARD;1.0;True;Red Bull Racing;67;3.0;2021;Abu Dhabi Grand Prix
+21586;PER;11;0 days 00:01:26.750000;3.0;True;HARD;2.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21587;PER;11;0 days 00:01:26.580000;3.0;True;HARD;3.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21588;PER;11;0 days 00:01:26.643000;3.0;False;HARD;4.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21589;PER;11;0 days 00:01:26.661000;3.0;False;HARD;5.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21590;PER;11;0 days 00:01:27.040000;3.0;False;HARD;6.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21591;PER;11;0 days 00:01:26.596000;3.0;False;HARD;7.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21592;PER;11;0 days 00:01:26.914000;3.0;False;HARD;8.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21593;PER;11;0 days 00:01:28.217000;3.0;False;HARD;9.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21594;PER;11;0 days 00:01:27.028000;3.0;False;HARD;10.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21595;PER;11;0 days 00:01:26.642000;3.0;False;HARD;11.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21596;PER;11;0 days 00:01:26.429000;3.0;True;HARD;12.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21597;PER;11;0 days 00:01:26.507000;3.0;False;HARD;13.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21598;PER;11;0 days 00:01:26.428000;3.0;True;HARD;14.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21599;PER;11;0 days 00:01:26.419000;3.0;True;HARD;15.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21600;PER;11;0 days 00:01:26.529000;3.0;False;HARD;16.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21601;PER;11;0 days 00:01:47.607000;3.0;False;HARD;17.0;True;Red Bull Racing;24;3.0;2021;Abu Dhabi Grand Prix
+21602;PER;11;0 days 00:02:06.894000;4.0;False;SOFT;4.0;False;Red Bull Racing;4;3.0;2021;Abu Dhabi Grand Prix
+21603;PER;11;0 days 00:02:16.838000;4.0;False;SOFT;5.0;False;Red Bull Racing;4;3.0;2021;Abu Dhabi Grand Prix
+21604;ALO;14;0 days 00:01:38.679000;1.0;False;HARD;2.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21605;ALO;14;0 days 00:01:32.422000;1.0;True;HARD;3.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21606;ALO;14;0 days 00:01:31.511000;1.0;True;HARD;4.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21607;ALO;14;0 days 00:01:31.321000;1.0;True;HARD;5.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21608;ALO;14;0 days 00:01:31.339000;1.0;False;HARD;6.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21609;ALO;14;0 days 00:01:30.920000;1.0;True;HARD;7.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21610;ALO;14;0 days 00:01:30.811000;1.0;True;HARD;8.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21611;ALO;14;0 days 00:01:31.052000;1.0;False;HARD;9.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21612;ALO;14;0 days 00:01:30.990000;1.0;False;HARD;10.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21613;ALO;14;0 days 00:01:30.989000;1.0;False;HARD;11.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21614;ALO;14;0 days 00:01:30.577000;1.0;True;HARD;12.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21615;ALO;14;0 days 00:01:30.535000;1.0;True;HARD;13.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21616;ALO;14;0 days 00:01:30.488000;1.0;True;HARD;14.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21617;ALO;14;0 days 00:01:30.842000;1.0;False;HARD;15.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21618;ALO;14;0 days 00:01:30.817000;1.0;False;HARD;16.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21619;ALO;14;0 days 00:01:30.648000;1.0;False;HARD;17.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21620;ALO;14;0 days 00:01:30.930000;1.0;False;HARD;18.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21621;ALO;14;0 days 00:01:30.574000;1.0;False;HARD;19.0;False;Alpine;1;7.0;2021;Abu Dhabi Grand Prix
+21622;ALO;14;0 days 00:01:30.331000;1.0;True;HARD;20.0;False;Alpine;1;7.0;2021;Abu Dhabi Grand Prix
+21623;ALO;14;0 days 00:01:30.024000;1.0;True;HARD;21.0;False;Alpine;1;6.0;2021;Abu Dhabi Grand Prix
+21624;ALO;14;0 days 00:01:29.633000;1.0;True;HARD;22.0;False;Alpine;1;6.0;2021;Abu Dhabi Grand Prix
+21625;ALO;14;0 days 00:01:29.899000;1.0;False;HARD;23.0;False;Alpine;1;6.0;2021;Abu Dhabi Grand Prix
+21626;ALO;14;0 days 00:01:29.593000;1.0;True;HARD;24.0;False;Alpine;1;6.0;2021;Abu Dhabi Grand Prix
+21627;ALO;14;0 days 00:01:29.667000;1.0;False;HARD;25.0;False;Alpine;1;5.0;2021;Abu Dhabi Grand Prix
+21628;ALO;14;0 days 00:01:29.527000;1.0;True;HARD;26.0;False;Alpine;2;5.0;2021;Abu Dhabi Grand Prix
+21629;ALO;14;0 days 00:01:29.527000;1.0;False;HARD;27.0;False;Alpine;2;5.0;2021;Abu Dhabi Grand Prix
+21630;ALO;14;0 days 00:01:29.379000;1.0;True;HARD;28.0;False;Alpine;1;5.0;2021;Abu Dhabi Grand Prix
+21631;ALO;14;0 days 00:01:29.312000;1.0;True;HARD;29.0;False;Alpine;1;5.0;2021;Abu Dhabi Grand Prix
+21632;ALO;14;0 days 00:01:29.074000;1.0;True;HARD;30.0;False;Alpine;1;5.0;2021;Abu Dhabi Grand Prix
+21633;ALO;14;0 days 00:01:29.378000;1.0;False;HARD;31.0;False;Alpine;1;5.0;2021;Abu Dhabi Grand Prix
+21634;ALO;14;0 days 00:01:29.314000;1.0;False;HARD;32.0;False;Alpine;1;4.0;2021;Abu Dhabi Grand Prix
+21635;ALO;14;0 days 00:01:29.165000;1.0;False;HARD;33.0;False;Alpine;1;4.0;2021;Abu Dhabi Grand Prix
+21636;ALO;14;0 days 00:01:29.130000;1.0;False;HARD;34.0;False;Alpine;1;4.0;2021;Abu Dhabi Grand Prix
+21637;ALO;14;0 days 00:01:28.931000;1.0;True;HARD;35.0;False;Alpine;1;4.0;2021;Abu Dhabi Grand Prix
+21638;ALO;14;0 days 00:01:30.285000;1.0;False;HARD;36.0;False;Alpine;6;4.0;2021;Abu Dhabi Grand Prix
+21639;ALO;14;0 days 00:01:57.817000;1.0;False;HARD;37.0;False;Alpine;6;4.0;2021;Abu Dhabi Grand Prix
+21640;ALO;14;0 days 00:01:56.240000;2.0;False;MEDIUM;1.0;True;Alpine;67;7.0;2021;Abu Dhabi Grand Prix
+21641;ALO;14;0 days 00:01:30.132000;2.0;False;MEDIUM;2.0;True;Alpine;1;8.0;2021;Abu Dhabi Grand Prix
+21642;ALO;14;0 days 00:01:28.811000;2.0;True;MEDIUM;3.0;True;Alpine;1;8.0;2021;Abu Dhabi Grand Prix
+21643;ALO;14;0 days 00:01:29.256000;2.0;False;MEDIUM;4.0;True;Alpine;1;8.0;2021;Abu Dhabi Grand Prix
+21644;ALO;14;0 days 00:01:30.486000;2.0;False;MEDIUM;5.0;True;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21645;ALO;14;0 days 00:01:29.430000;2.0;False;MEDIUM;6.0;True;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21646;ALO;14;0 days 00:01:28.946000;2.0;False;MEDIUM;7.0;True;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21647;ALO;14;0 days 00:01:29.070000;2.0;False;MEDIUM;8.0;True;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21648;ALO;14;0 days 00:01:29.019000;2.0;False;MEDIUM;9.0;True;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21649;ALO;14;0 days 00:01:28.762000;2.0;True;MEDIUM;10.0;True;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21650;ALO;14;0 days 00:01:29.126000;2.0;False;MEDIUM;11.0;True;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21651;ALO;14;0 days 00:01:29.827000;2.0;False;MEDIUM;12.0;True;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21652;ALO;14;0 days 00:01:28.564000;2.0;True;MEDIUM;13.0;True;Alpine;1;8.0;2021;Abu Dhabi Grand Prix
+21653;ALO;14;0 days 00:01:29.325000;2.0;False;MEDIUM;14.0;True;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21654;ALO;14;0 days 00:01:28.424000;2.0;True;MEDIUM;15.0;True;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21655;ALO;14;0 days 00:01:42.295000;2.0;False;MEDIUM;16.0;True;Alpine;24;9.0;2021;Abu Dhabi Grand Prix
+21656;ALO;14;0 days 00:02:13.583000;2.0;False;MEDIUM;17.0;True;Alpine;4;9.0;2021;Abu Dhabi Grand Prix
+21657;ALO;14;;2.0;False;MEDIUM;18.0;True;Alpine;4;9.0;2021;Abu Dhabi Grand Prix
+21658;ALO;14;0 days 00:02:25.226000;2.0;False;MEDIUM;19.0;True;Alpine;4;9.0;2021;Abu Dhabi Grand Prix
+21659;ALO;14;0 days 00:01:59.466000;2.0;False;MEDIUM;20.0;True;Alpine;4;8.0;2021;Abu Dhabi Grand Prix
+21660;ALO;14;0 days 00:01:28.007000;2.0;True;MEDIUM;21.0;True;Alpine;4;8.0;2021;Abu Dhabi Grand Prix
+21661;ALO;14;0 days 00:01:27.607000;2.0;True;MEDIUM;22.0;True;Alpine;1;8.0;2021;Abu Dhabi Grand Prix
+21662;LEC;16;0 days 00:01:36.143000;1.0;False;SOFT;4.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21663;LEC;16;0 days 00:01:31.140000;1.0;True;SOFT;5.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21664;LEC;16;0 days 00:01:30.910000;1.0;True;SOFT;6.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21665;LEC;16;0 days 00:01:30.509000;1.0;True;SOFT;7.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21666;LEC;16;0 days 00:01:30.630000;1.0;False;SOFT;8.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21667;LEC;16;0 days 00:01:30.586000;1.0;False;SOFT;9.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21668;LEC;16;0 days 00:01:30.320000;1.0;True;SOFT;10.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21669;LEC;16;0 days 00:01:30.372000;1.0;False;SOFT;11.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21670;LEC;16;0 days 00:01:30.104000;1.0;True;SOFT;12.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21671;LEC;16;0 days 00:01:30.268000;1.0;False;SOFT;13.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21672;LEC;16;0 days 00:01:29.996000;1.0;True;SOFT;14.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21673;LEC;16;0 days 00:01:30.381000;1.0;False;SOFT;15.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21674;LEC;16;0 days 00:01:30.323000;1.0;False;SOFT;16.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21675;LEC;16;0 days 00:01:32.050000;1.0;False;SOFT;17.0;False;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+21676;LEC;16;0 days 00:01:33.881000;1.0;False;SOFT;18.0;False;Ferrari;1;8.0;2021;Abu Dhabi Grand Prix
+21677;LEC;16;0 days 00:01:50.853000;2.0;False;HARD;1.0;True;Ferrari;1;16.0;2021;Abu Dhabi Grand Prix
+21678;LEC;16;0 days 00:01:29.408000;2.0;True;HARD;2.0;True;Ferrari;1;15.0;2021;Abu Dhabi Grand Prix
+21679;LEC;16;0 days 00:01:29.283000;2.0;True;HARD;3.0;True;Ferrari;1;14.0;2021;Abu Dhabi Grand Prix
+21680;LEC;16;0 days 00:01:29.641000;2.0;False;HARD;4.0;True;Ferrari;1;13.0;2021;Abu Dhabi Grand Prix
+21681;LEC;16;0 days 00:01:29.493000;2.0;False;HARD;5.0;True;Ferrari;1;13.0;2021;Abu Dhabi Grand Prix
+21682;LEC;16;0 days 00:01:29.563000;2.0;False;HARD;6.0;True;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21683;LEC;16;0 days 00:01:29.588000;2.0;False;HARD;7.0;True;Ferrari;1;11.0;2021;Abu Dhabi Grand Prix
+21684;LEC;16;0 days 00:01:29.379000;2.0;False;HARD;8.0;True;Ferrari;1;11.0;2021;Abu Dhabi Grand Prix
+21685;LEC;16;0 days 00:01:29.104000;2.0;True;HARD;9.0;True;Ferrari;1;9.0;2021;Abu Dhabi Grand Prix
+21686;LEC;16;0 days 00:01:29.416000;2.0;False;HARD;10.0;True;Ferrari;2;9.0;2021;Abu Dhabi Grand Prix
+21687;LEC;16;0 days 00:01:29.442000;2.0;False;HARD;11.0;True;Ferrari;2;9.0;2021;Abu Dhabi Grand Prix
+21688;LEC;16;0 days 00:01:29.215000;2.0;False;HARD;12.0;True;Ferrari;1;9.0;2021;Abu Dhabi Grand Prix
+21689;LEC;16;0 days 00:01:29.254000;2.0;False;HARD;13.0;True;Ferrari;1;9.0;2021;Abu Dhabi Grand Prix
+21690;LEC;16;0 days 00:01:29.255000;2.0;False;HARD;14.0;True;Ferrari;1;9.0;2021;Abu Dhabi Grand Prix
+21691;LEC;16;0 days 00:01:29.093000;2.0;True;HARD;15.0;True;Ferrari;1;9.0;2021;Abu Dhabi Grand Prix
+21692;LEC;16;0 days 00:01:29.381000;2.0;False;HARD;16.0;True;Ferrari;1;8.0;2021;Abu Dhabi Grand Prix
+21693;LEC;16;0 days 00:01:28.823000;2.0;True;HARD;17.0;True;Ferrari;1;8.0;2021;Abu Dhabi Grand Prix
+21694;LEC;16;0 days 00:01:29.148000;2.0;False;HARD;18.0;True;Ferrari;1;8.0;2021;Abu Dhabi Grand Prix
+21695;LEC;16;0 days 00:01:30.050000;2.0;False;HARD;19.0;True;Ferrari;1;9.0;2021;Abu Dhabi Grand Prix
+21696;LEC;16;0 days 00:01:36.558000;2.0;False;HARD;20.0;True;Ferrari;6;9.0;2021;Abu Dhabi Grand Prix
+21697;LEC;16;0 days 00:02:08.653000;3.0;False;MEDIUM;6.0;False;Ferrari;6;12.0;2021;Abu Dhabi Grand Prix
+21698;LEC;16;0 days 00:01:37.309000;3.0;False;MEDIUM;7.0;False;Ferrari;67;12.0;2021;Abu Dhabi Grand Prix
+21699;LEC;16;0 days 00:01:28.725000;3.0;True;MEDIUM;8.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21700;LEC;16;0 days 00:01:28.907000;3.0;False;MEDIUM;9.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21701;LEC;16;0 days 00:01:28.433000;3.0;True;MEDIUM;10.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21702;LEC;16;0 days 00:01:28.338000;3.0;False;MEDIUM;11.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21703;LEC;16;0 days 00:01:28.729000;3.0;False;MEDIUM;12.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21704;LEC;16;0 days 00:01:28.954000;3.0;False;MEDIUM;13.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21705;LEC;16;0 days 00:01:29.171000;3.0;False;MEDIUM;14.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21706;LEC;16;0 days 00:01:30.335000;3.0;False;MEDIUM;15.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21707;LEC;16;0 days 00:01:28.982000;3.0;False;MEDIUM;16.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21708;LEC;16;0 days 00:01:28.974000;3.0;False;MEDIUM;17.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21709;LEC;16;0 days 00:01:28.638000;3.0;False;MEDIUM;18.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21710;LEC;16;0 days 00:01:29.170000;3.0;False;MEDIUM;19.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21711;LEC;16;0 days 00:01:28.952000;3.0;False;MEDIUM;20.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21712;LEC;16;0 days 00:01:29.998000;3.0;False;MEDIUM;21.0;False;Ferrari;1;12.0;2021;Abu Dhabi Grand Prix
+21713;LEC;16;0 days 00:01:42.248000;3.0;False;MEDIUM;22.0;False;Ferrari;24;12.0;2021;Abu Dhabi Grand Prix
+21714;LEC;16;0 days 00:02:10.799000;3.0;False;MEDIUM;23.0;False;Ferrari;4;11.0;2021;Abu Dhabi Grand Prix
+21715;LEC;16;;3.0;False;MEDIUM;24.0;False;Ferrari;4;11.0;2021;Abu Dhabi Grand Prix
+21716;LEC;16;0 days 00:02:26.191000;3.0;False;MEDIUM;25.0;False;Ferrari;4;11.0;2021;Abu Dhabi Grand Prix
+21717;LEC;16;0 days 00:01:58.448000;3.0;False;MEDIUM;26.0;False;Ferrari;4;10.0;2021;Abu Dhabi Grand Prix
+21718;LEC;16;0 days 00:01:28.644000;3.0;False;MEDIUM;27.0;False;Ferrari;4;10.0;2021;Abu Dhabi Grand Prix
+21719;LEC;16;0 days 00:01:29.557000;3.0;False;MEDIUM;28.0;False;Ferrari;1;10.0;2021;Abu Dhabi Grand Prix
+21720;STR;18;0 days 00:01:40.334000;1.0;False;MEDIUM;1.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21721;STR;18;0 days 00:01:33.222000;1.0;True;MEDIUM;2.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21722;STR;18;0 days 00:01:31.943000;1.0;True;MEDIUM;3.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21723;STR;18;0 days 00:01:31.871000;1.0;True;MEDIUM;4.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21724;STR;18;0 days 00:01:33.084000;1.0;False;MEDIUM;5.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21725;STR;18;0 days 00:01:31.590000;1.0;True;MEDIUM;6.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21726;STR;18;0 days 00:01:31.070000;1.0;True;MEDIUM;7.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21727;STR;18;0 days 00:01:31.007000;1.0;True;MEDIUM;8.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21728;STR;18;0 days 00:01:31.086000;1.0;False;MEDIUM;9.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21729;STR;18;0 days 00:01:31.052000;1.0;False;MEDIUM;10.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21730;STR;18;0 days 00:01:30.743000;1.0;True;MEDIUM;11.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21731;STR;18;0 days 00:01:30.858000;1.0;False;MEDIUM;12.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21732;STR;18;0 days 00:01:30.581000;1.0;True;MEDIUM;13.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21733;STR;18;0 days 00:01:30.622000;1.0;False;MEDIUM;14.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21734;STR;18;0 days 00:01:30.446000;1.0;True;MEDIUM;15.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21735;STR;18;0 days 00:01:30.827000;1.0;False;MEDIUM;16.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+21736;STR;18;0 days 00:01:30.519000;1.0;False;MEDIUM;17.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+21737;STR;18;0 days 00:01:30.369000;1.0;True;MEDIUM;18.0;True;Aston Martin;1;11.0;2021;Abu Dhabi Grand Prix
+21738;STR;18;0 days 00:01:30.283000;1.0;True;MEDIUM;19.0;True;Aston Martin;1;10.0;2021;Abu Dhabi Grand Prix
+21739;STR;18;0 days 00:01:30.802000;1.0;False;MEDIUM;20.0;True;Aston Martin;1;10.0;2021;Abu Dhabi Grand Prix
+21740;STR;18;0 days 00:01:32.575000;1.0;False;MEDIUM;21.0;True;Aston Martin;1;11.0;2021;Abu Dhabi Grand Prix
+21741;STR;18;0 days 00:01:50.845000;2.0;False;HARD;1.0;True;Aston Martin;1;17.0;2021;Abu Dhabi Grand Prix
+21742;STR;18;0 days 00:01:29.676000;2.0;True;HARD;2.0;True;Aston Martin;1;17.0;2021;Abu Dhabi Grand Prix
+21743;STR;18;0 days 00:01:29.839000;2.0;False;HARD;3.0;True;Aston Martin;1;17.0;2021;Abu Dhabi Grand Prix
+21744;STR;18;0 days 00:01:29.997000;2.0;False;HARD;4.0;True;Aston Martin;2;17.0;2021;Abu Dhabi Grand Prix
+21745;STR;18;0 days 00:01:29.954000;2.0;False;HARD;5.0;True;Aston Martin;2;16.0;2021;Abu Dhabi Grand Prix
+21746;STR;18;0 days 00:01:29.924000;2.0;False;HARD;6.0;True;Aston Martin;1;16.0;2021;Abu Dhabi Grand Prix
+21747;STR;18;0 days 00:01:30.847000;2.0;False;HARD;7.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21748;STR;18;0 days 00:01:29.324000;2.0;True;HARD;8.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21749;STR;18;0 days 00:01:29.439000;2.0;False;HARD;9.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21750;STR;18;0 days 00:01:29.394000;2.0;False;HARD;10.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21751;STR;18;0 days 00:01:29.409000;2.0;False;HARD;11.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21752;STR;18;0 days 00:01:29.386000;2.0;False;HARD;12.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+21753;STR;18;0 days 00:01:29.223000;2.0;True;HARD;13.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21754;STR;18;0 days 00:01:41.827000;2.0;False;HARD;14.0;True;Aston Martin;6;14.0;2021;Abu Dhabi Grand Prix
+21755;STR;18;0 days 00:01:54.796000;2.0;False;HARD;15.0;True;Aston Martin;6;14.0;2021;Abu Dhabi Grand Prix
+21756;STR;18;0 days 00:01:33.421000;2.0;False;HARD;16.0;True;Aston Martin;67;14.0;2021;Abu Dhabi Grand Prix
+21757;STR;18;0 days 00:01:31.164000;2.0;False;HARD;17.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21758;STR;18;0 days 00:01:28.946000;2.0;True;HARD;18.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21759;STR;18;0 days 00:01:29.075000;2.0;False;HARD;19.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21760;STR;18;0 days 00:01:28.994000;2.0;False;HARD;20.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21761;STR;18;0 days 00:01:28.649000;2.0;True;HARD;21.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21762;STR;18;0 days 00:01:28.807000;2.0;False;HARD;22.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21763;STR;18;0 days 00:01:30.394000;2.0;False;HARD;23.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21764;STR;18;0 days 00:01:28.776000;2.0;False;HARD;24.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21765;STR;18;0 days 00:01:28.789000;2.0;False;HARD;25.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21766;STR;18;0 days 00:01:28.768000;2.0;False;HARD;26.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21767;STR;18;0 days 00:01:28.567000;2.0;True;HARD;27.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21768;STR;18;0 days 00:01:28.709000;2.0;False;HARD;28.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21769;STR;18;0 days 00:01:29.008000;2.0;False;HARD;29.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21770;STR;18;0 days 00:01:28.594000;2.0;False;HARD;30.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+21771;STR;18;0 days 00:01:45.169000;2.0;False;HARD;31.0;True;Aston Martin;24;14.0;2021;Abu Dhabi Grand Prix
+21772;STR;18;0 days 00:02:12.355000;3.0;False;SOFT;1.0;True;Aston Martin;4;14.0;2021;Abu Dhabi Grand Prix
+21773;STR;18;0 days 00:02:19.167000;3.0;False;SOFT;2.0;True;Aston Martin;4;14.0;2021;Abu Dhabi Grand Prix
+21774;STR;18;0 days 00:02:25.787000;3.0;False;SOFT;3.0;True;Aston Martin;4;14.0;2021;Abu Dhabi Grand Prix
+21775;STR;18;0 days 00:02:21.035000;3.0;False;SOFT;4.0;True;Aston Martin;4;13.0;2021;Abu Dhabi Grand Prix
+21776;STR;18;0 days 00:01:32.389000;3.0;False;SOFT;5.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+21777;TSU;22;0 days 00:01:36.600000;1.0;False;MEDIUM;5.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21778;TSU;22;0 days 00:01:31.494000;1.0;True;MEDIUM;6.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21779;TSU;22;0 days 00:01:30.811000;1.0;True;MEDIUM;7.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21780;TSU;22;0 days 00:01:30.654000;1.0;True;MEDIUM;8.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21781;TSU;22;0 days 00:01:30.823000;1.0;False;MEDIUM;9.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21782;TSU;22;0 days 00:01:30.541000;1.0;True;MEDIUM;10.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21783;TSU;22;0 days 00:01:30.284000;1.0;True;MEDIUM;11.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21784;TSU;22;0 days 00:01:30.458000;1.0;False;MEDIUM;12.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21785;TSU;22;0 days 00:01:30.379000;1.0;False;MEDIUM;13.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21786;TSU;22;0 days 00:01:30.322000;1.0;False;MEDIUM;14.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21787;TSU;22;0 days 00:01:30.137000;1.0;True;MEDIUM;15.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21788;TSU;22;0 days 00:01:30.507000;1.0;False;MEDIUM;16.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21789;TSU;22;0 days 00:01:29.972000;1.0;True;MEDIUM;17.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21790;TSU;22;0 days 00:01:31.597000;1.0;False;MEDIUM;18.0;False;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21791;TSU;22;0 days 00:01:30.054000;1.0;False;MEDIUM;19.0;False;AlphaTauri;1;6.0;2021;Abu Dhabi Grand Prix
+21792;TSU;22;0 days 00:01:30.114000;1.0;False;MEDIUM;20.0;False;AlphaTauri;1;6.0;2021;Abu Dhabi Grand Prix
+21793;TSU;22;0 days 00:01:29.840000;1.0;True;MEDIUM;21.0;False;AlphaTauri;1;6.0;2021;Abu Dhabi Grand Prix
+21794;TSU;22;0 days 00:01:29.674000;1.0;True;MEDIUM;22.0;False;AlphaTauri;1;5.0;2021;Abu Dhabi Grand Prix
+21795;TSU;22;0 days 00:01:29.554000;1.0;True;MEDIUM;23.0;False;AlphaTauri;1;5.0;2021;Abu Dhabi Grand Prix
+21796;TSU;22;0 days 00:01:29.632000;1.0;False;MEDIUM;24.0;False;AlphaTauri;1;4.0;2021;Abu Dhabi Grand Prix
+21797;TSU;22;0 days 00:01:29.752000;1.0;False;MEDIUM;25.0;False;AlphaTauri;1;4.0;2021;Abu Dhabi Grand Prix
+21798;TSU;22;0 days 00:01:29.698000;1.0;False;MEDIUM;26.0;False;AlphaTauri;1;3.0;2021;Abu Dhabi Grand Prix
+21799;TSU;22;0 days 00:01:31.844000;1.0;False;MEDIUM;27.0;False;AlphaTauri;1;4.0;2021;Abu Dhabi Grand Prix
+21800;TSU;22;0 days 00:01:51.159000;2.0;False;HARD;1.0;True;AlphaTauri;1;10.0;2021;Abu Dhabi Grand Prix
+21801;TSU;22;0 days 00:01:29.300000;2.0;True;HARD;2.0;True;AlphaTauri;2;10.0;2021;Abu Dhabi Grand Prix
+21802;TSU;22;0 days 00:01:29.623000;2.0;False;HARD;3.0;True;AlphaTauri;2;10.0;2021;Abu Dhabi Grand Prix
+21803;TSU;22;0 days 00:01:29.691000;2.0;False;HARD;4.0;True;AlphaTauri;1;10.0;2021;Abu Dhabi Grand Prix
+21804;TSU;22;0 days 00:01:28.991000;2.0;True;HARD;5.0;True;AlphaTauri;1;10.0;2021;Abu Dhabi Grand Prix
+21805;TSU;22;0 days 00:01:29.106000;2.0;False;HARD;6.0;True;AlphaTauri;1;10.0;2021;Abu Dhabi Grand Prix
+21806;TSU;22;0 days 00:01:29.055000;2.0;False;HARD;7.0;True;AlphaTauri;1;10.0;2021;Abu Dhabi Grand Prix
+21807;TSU;22;0 days 00:01:29.756000;2.0;False;HARD;8.0;True;AlphaTauri;1;10.0;2021;Abu Dhabi Grand Prix
+21808;TSU;22;0 days 00:01:29.191000;2.0;False;HARD;9.0;True;AlphaTauri;1;10.0;2021;Abu Dhabi Grand Prix
+21809;TSU;22;0 days 00:01:29.138000;2.0;False;HARD;10.0;True;AlphaTauri;1;10.0;2021;Abu Dhabi Grand Prix
+21810;TSU;22;0 days 00:01:29.017000;2.0;False;HARD;11.0;True;AlphaTauri;1;10.0;2021;Abu Dhabi Grand Prix
+21811;TSU;22;0 days 00:01:36.429000;2.0;False;HARD;12.0;True;AlphaTauri;6;10.0;2021;Abu Dhabi Grand Prix
+21812;TSU;22;0 days 00:01:53.580000;2.0;False;HARD;13.0;True;AlphaTauri;6;9.0;2021;Abu Dhabi Grand Prix
+21813;TSU;22;0 days 00:01:43.377000;2.0;False;HARD;14.0;True;AlphaTauri;67;8.0;2021;Abu Dhabi Grand Prix
+21814;TSU;22;0 days 00:01:28.306000;2.0;True;HARD;15.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21815;TSU;22;0 days 00:01:28.436000;2.0;False;HARD;16.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21816;TSU;22;0 days 00:01:28.368000;2.0;False;HARD;17.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21817;TSU;22;0 days 00:01:28.346000;2.0;False;HARD;18.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21818;TSU;22;0 days 00:01:28.227000;2.0;True;HARD;19.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21819;TSU;22;0 days 00:01:28.195000;2.0;True;HARD;20.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21820;TSU;22;0 days 00:01:27.993000;2.0;True;HARD;21.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21821;TSU;22;0 days 00:01:27.969000;2.0;True;HARD;22.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21822;TSU;22;0 days 00:01:27.890000;2.0;True;HARD;23.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21823;TSU;22;0 days 00:01:27.732000;2.0;True;HARD;24.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21824;TSU;22;0 days 00:01:27.661000;2.0;True;HARD;25.0;True;AlphaTauri;1;7.0;2021;Abu Dhabi Grand Prix
+21825;TSU;22;0 days 00:01:27.581000;2.0;True;HARD;26.0;True;AlphaTauri;1;6.0;2021;Abu Dhabi Grand Prix
+21826;TSU;22;0 days 00:01:27.496000;2.0;True;HARD;27.0;True;AlphaTauri;1;6.0;2021;Abu Dhabi Grand Prix
+21827;TSU;22;0 days 00:01:27.535000;2.0;False;HARD;28.0;True;AlphaTauri;1;6.0;2021;Abu Dhabi Grand Prix
+21828;TSU;22;0 days 00:01:32.276000;2.0;False;HARD;29.0;True;AlphaTauri;24;6.0;2021;Abu Dhabi Grand Prix
+21829;TSU;22;0 days 00:01:55.178000;2.0;False;HARD;30.0;True;AlphaTauri;4;6.0;2021;Abu Dhabi Grand Prix
+21830;TSU;22;0 days 00:01:54.460000;3.0;False;SOFT;4.0;False;AlphaTauri;4;7.0;2021;Abu Dhabi Grand Prix
+21831;TSU;22;0 days 00:01:43.335000;3.0;False;SOFT;5.0;False;AlphaTauri;4;6.0;2021;Abu Dhabi Grand Prix
+21832;TSU;22;0 days 00:02:17.844000;3.0;False;SOFT;6.0;False;AlphaTauri;4;5.0;2021;Abu Dhabi Grand Prix
+21833;TSU;22;0 days 00:02:18.101000;3.0;False;SOFT;7.0;False;AlphaTauri;4;5.0;2021;Abu Dhabi Grand Prix
+21834;TSU;22;0 days 00:01:27.954000;3.0;False;SOFT;8.0;False;AlphaTauri;1;4.0;2021;Abu Dhabi Grand Prix
+21835;RIC;3;0 days 00:01:38.267000;1.0;False;SOFT;4.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21836;RIC;3;0 days 00:01:32.138000;1.0;True;SOFT;5.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21837;RIC;3;0 days 00:01:31.096000;1.0;True;SOFT;6.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21838;RIC;3;0 days 00:01:31.260000;1.0;False;SOFT;7.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21839;RIC;3;0 days 00:01:31.060000;1.0;True;SOFT;8.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21840;RIC;3;0 days 00:01:30.776000;1.0;True;SOFT;9.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21841;RIC;3;0 days 00:01:31.021000;1.0;False;SOFT;10.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21842;RIC;3;0 days 00:01:30.954000;1.0;False;SOFT;11.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21843;RIC;3;0 days 00:01:30.509000;1.0;True;SOFT;12.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21844;RIC;3;0 days 00:01:30.658000;1.0;False;SOFT;13.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21845;RIC;3;0 days 00:01:30.714000;1.0;False;SOFT;14.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21846;RIC;3;0 days 00:01:30.668000;1.0;False;SOFT;15.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21847;RIC;3;0 days 00:01:31.229000;1.0;False;SOFT;16.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21848;RIC;3;0 days 00:01:31.146000;1.0;False;SOFT;17.0;False;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+21849;RIC;3;0 days 00:01:30.859000;1.0;False;SOFT;18.0;False;McLaren;1;9.0;2021;Abu Dhabi Grand Prix
+21850;RIC;3;0 days 00:01:30.661000;1.0;False;SOFT;19.0;False;McLaren;1;8.0;2021;Abu Dhabi Grand Prix
+21851;RIC;3;0 days 00:01:30.828000;1.0;False;SOFT;20.0;False;McLaren;1;8.0;2021;Abu Dhabi Grand Prix
+21852;RIC;3;0 days 00:01:32.751000;1.0;False;SOFT;21.0;False;McLaren;1;9.0;2021;Abu Dhabi Grand Prix
+21853;RIC;3;0 days 00:01:50.014000;2.0;False;HARD;1.0;True;McLaren;1;17.0;2021;Abu Dhabi Grand Prix
+21854;RIC;3;0 days 00:01:29.330000;2.0;True;HARD;2.0;True;McLaren;1;16.0;2021;Abu Dhabi Grand Prix
+21855;RIC;3;0 days 00:01:30.116000;2.0;False;HARD;3.0;True;McLaren;1;16.0;2021;Abu Dhabi Grand Prix
+21856;RIC;3;0 days 00:01:29.051000;2.0;True;HARD;4.0;True;McLaren;1;13.0;2021;Abu Dhabi Grand Prix
+21857;RIC;3;0 days 00:01:29.548000;2.0;False;HARD;5.0;True;McLaren;1;13.0;2021;Abu Dhabi Grand Prix
+21858;RIC;3;0 days 00:01:29.398000;2.0;False;HARD;6.0;True;McLaren;1;12.0;2021;Abu Dhabi Grand Prix
+21859;RIC;3;0 days 00:01:29.479000;2.0;False;HARD;7.0;True;McLaren;2;12.0;2021;Abu Dhabi Grand Prix
+21860;RIC;3;0 days 00:01:29.253000;2.0;False;HARD;8.0;True;McLaren;2;12.0;2021;Abu Dhabi Grand Prix
+21861;RIC;3;0 days 00:01:29.289000;2.0;False;HARD;9.0;True;McLaren;1;12.0;2021;Abu Dhabi Grand Prix
+21862;RIC;3;0 days 00:01:29.165000;2.0;False;HARD;10.0;True;McLaren;1;12.0;2021;Abu Dhabi Grand Prix
+21863;RIC;3;0 days 00:01:29.168000;2.0;False;HARD;11.0;True;McLaren;1;12.0;2021;Abu Dhabi Grand Prix
+21864;RIC;3;0 days 00:01:29.290000;2.0;False;HARD;12.0;True;McLaren;1;12.0;2021;Abu Dhabi Grand Prix
+21865;RIC;3;0 days 00:01:29.232000;2.0;False;HARD;13.0;True;McLaren;1;12.0;2021;Abu Dhabi Grand Prix
+21866;RIC;3;0 days 00:01:28.880000;2.0;True;HARD;14.0;True;McLaren;1;12.0;2021;Abu Dhabi Grand Prix
+21867;RIC;3;0 days 00:01:29.042000;2.0;False;HARD;15.0;True;McLaren;1;12.0;2021;Abu Dhabi Grand Prix
+21868;RIC;3;0 days 00:01:28.817000;2.0;True;HARD;16.0;True;McLaren;1;12.0;2021;Abu Dhabi Grand Prix
+21869;RIC;3;0 days 00:01:37.126000;2.0;False;HARD;17.0;True;McLaren;6;12.0;2021;Abu Dhabi Grand Prix
+21870;RIC;3;0 days 00:01:54.231000;2.0;False;HARD;18.0;True;McLaren;6;11.0;2021;Abu Dhabi Grand Prix
+21871;RIC;3;0 days 00:01:38.700000;2.0;False;HARD;19.0;True;McLaren;67;11.0;2021;Abu Dhabi Grand Prix
+21872;RIC;3;0 days 00:01:29.066000;2.0;False;HARD;20.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21873;RIC;3;0 days 00:01:29.466000;2.0;False;HARD;21.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21874;RIC;3;0 days 00:01:28.879000;2.0;False;HARD;22.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21875;RIC;3;0 days 00:01:29.022000;2.0;False;HARD;23.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21876;RIC;3;0 days 00:01:29.406000;2.0;False;HARD;24.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21877;RIC;3;0 days 00:01:29.274000;2.0;False;HARD;25.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21878;RIC;3;0 days 00:01:29.077000;2.0;False;HARD;26.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21879;RIC;3;0 days 00:01:28.968000;2.0;False;HARD;27.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21880;RIC;3;0 days 00:01:30.342000;2.0;False;HARD;28.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21881;RIC;3;0 days 00:01:28.854000;2.0;False;HARD;29.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21882;RIC;3;0 days 00:01:28.723000;2.0;True;HARD;30.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21883;RIC;3;0 days 00:01:29.261000;2.0;False;HARD;31.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21884;RIC;3;0 days 00:01:28.801000;2.0;False;HARD;32.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21885;RIC;3;0 days 00:01:28.742000;2.0;False;HARD;33.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+21886;RIC;3;0 days 00:01:44.016000;2.0;False;HARD;34.0;True;McLaren;24;11.0;2021;Abu Dhabi Grand Prix
+21887;RIC;3;0 days 00:02:16.464000;3.0;False;SOFT;4.0;False;McLaren;4;13.0;2021;Abu Dhabi Grand Prix
+21888;RIC;3;;3.0;False;SOFT;5.0;False;McLaren;4;13.0;2021;Abu Dhabi Grand Prix
+21889;RIC;3;0 days 00:02:24.782000;3.0;False;SOFT;6.0;False;McLaren;4;13.0;2021;Abu Dhabi Grand Prix
+21890;RIC;3;0 days 00:02:22.051000;3.0;False;SOFT;7.0;False;McLaren;4;12.0;2021;Abu Dhabi Grand Prix
+21891;RIC;3;0 days 00:01:29.480000;3.0;False;SOFT;8.0;False;McLaren;1;12.0;2021;Abu Dhabi Grand Prix
+21892;OCO;31;0 days 00:01:37.772000;1.0;False;SOFT;4.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21893;OCO;31;0 days 00:01:32.085000;1.0;True;SOFT;5.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21894;OCO;31;0 days 00:01:30.852000;1.0;True;SOFT;6.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21895;OCO;31;0 days 00:01:31.193000;1.0;False;SOFT;7.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21896;OCO;31;0 days 00:01:30.854000;1.0;False;SOFT;8.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21897;OCO;31;0 days 00:01:30.881000;1.0;False;SOFT;9.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21898;OCO;31;0 days 00:01:30.764000;1.0;True;SOFT;10.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21899;OCO;31;0 days 00:01:30.631000;1.0;True;SOFT;11.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21900;OCO;31;0 days 00:01:30.719000;1.0;False;SOFT;12.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21901;OCO;31;0 days 00:01:30.572000;1.0;True;SOFT;13.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21902;OCO;31;0 days 00:01:30.665000;1.0;False;SOFT;14.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21903;OCO;31;0 days 00:01:30.742000;1.0;False;SOFT;15.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21904;OCO;31;0 days 00:01:30.861000;1.0;False;SOFT;16.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21905;OCO;31;0 days 00:01:31.166000;1.0;False;SOFT;17.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21906;OCO;31;0 days 00:01:33.316000;1.0;False;SOFT;18.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21907;OCO;31;0 days 00:01:49.514000;2.0;False;HARD;2.0;False;Alpine;1;18.0;2021;Abu Dhabi Grand Prix
+21908;OCO;31;0 days 00:01:30.024000;2.0;True;HARD;3.0;False;Alpine;1;18.0;2021;Abu Dhabi Grand Prix
+21909;OCO;31;0 days 00:01:29.874000;2.0;True;HARD;4.0;False;Alpine;1;16.0;2021;Abu Dhabi Grand Prix
+21910;OCO;31;0 days 00:01:30.258000;2.0;False;HARD;5.0;False;Alpine;1;15.0;2021;Abu Dhabi Grand Prix
+21911;OCO;31;0 days 00:01:29.341000;2.0;True;HARD;6.0;False;Alpine;1;14.0;2021;Abu Dhabi Grand Prix
+21912;OCO;31;0 days 00:01:29.850000;2.0;False;HARD;7.0;False;Alpine;1;14.0;2021;Abu Dhabi Grand Prix
+21913;OCO;31;0 days 00:01:29.479000;2.0;False;HARD;8.0;False;Alpine;1;12.0;2021;Abu Dhabi Grand Prix
+21914;OCO;31;0 days 00:01:29.303000;2.0;True;HARD;9.0;False;Alpine;1;12.0;2021;Abu Dhabi Grand Prix
+21915;OCO;31;0 days 00:01:29.599000;2.0;False;HARD;10.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21916;OCO;31;0 days 00:01:29.631000;2.0;False;HARD;11.0;False;Alpine;2;11.0;2021;Abu Dhabi Grand Prix
+21917;OCO;31;0 days 00:01:29.475000;2.0;False;HARD;12.0;False;Alpine;2;11.0;2021;Abu Dhabi Grand Prix
+21918;OCO;31;0 days 00:01:29.351000;2.0;False;HARD;13.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21919;OCO;31;0 days 00:01:29.556000;2.0;False;HARD;14.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21920;OCO;31;0 days 00:01:28.992000;2.0;True;HARD;15.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21921;OCO;31;0 days 00:01:28.878000;2.0;True;HARD;16.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21922;OCO;31;0 days 00:01:29.321000;2.0;False;HARD;17.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21923;OCO;31;0 days 00:01:29.060000;2.0;False;HARD;18.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21924;OCO;31;0 days 00:01:29.030000;2.0;False;HARD;19.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21925;OCO;31;0 days 00:01:29.181000;2.0;False;HARD;20.0;False;Alpine;1;11.0;2021;Abu Dhabi Grand Prix
+21926;OCO;31;0 days 00:01:35.550000;2.0;False;HARD;21.0;False;Alpine;6;11.0;2021;Abu Dhabi Grand Prix
+21927;OCO;31;0 days 00:01:56.756000;2.0;False;HARD;22.0;False;Alpine;6;10.0;2021;Abu Dhabi Grand Prix
+21928;OCO;31;0 days 00:01:38.906000;2.0;False;HARD;23.0;False;Alpine;67;10.0;2021;Abu Dhabi Grand Prix
+21929;OCO;31;0 days 00:01:29.650000;2.0;False;HARD;24.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21930;OCO;31;0 days 00:01:29.619000;2.0;False;HARD;25.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21931;OCO;31;0 days 00:01:28.939000;2.0;False;HARD;26.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21932;OCO;31;0 days 00:01:29.150000;2.0;False;HARD;27.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21933;OCO;31;0 days 00:01:29.401000;2.0;False;HARD;28.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21934;OCO;31;0 days 00:01:29.096000;2.0;False;HARD;29.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21935;OCO;31;0 days 00:01:29.164000;2.0;False;HARD;30.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21936;OCO;31;0 days 00:01:28.960000;2.0;False;HARD;31.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21937;OCO;31;0 days 00:01:29.012000;2.0;False;HARD;32.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21938;OCO;31;0 days 00:01:30.034000;2.0;False;HARD;33.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21939;OCO;31;0 days 00:01:28.661000;2.0;True;HARD;34.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21940;OCO;31;0 days 00:01:29.538000;2.0;False;HARD;35.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21941;OCO;31;0 days 00:01:28.643000;2.0;True;HARD;36.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21942;OCO;31;0 days 00:01:28.665000;2.0;False;HARD;37.0;False;Alpine;1;10.0;2021;Abu Dhabi Grand Prix
+21943;OCO;31;0 days 00:01:42.136000;2.0;False;HARD;38.0;False;Alpine;24;10.0;2021;Abu Dhabi Grand Prix
+21944;OCO;31;0 days 00:02:13.376000;2.0;False;HARD;39.0;False;Alpine;4;10.0;2021;Abu Dhabi Grand Prix
+21945;OCO;31;;2.0;False;HARD;40.0;False;Alpine;4;10.0;2021;Abu Dhabi Grand Prix
+21946;OCO;31;0 days 00:02:26.235000;2.0;False;HARD;41.0;False;Alpine;4;10.0;2021;Abu Dhabi Grand Prix
+21947;OCO;31;0 days 00:01:58.878000;2.0;False;HARD;42.0;False;Alpine;4;9.0;2021;Abu Dhabi Grand Prix
+21948;OCO;31;0 days 00:01:28.419000;2.0;True;HARD;43.0;False;Alpine;4;9.0;2021;Abu Dhabi Grand Prix
+21949;OCO;31;0 days 00:01:28.249000;2.0;True;HARD;44.0;False;Alpine;1;9.0;2021;Abu Dhabi Grand Prix
+21950;VER;33;0 days 00:01:32.800000;1.0;False;SOFT;4.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21951;VER;33;0 days 00:01:29.103000;1.0;True;SOFT;5.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21952;VER;33;0 days 00:01:28.827000;1.0;True;SOFT;6.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21953;VER;33;0 days 00:01:29.026000;1.0;False;SOFT;7.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21954;VER;33;0 days 00:01:28.718000;1.0;True;SOFT;8.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21955;VER;33;0 days 00:01:28.707000;1.0;True;SOFT;9.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21956;VER;33;0 days 00:01:28.636000;1.0;True;SOFT;10.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21957;VER;33;0 days 00:01:28.817000;1.0;False;SOFT;11.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21958;VER;33;0 days 00:01:28.671000;1.0;False;SOFT;12.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21959;VER;33;0 days 00:01:28.890000;1.0;False;SOFT;13.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21960;VER;33;0 days 00:01:29.137000;1.0;False;SOFT;14.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21961;VER;33;0 days 00:01:29.282000;1.0;False;SOFT;15.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21962;VER;33;0 days 00:01:31.515000;1.0;False;SOFT;16.0;False;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21963;VER;33;0 days 00:01:47.251000;2.0;False;HARD;1.0;True;Red Bull Racing;1;4.0;2021;Abu Dhabi Grand Prix
+21964;VER;33;0 days 00:01:28.492000;2.0;True;HARD;2.0;True;Red Bull Racing;1;4.0;2021;Abu Dhabi Grand Prix
+21965;VER;33;0 days 00:01:29.006000;2.0;False;HARD;3.0;True;Red Bull Racing;1;4.0;2021;Abu Dhabi Grand Prix
+21966;VER;33;0 days 00:01:29.108000;2.0;False;HARD;4.0;True;Red Bull Racing;1;4.0;2021;Abu Dhabi Grand Prix
+21967;VER;33;0 days 00:01:28.502000;2.0;False;HARD;5.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21968;VER;33;0 days 00:01:28.713000;2.0;False;HARD;6.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21969;VER;33;0 days 00:01:28.387000;2.0;True;HARD;7.0;True;Red Bull Racing;1;3.0;2021;Abu Dhabi Grand Prix
+21970;VER;33;0 days 00:01:28.569000;2.0;False;HARD;8.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21971;VER;33;0 days 00:01:28.322000;2.0;True;HARD;9.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21972;VER;33;0 days 00:01:28.175000;2.0;True;HARD;10.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21973;VER;33;0 days 00:01:28.179000;2.0;False;HARD;11.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21974;VER;33;0 days 00:01:28.041000;2.0;True;HARD;12.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21975;VER;33;0 days 00:01:28.600000;2.0;False;HARD;13.0;True;Red Bull Racing;2;2.0;2021;Abu Dhabi Grand Prix
+21976;VER;33;0 days 00:01:28.348000;2.0;False;HARD;14.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21977;VER;33;0 days 00:01:27.935000;2.0;True;HARD;15.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21978;VER;33;0 days 00:01:27.904000;2.0;True;HARD;16.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21979;VER;33;0 days 00:01:27.678000;2.0;True;HARD;17.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21980;VER;33;0 days 00:01:27.917000;2.0;False;HARD;18.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21981;VER;33;0 days 00:01:27.913000;2.0;False;HARD;19.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21982;VER;33;0 days 00:01:27.581000;2.0;True;HARD;20.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21983;VER;33;0 days 00:01:27.783000;2.0;False;HARD;21.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21984;VER;33;0 days 00:01:27.761000;2.0;False;HARD;22.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21985;VER;33;0 days 00:01:43.598000;2.0;False;HARD;23.0;True;Red Bull Racing;6;2.0;2021;Abu Dhabi Grand Prix
+21986;VER;33;0 days 00:02:08.605000;3.0;False;HARD;1.0;True;Red Bull Racing;67;2.0;2021;Abu Dhabi Grand Prix
+21987;VER;33;0 days 00:01:26.321000;3.0;True;HARD;2.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21988;VER;33;0 days 00:01:26.103000;3.0;True;HARD;3.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21989;VER;33;0 days 00:01:26.552000;3.0;False;HARD;4.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21990;VER;33;0 days 00:01:26.301000;3.0;False;HARD;5.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21991;VER;33;0 days 00:01:26.463000;3.0;False;HARD;6.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21992;VER;33;0 days 00:01:26.437000;3.0;False;HARD;7.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21993;VER;33;0 days 00:01:26.808000;3.0;False;HARD;8.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21994;VER;33;0 days 00:01:26.768000;3.0;False;HARD;9.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21995;VER;33;0 days 00:01:27.048000;3.0;False;HARD;10.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21996;VER;33;0 days 00:01:26.656000;3.0;False;HARD;11.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21997;VER;33;0 days 00:01:26.554000;3.0;False;HARD;12.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21998;VER;33;0 days 00:01:26.657000;3.0;False;HARD;13.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+21999;VER;33;0 days 00:01:26.748000;3.0;False;HARD;14.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+22000;VER;33;0 days 00:01:27.048000;3.0;False;HARD;15.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+22001;VER;33;0 days 00:01:27.559000;3.0;False;HARD;16.0;True;Red Bull Racing;1;2.0;2021;Abu Dhabi Grand Prix
+22002;VER;33;0 days 00:01:42.072000;3.0;False;HARD;17.0;True;Red Bull Racing;24;2.0;2021;Abu Dhabi Grand Prix
+22003;VER;33;0 days 00:02:15.373000;4.0;False;SOFT;4.0;False;Red Bull Racing;4;2.0;2021;Abu Dhabi Grand Prix
+22004;VER;33;;4.0;False;SOFT;5.0;False;Red Bull Racing;4;2.0;2021;Abu Dhabi Grand Prix
+22005;VER;33;0 days 00:02:26.432000;4.0;False;SOFT;6.0;False;Red Bull Racing;4;2.0;2021;Abu Dhabi Grand Prix
+22006;VER;33;0 days 00:02:21.895000;4.0;False;SOFT;7.0;False;Red Bull Racing;4;2.0;2021;Abu Dhabi Grand Prix
+22007;VER;33;0 days 00:01:26.618000;4.0;False;SOFT;8.0;False;Red Bull Racing;1;1.0;2021;Abu Dhabi Grand Prix
+22008;NOR;4;0 days 00:01:35.658000;1.0;False;SOFT;4.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22009;NOR;4;0 days 00:01:30.963000;1.0;True;SOFT;5.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22010;NOR;4;0 days 00:01:30.765000;1.0;True;SOFT;6.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22011;NOR;4;0 days 00:01:30.355000;1.0;True;SOFT;7.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22012;NOR;4;0 days 00:01:30.501000;1.0;False;SOFT;8.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22013;NOR;4;0 days 00:01:30.555000;1.0;False;SOFT;9.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22014;NOR;4;0 days 00:01:30.312000;1.0;True;SOFT;10.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22015;NOR;4;0 days 00:01:30.287000;1.0;True;SOFT;11.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22016;NOR;4;0 days 00:01:30.156000;1.0;True;SOFT;12.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22017;NOR;4;0 days 00:01:30.243000;1.0;False;SOFT;13.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22018;NOR;4;0 days 00:01:30.091000;1.0;True;SOFT;14.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22019;NOR;4;0 days 00:01:30.085000;1.0;True;SOFT;15.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22020;NOR;4;0 days 00:01:30.583000;1.0;False;SOFT;16.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22021;NOR;4;0 days 00:01:30.775000;1.0;False;SOFT;17.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22022;NOR;4;0 days 00:01:30.348000;1.0;False;SOFT;18.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22023;NOR;4;0 days 00:01:30.106000;1.0;False;SOFT;19.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22024;NOR;4;0 days 00:01:32.251000;1.0;False;SOFT;20.0;False;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22025;NOR;4;0 days 00:01:50.162000;2.0;False;HARD;1.0;True;McLaren;1;13.0;2021;Abu Dhabi Grand Prix
+22026;NOR;4;0 days 00:01:30.364000;2.0;False;HARD;2.0;True;McLaren;1;12.0;2021;Abu Dhabi Grand Prix
+22027;NOR;4;0 days 00:01:29.439000;2.0;True;HARD;3.0;True;McLaren;1;11.0;2021;Abu Dhabi Grand Prix
+22028;NOR;4;0 days 00:01:29.907000;2.0;False;HARD;4.0;True;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+22029;NOR;4;0 days 00:01:29.206000;2.0;True;HARD;5.0;True;McLaren;1;10.0;2021;Abu Dhabi Grand Prix
+22030;NOR;4;0 days 00:01:29.446000;2.0;False;HARD;6.0;True;McLaren;1;9.0;2021;Abu Dhabi Grand Prix
+22031;NOR;4;0 days 00:01:29.295000;2.0;False;HARD;7.0;True;McLaren;1;8.0;2021;Abu Dhabi Grand Prix
+22032;NOR;4;0 days 00:01:29.272000;2.0;False;HARD;8.0;True;McLaren;2;8.0;2021;Abu Dhabi Grand Prix
+22033;NOR;4;0 days 00:01:29.352000;2.0;False;HARD;9.0;True;McLaren;2;8.0;2021;Abu Dhabi Grand Prix
+22034;NOR;4;0 days 00:01:29.183000;2.0;True;HARD;10.0;True;McLaren;1;8.0;2021;Abu Dhabi Grand Prix
+22035;NOR;4;0 days 00:01:29.164000;2.0;True;HARD;11.0;True;McLaren;1;8.0;2021;Abu Dhabi Grand Prix
+22036;NOR;4;0 days 00:01:29.208000;2.0;False;HARD;12.0;True;McLaren;1;8.0;2021;Abu Dhabi Grand Prix
+22037;NOR;4;0 days 00:01:29.095000;2.0;True;HARD;13.0;True;McLaren;1;8.0;2021;Abu Dhabi Grand Prix
+22038;NOR;4;0 days 00:01:29.137000;2.0;False;HARD;14.0;True;McLaren;1;7.0;2021;Abu Dhabi Grand Prix
+22039;NOR;4;0 days 00:01:29.091000;2.0;True;HARD;15.0;True;McLaren;1;7.0;2021;Abu Dhabi Grand Prix
+22040;NOR;4;0 days 00:01:28.826000;2.0;True;HARD;16.0;True;McLaren;1;7.0;2021;Abu Dhabi Grand Prix
+22041;NOR;4;0 days 00:01:28.801000;2.0;True;HARD;17.0;True;McLaren;1;7.0;2021;Abu Dhabi Grand Prix
+22042;NOR;4;0 days 00:01:33.466000;2.0;False;HARD;18.0;True;McLaren;6;7.0;2021;Abu Dhabi Grand Prix
+22043;NOR;4;0 days 00:01:55.172000;2.0;False;HARD;19.0;True;McLaren;6;7.0;2021;Abu Dhabi Grand Prix
+22044;NOR;4;0 days 00:01:41.894000;2.0;False;HARD;20.0;True;McLaren;67;5.0;2021;Abu Dhabi Grand Prix
+22045;NOR;4;0 days 00:01:28.467000;2.0;True;HARD;21.0;True;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22046;NOR;4;0 days 00:01:28.430000;2.0;True;HARD;22.0;True;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22047;NOR;4;0 days 00:01:28.446000;2.0;False;HARD;23.0;True;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22048;NOR;4;0 days 00:01:28.289000;2.0;True;HARD;24.0;True;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22049;NOR;4;0 days 00:01:28.388000;2.0;False;HARD;25.0;True;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22050;NOR;4;0 days 00:01:28.178000;2.0;True;HARD;26.0;True;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22051;NOR;4;0 days 00:01:28.148000;2.0;True;HARD;27.0;True;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22052;NOR;4;0 days 00:01:28.008000;2.0;True;HARD;28.0;True;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22053;NOR;4;0 days 00:01:28.059000;2.0;False;HARD;29.0;True;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22054;NOR;4;0 days 00:01:27.953000;2.0;True;HARD;30.0;True;McLaren;1;5.0;2021;Abu Dhabi Grand Prix
+22055;NOR;4;0 days 00:01:29.996000;2.0;False;HARD;31.0;True;McLaren;1;6.0;2021;Abu Dhabi Grand Prix
+22056;NOR;4;0 days 00:01:48.028000;3.0;False;MEDIUM;1.0;True;McLaren;1;9.0;2021;Abu Dhabi Grand Prix
+22057;NOR;4;0 days 00:01:26.847000;3.0;True;MEDIUM;2.0;True;McLaren;1;8.0;2021;Abu Dhabi Grand Prix
+22058;NOR;4;0 days 00:01:27.227000;3.0;False;MEDIUM;3.0;True;McLaren;1;8.0;2021;Abu Dhabi Grand Prix
+22059;NOR;4;0 days 00:01:34.458000;3.0;False;MEDIUM;4.0;True;McLaren;24;8.0;2021;Abu Dhabi Grand Prix
+22060;NOR;4;0 days 00:02:23.485000;3.0;False;MEDIUM;5.0;True;McLaren;4;8.0;2021;Abu Dhabi Grand Prix
+22061;NOR;4;;3.0;False;MEDIUM;6.0;True;McLaren;4;8.0;2021;Abu Dhabi Grand Prix
+22062;NOR;4;0 days 00:02:25.212000;3.0;False;MEDIUM;7.0;True;McLaren;4;8.0;2021;Abu Dhabi Grand Prix
+22063;NOR;4;0 days 00:01:59.050000;3.0;False;MEDIUM;8.0;True;McLaren;4;7.0;2021;Abu Dhabi Grand Prix
+22064;NOR;4;0 days 00:01:27.460000;3.0;False;MEDIUM;9.0;True;McLaren;4;7.0;2021;Abu Dhabi Grand Prix
+22065;NOR;4;0 days 00:01:26.762000;3.0;True;MEDIUM;10.0;True;McLaren;1;7.0;2021;Abu Dhabi Grand Prix
+22066;HAM;44;0 days 00:01:31.686000;1.0;False;MEDIUM;4.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22067;HAM;44;0 days 00:01:28.791000;1.0;True;MEDIUM;5.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22068;HAM;44;0 days 00:01:28.587000;1.0;True;MEDIUM;6.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22069;HAM;44;0 days 00:01:28.789000;1.0;False;MEDIUM;7.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22070;HAM;44;0 days 00:01:28.630000;1.0;False;MEDIUM;8.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22071;HAM;44;0 days 00:01:28.593000;1.0;False;MEDIUM;9.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22072;HAM;44;0 days 00:01:28.550000;1.0;True;MEDIUM;10.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22073;HAM;44;0 days 00:01:28.585000;1.0;False;MEDIUM;11.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22074;HAM;44;0 days 00:01:28.356000;1.0;True;MEDIUM;12.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22075;HAM;44;0 days 00:01:28.216000;1.0;True;MEDIUM;13.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22076;HAM;44;0 days 00:01:28.134000;1.0;True;MEDIUM;14.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22077;HAM;44;0 days 00:01:28.566000;1.0;False;MEDIUM;15.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22078;HAM;44;0 days 00:01:28.258000;1.0;False;MEDIUM;16.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22079;HAM;44;0 days 00:01:30.253000;1.0;False;MEDIUM;17.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22080;HAM;44;0 days 00:01:48.755000;2.0;False;HARD;2.0;False;Mercedes;1;2.0;2021;Abu Dhabi Grand Prix
+22081;HAM;44;0 days 00:01:27.833000;2.0;True;HARD;3.0;False;Mercedes;1;2.0;2021;Abu Dhabi Grand Prix
+22082;HAM;44;0 days 00:01:27.780000;2.0;True;HARD;4.0;False;Mercedes;1;2.0;2021;Abu Dhabi Grand Prix
+22083;HAM;44;0 days 00:01:27.889000;2.0;False;HARD;5.0;False;Mercedes;1;2.0;2021;Abu Dhabi Grand Prix
+22084;HAM;44;0 days 00:01:28.232000;2.0;False;HARD;6.0;False;Mercedes;1;2.0;2021;Abu Dhabi Grand Prix
+22085;HAM;44;0 days 00:01:33.443000;2.0;False;HARD;7.0;False;Mercedes;1;2.0;2021;Abu Dhabi Grand Prix
+22086;HAM;44;0 days 00:01:30.485000;2.0;False;HARD;8.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22087;HAM;44;0 days 00:01:28.006000;2.0;False;HARD;9.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22088;HAM;44;0 days 00:01:27.663000;2.0;True;HARD;10.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22089;HAM;44;0 days 00:01:27.979000;2.0;False;HARD;11.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22090;HAM;44;0 days 00:01:27.870000;2.0;False;HARD;12.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22091;HAM;44;0 days 00:01:28.077000;2.0;False;HARD;13.0;False;Mercedes;2;1.0;2021;Abu Dhabi Grand Prix
+22092;HAM;44;0 days 00:01:27.975000;2.0;False;HARD;14.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22093;HAM;44;0 days 00:01:28.143000;2.0;False;HARD;15.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22094;HAM;44;0 days 00:01:27.484000;2.0;True;HARD;16.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22095;HAM;44;0 days 00:01:27.508000;2.0;False;HARD;17.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22096;HAM;44;0 days 00:01:27.495000;2.0;False;HARD;18.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22097;HAM;44;0 days 00:01:27.444000;2.0;True;HARD;19.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22098;HAM;44;0 days 00:01:27.742000;2.0;False;HARD;20.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22099;HAM;44;0 days 00:01:27.201000;2.0;True;HARD;21.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22100;HAM;44;0 days 00:01:27.591000;2.0;False;HARD;22.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22101;HAM;44;0 days 00:01:41.467000;2.0;False;HARD;23.0;False;Mercedes;6;1.0;2021;Abu Dhabi Grand Prix
+22102;HAM;44;0 days 00:01:56.216000;2.0;False;HARD;24.0;False;Mercedes;67;1.0;2021;Abu Dhabi Grand Prix
+22103;HAM;44;0 days 00:01:30.157000;2.0;False;HARD;25.0;False;Mercedes;7;1.0;2021;Abu Dhabi Grand Prix
+22104;HAM;44;0 days 00:01:26.762000;2.0;True;HARD;26.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22105;HAM;44;0 days 00:01:27.387000;2.0;False;HARD;27.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22106;HAM;44;0 days 00:01:26.718000;2.0;True;HARD;28.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22107;HAM;44;0 days 00:01:26.782000;2.0;False;HARD;29.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22108;HAM;44;0 days 00:01:26.615000;2.0;True;HARD;30.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22109;HAM;44;0 days 00:01:27.020000;2.0;False;HARD;31.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22110;HAM;44;0 days 00:01:26.966000;2.0;False;HARD;32.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22111;HAM;44;0 days 00:01:27.270000;2.0;False;HARD;33.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22112;HAM;44;0 days 00:01:27.683000;2.0;False;HARD;34.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22113;HAM;44;0 days 00:01:27.553000;2.0;False;HARD;35.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22114;HAM;44;0 days 00:01:26.875000;2.0;False;HARD;36.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22115;HAM;44;0 days 00:01:26.784000;2.0;False;HARD;37.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22116;HAM;44;0 days 00:01:26.934000;2.0;False;HARD;38.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22117;HAM;44;0 days 00:01:26.833000;2.0;False;HARD;39.0;False;Mercedes;1;1.0;2021;Abu Dhabi Grand Prix
+22118;HAM;44;0 days 00:01:38.574000;2.0;False;HARD;40.0;False;Mercedes;24;1.0;2021;Abu Dhabi Grand Prix
+22119;HAM;44;0 days 00:02:22.911000;2.0;False;HARD;41.0;False;Mercedes;4;1.0;2021;Abu Dhabi Grand Prix
+22120;HAM;44;;2.0;False;HARD;42.0;False;Mercedes;4;1.0;2021;Abu Dhabi Grand Prix
+22121;HAM;44;0 days 00:02:25.761000;2.0;False;HARD;43.0;False;Mercedes;4;1.0;2021;Abu Dhabi Grand Prix
+22122;HAM;44;0 days 00:02:28.331000;2.0;False;HARD;44.0;False;Mercedes;4;1.0;2021;Abu Dhabi Grand Prix
+22123;HAM;44;0 days 00:01:29.330000;2.0;False;HARD;45.0;False;Mercedes;1;2.0;2021;Abu Dhabi Grand Prix
+22124;MSC;47;0 days 00:01:42.098000;1.0;False;SOFT;1.0;True;Haas F1 Team;1;18.0;2021;Abu Dhabi Grand Prix
+22125;MSC;47;0 days 00:01:34.049000;1.0;True;SOFT;2.0;True;Haas F1 Team;1;18.0;2021;Abu Dhabi Grand Prix
+22126;MSC;47;0 days 00:01:33.612000;1.0;True;SOFT;3.0;True;Haas F1 Team;1;18.0;2021;Abu Dhabi Grand Prix
+22127;MSC;47;0 days 00:01:32.407000;1.0;True;SOFT;4.0;True;Haas F1 Team;1;18.0;2021;Abu Dhabi Grand Prix
+22128;MSC;47;0 days 00:01:31.634000;1.0;True;SOFT;5.0;True;Haas F1 Team;1;18.0;2021;Abu Dhabi Grand Prix
+22129;MSC;47;0 days 00:01:32.041000;1.0;False;SOFT;6.0;True;Haas F1 Team;1;18.0;2021;Abu Dhabi Grand Prix
+22130;MSC;47;0 days 00:01:31.681000;1.0;False;SOFT;7.0;True;Haas F1 Team;1;18.0;2021;Abu Dhabi Grand Prix
+22131;MSC;47;0 days 00:01:32.228000;1.0;False;SOFT;8.0;True;Haas F1 Team;1;18.0;2021;Abu Dhabi Grand Prix
+22132;MSC;47;0 days 00:01:31.755000;1.0;False;SOFT;9.0;True;Haas F1 Team;1;18.0;2021;Abu Dhabi Grand Prix
+22133;MSC;47;0 days 00:01:33.378000;1.0;False;SOFT;10.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22134;MSC;47;0 days 00:01:50.461000;2.0;False;HARD;1.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22135;MSC;47;0 days 00:01:30.122000;2.0;True;HARD;2.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22136;MSC;47;0 days 00:01:30.231000;2.0;False;HARD;3.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22137;MSC;47;0 days 00:01:30.727000;2.0;False;HARD;4.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22138;MSC;47;0 days 00:01:30.687000;2.0;False;HARD;5.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22139;MSC;47;0 days 00:01:30.458000;2.0;False;HARD;6.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22140;MSC;47;0 days 00:01:30.581000;2.0;False;HARD;7.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22141;MSC;47;0 days 00:01:30.736000;2.0;False;HARD;8.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22142;MSC;47;0 days 00:01:30.983000;2.0;False;HARD;9.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22143;MSC;47;0 days 00:01:30.586000;2.0;False;HARD;10.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22144;MSC;47;0 days 00:01:30.950000;2.0;False;HARD;11.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22145;MSC;47;0 days 00:01:30.884000;2.0;False;HARD;12.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22146;MSC;47;0 days 00:01:30.946000;2.0;False;HARD;13.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22147;MSC;47;0 days 00:01:30.520000;2.0;False;HARD;14.0;True;Haas F1 Team;1;19.0;2021;Abu Dhabi Grand Prix
+22148;MSC;47;0 days 00:01:30.266000;2.0;False;HARD;15.0;True;Haas F1 Team;2;18.0;2021;Abu Dhabi Grand Prix
+22149;MSC;47;0 days 00:01:30.969000;2.0;False;HARD;16.0;True;Haas F1 Team;1;17.0;2021;Abu Dhabi Grand Prix
+22150;MSC;47;0 days 00:01:30.904000;2.0;False;HARD;17.0;True;Haas F1 Team;1;17.0;2021;Abu Dhabi Grand Prix
+22151;MSC;47;0 days 00:01:30.726000;2.0;False;HARD;18.0;True;Haas F1 Team;1;17.0;2021;Abu Dhabi Grand Prix
+22152;MSC;47;0 days 00:01:30.524000;2.0;False;HARD;19.0;True;Haas F1 Team;1;16.0;2021;Abu Dhabi Grand Prix
+22153;MSC;47;0 days 00:01:32.165000;2.0;False;HARD;20.0;True;Haas F1 Team;1;16.0;2021;Abu Dhabi Grand Prix
+22154;MSC;47;0 days 00:01:32.290000;2.0;False;HARD;21.0;True;Haas F1 Team;1;16.0;2021;Abu Dhabi Grand Prix
+22155;MSC;47;0 days 00:01:30.218000;2.0;False;HARD;22.0;True;Haas F1 Team;1;16.0;2021;Abu Dhabi Grand Prix
+22156;MSC;47;0 days 00:01:30.038000;2.0;True;HARD;23.0;True;Haas F1 Team;1;16.0;2021;Abu Dhabi Grand Prix
+22157;MSC;47;0 days 00:01:30.006000;2.0;True;HARD;24.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22158;MSC;47;0 days 00:01:46.601000;2.0;False;HARD;25.0;True;Haas F1 Team;6;15.0;2021;Abu Dhabi Grand Prix
+22159;MSC;47;0 days 00:01:55.120000;2.0;False;HARD;26.0;True;Haas F1 Team;67;15.0;2021;Abu Dhabi Grand Prix
+22160;MSC;47;0 days 00:01:32.144000;2.0;False;HARD;27.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22161;MSC;47;0 days 00:01:29.580000;2.0;True;HARD;28.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22162;MSC;47;0 days 00:01:29.740000;2.0;False;HARD;29.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22163;MSC;47;0 days 00:01:29.767000;2.0;False;HARD;30.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22164;MSC;47;0 days 00:01:29.654000;2.0;False;HARD;31.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22165;MSC;47;0 days 00:01:29.457000;2.0;True;HARD;32.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22166;MSC;47;0 days 00:01:29.552000;2.0;False;HARD;33.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22167;MSC;47;0 days 00:01:29.929000;2.0;False;HARD;34.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22168;MSC;47;0 days 00:01:31.055000;2.0;False;HARD;35.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22169;MSC;47;0 days 00:01:30.250000;2.0;False;HARD;36.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22170;MSC;47;0 days 00:01:30.200000;2.0;False;HARD;37.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22171;MSC;47;0 days 00:01:29.751000;2.0;False;HARD;38.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22172;MSC;47;0 days 00:01:29.762000;2.0;False;HARD;39.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22173;MSC;47;0 days 00:01:29.962000;2.0;False;HARD;40.0;True;Haas F1 Team;1;15.0;2021;Abu Dhabi Grand Prix
+22174;MSC;47;0 days 00:01:30.614000;2.0;False;HARD;41.0;True;Haas F1 Team;2;15.0;2021;Abu Dhabi Grand Prix
+22175;MSC;47;0 days 00:01:56.602000;2.0;False;HARD;42.0;True;Haas F1 Team;24;15.0;2021;Abu Dhabi Grand Prix
+22176;MSC;47;0 days 00:02:11.605000;3.0;False;SOFT;4.0;False;Haas F1 Team;4;15.0;2021;Abu Dhabi Grand Prix
+22177;MSC;47;0 days 00:01:44.080000;3.0;False;SOFT;5.0;False;Haas F1 Team;4;15.0;2021;Abu Dhabi Grand Prix
+22178;MSC;47;0 days 00:02:18.615000;3.0;False;SOFT;6.0;False;Haas F1 Team;4;15.0;2021;Abu Dhabi Grand Prix
+22179;MSC;47;0 days 00:02:19.025000;3.0;False;SOFT;7.0;False;Haas F1 Team;4;14.0;2021;Abu Dhabi Grand Prix
+22180;MSC;47;0 days 00:01:31.021000;3.0;False;SOFT;8.0;False;Haas F1 Team;1;14.0;2021;Abu Dhabi Grand Prix
+22181;VET;5;0 days 00:01:40.689000;1.0;False;MEDIUM;1.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+22182;VET;5;0 days 00:01:33.380000;1.0;True;MEDIUM;2.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+22183;VET;5;0 days 00:01:31.953000;1.0;True;MEDIUM;3.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+22184;VET;5;0 days 00:01:32.027000;1.0;False;MEDIUM;4.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+22185;VET;5;0 days 00:01:31.230000;1.0;True;MEDIUM;5.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22186;VET;5;0 days 00:01:31.316000;1.0;False;MEDIUM;6.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22187;VET;5;0 days 00:01:30.715000;1.0;True;MEDIUM;7.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22188;VET;5;0 days 00:01:30.942000;1.0;False;MEDIUM;8.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22189;VET;5;0 days 00:01:31.124000;1.0;False;MEDIUM;9.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22190;VET;5;0 days 00:01:30.955000;1.0;False;MEDIUM;10.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22191;VET;5;0 days 00:01:30.860000;1.0;False;MEDIUM;11.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22192;VET;5;0 days 00:01:30.733000;1.0;False;MEDIUM;12.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22193;VET;5;0 days 00:01:30.717000;1.0;False;MEDIUM;13.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22194;VET;5;0 days 00:01:30.495000;1.0;True;MEDIUM;14.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22195;VET;5;0 days 00:01:30.748000;1.0;False;MEDIUM;15.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22196;VET;5;0 days 00:01:30.595000;1.0;False;MEDIUM;16.0;True;Aston Martin;1;12.0;2021;Abu Dhabi Grand Prix
+22197;VET;5;0 days 00:01:30.310000;1.0;True;MEDIUM;17.0;True;Aston Martin;1;11.0;2021;Abu Dhabi Grand Prix
+22198;VET;5;0 days 00:01:30.160000;1.0;True;MEDIUM;18.0;True;Aston Martin;1;10.0;2021;Abu Dhabi Grand Prix
+22199;VET;5;0 days 00:01:30.250000;1.0;True;MEDIUM;19.0;True;Aston Martin;1;9.0;2021;Abu Dhabi Grand Prix
+22200;VET;5;0 days 00:01:30.805000;1.0;False;MEDIUM;20.0;True;Aston Martin;1;9.0;2021;Abu Dhabi Grand Prix
+22201;VET;5;0 days 00:01:30.563000;1.0;False;MEDIUM;21.0;True;Aston Martin;1;9.0;2021;Abu Dhabi Grand Prix
+22202;VET;5;0 days 00:01:30.092000;1.0;True;MEDIUM;22.0;True;Aston Martin;1;9.0;2021;Abu Dhabi Grand Prix
+22203;VET;5;0 days 00:01:32.019000;1.0;False;MEDIUM;23.0;True;Aston Martin;1;10.0;2021;Abu Dhabi Grand Prix
+22204;VET;5;0 days 00:01:50.219000;2.0;False;HARD;1.0;True;Aston Martin;1;16.0;2021;Abu Dhabi Grand Prix
+22205;VET;5;0 days 00:01:30.202000;2.0;False;HARD;2.0;True;Aston Martin;2;15.0;2021;Abu Dhabi Grand Prix
+22206;VET;5;0 days 00:01:29.791000;2.0;True;HARD;3.0;True;Aston Martin;2;15.0;2021;Abu Dhabi Grand Prix
+22207;VET;5;0 days 00:01:30.894000;2.0;False;HARD;4.0;True;Aston Martin;1;15.0;2021;Abu Dhabi Grand Prix
+22208;VET;5;0 days 00:01:29.829000;2.0;False;HARD;5.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22209;VET;5;0 days 00:01:29.516000;2.0;True;HARD;6.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22210;VET;5;0 days 00:01:29.596000;2.0;False;HARD;7.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22211;VET;5;0 days 00:01:29.471000;2.0;True;HARD;8.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22212;VET;5;0 days 00:01:29.643000;2.0;False;HARD;9.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22213;VET;5;0 days 00:01:29.421000;2.0;True;HARD;10.0;True;Aston Martin;1;14.0;2021;Abu Dhabi Grand Prix
+22214;VET;5;0 days 00:01:28.556000;2.0;True;HARD;11.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22215;VET;5;0 days 00:01:40.559000;2.0;False;HARD;12.0;True;Aston Martin;6;13.0;2021;Abu Dhabi Grand Prix
+22216;VET;5;0 days 00:01:55.562000;2.0;False;HARD;13.0;True;Aston Martin;6;13.0;2021;Abu Dhabi Grand Prix
+22217;VET;5;0 days 00:01:34.318000;2.0;False;HARD;14.0;True;Aston Martin;67;13.0;2021;Abu Dhabi Grand Prix
+22218;VET;5;0 days 00:01:28.764000;2.0;False;HARD;15.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22219;VET;5;0 days 00:01:30.706000;2.0;False;HARD;16.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22220;VET;5;0 days 00:01:28.783000;2.0;False;HARD;17.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22221;VET;5;0 days 00:01:28.770000;2.0;False;HARD;18.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22222;VET;5;0 days 00:01:28.699000;2.0;False;HARD;19.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22223;VET;5;0 days 00:01:28.690000;2.0;False;HARD;20.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22224;VET;5;0 days 00:01:28.619000;2.0;False;HARD;21.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22225;VET;5;0 days 00:01:28.601000;2.0;False;HARD;22.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22226;VET;5;0 days 00:01:30.388000;2.0;False;HARD;23.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22227;VET;5;0 days 00:01:28.503000;2.0;True;HARD;24.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22228;VET;5;0 days 00:01:28.326000;2.0;True;HARD;25.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22229;VET;5;0 days 00:01:28.345000;2.0;False;HARD;26.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22230;VET;5;0 days 00:01:28.332000;2.0;False;HARD;27.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22231;VET;5;0 days 00:01:28.353000;2.0;False;HARD;28.0;True;Aston Martin;1;13.0;2021;Abu Dhabi Grand Prix
+22232;VET;5;0 days 00:01:41.212000;2.0;False;HARD;29.0;True;Aston Martin;24;13.0;2021;Abu Dhabi Grand Prix
+22233;VET;5;0 days 00:02:05.983000;2.0;False;HARD;30.0;True;Aston Martin;4;12.0;2021;Abu Dhabi Grand Prix
+22234;VET;5;;2.0;False;HARD;31.0;True;Aston Martin;4;12.0;2021;Abu Dhabi Grand Prix
+22235;VET;5;0 days 00:02:26.006000;2.0;False;HARD;32.0;True;Aston Martin;4;12.0;2021;Abu Dhabi Grand Prix
+22236;VET;5;0 days 00:02:00.340000;2.0;False;HARD;33.0;True;Aston Martin;4;11.0;2021;Abu Dhabi Grand Prix
+22237;VET;5;0 days 00:01:28.370000;2.0;False;HARD;34.0;True;Aston Martin;4;11.0;2021;Abu Dhabi Grand Prix
+22238;VET;5;0 days 00:01:28.303000;2.0;True;HARD;35.0;True;Aston Martin;1;11.0;2021;Abu Dhabi Grand Prix
+22239;SAI;55;0 days 00:01:34.819000;1.0;False;SOFT;4.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22240;SAI;55;0 days 00:01:30.325000;1.0;True;SOFT;5.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22241;SAI;55;0 days 00:01:30.155000;1.0;True;SOFT;6.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22242;SAI;55;0 days 00:01:30.356000;1.0;False;SOFT;7.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22243;SAI;55;0 days 00:01:30.387000;1.0;False;SOFT;8.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22244;SAI;55;0 days 00:01:30.329000;1.0;False;SOFT;9.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22245;SAI;55;0 days 00:01:30.316000;1.0;False;SOFT;10.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22246;SAI;55;0 days 00:01:30.255000;1.0;False;SOFT;11.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22247;SAI;55;0 days 00:01:30.165000;1.0;False;SOFT;12.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22248;SAI;55;0 days 00:01:30.174000;1.0;False;SOFT;13.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22249;SAI;55;0 days 00:01:29.800000;1.0;True;SOFT;14.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22250;SAI;55;0 days 00:01:29.772000;1.0;True;SOFT;15.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22251;SAI;55;0 days 00:01:29.801000;1.0;False;SOFT;16.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22252;SAI;55;0 days 00:01:29.591000;1.0;True;SOFT;17.0;False;Ferrari;1;3.0;2021;Abu Dhabi Grand Prix
+22253;SAI;55;0 days 00:01:29.938000;1.0;False;SOFT;18.0;False;Ferrari;1;3.0;2021;Abu Dhabi Grand Prix
+22254;SAI;55;0 days 00:01:29.591000;1.0;False;SOFT;19.0;False;Ferrari;1;3.0;2021;Abu Dhabi Grand Prix
+22255;SAI;55;0 days 00:01:29.311000;1.0;True;SOFT;20.0;False;Ferrari;1;3.0;2021;Abu Dhabi Grand Prix
+22256;SAI;55;0 days 00:01:30.907000;1.0;False;SOFT;21.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22257;SAI;55;0 days 00:01:32.384000;1.0;False;SOFT;22.0;False;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22258;SAI;55;0 days 00:01:50.428000;2.0;False;HARD;1.0;True;Ferrari;1;8.0;2021;Abu Dhabi Grand Prix
+22259;SAI;55;0 days 00:01:29.752000;2.0;False;HARD;2.0;True;Ferrari;1;8.0;2021;Abu Dhabi Grand Prix
+22260;SAI;55;0 days 00:01:29.803000;2.0;False;HARD;3.0;True;Ferrari;1;8.0;2021;Abu Dhabi Grand Prix
+22261;SAI;55;0 days 00:01:29.736000;2.0;False;HARD;4.0;True;Ferrari;1;8.0;2021;Abu Dhabi Grand Prix
+22262;SAI;55;0 days 00:01:29.576000;2.0;False;HARD;5.0;True;Ferrari;1;7.0;2021;Abu Dhabi Grand Prix
+22263;SAI;55;0 days 00:01:29.610000;2.0;False;HARD;6.0;True;Ferrari;2;7.0;2021;Abu Dhabi Grand Prix
+22264;SAI;55;0 days 00:01:29.505000;2.0;False;HARD;7.0;True;Ferrari;2;7.0;2021;Abu Dhabi Grand Prix
+22265;SAI;55;0 days 00:01:29.666000;2.0;False;HARD;8.0;True;Ferrari;1;7.0;2021;Abu Dhabi Grand Prix
+22266;SAI;55;0 days 00:01:29.719000;2.0;False;HARD;9.0;True;Ferrari;1;7.0;2021;Abu Dhabi Grand Prix
+22267;SAI;55;0 days 00:01:29.259000;2.0;True;HARD;10.0;True;Ferrari;1;7.0;2021;Abu Dhabi Grand Prix
+22268;SAI;55;0 days 00:01:29.121000;2.0;True;HARD;11.0;True;Ferrari;1;7.0;2021;Abu Dhabi Grand Prix
+22269;SAI;55;0 days 00:01:29.391000;2.0;False;HARD;12.0;True;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+22270;SAI;55;0 days 00:01:29.116000;2.0;True;HARD;13.0;True;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+22271;SAI;55;0 days 00:01:29.158000;2.0;False;HARD;14.0;True;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+22272;SAI;55;0 days 00:01:28.828000;2.0;True;HARD;15.0;True;Ferrari;1;6.0;2021;Abu Dhabi Grand Prix
+22273;SAI;55;0 days 00:01:33.791000;2.0;False;HARD;16.0;True;Ferrari;6;6.0;2021;Abu Dhabi Grand Prix
+22274;SAI;55;0 days 00:01:55.364000;2.0;False;HARD;17.0;True;Ferrari;6;6.0;2021;Abu Dhabi Grand Prix
+22275;SAI;55;0 days 00:01:41.553000;2.0;False;HARD;18.0;True;Ferrari;67;4.0;2021;Abu Dhabi Grand Prix
+22276;SAI;55;0 days 00:01:28.292000;2.0;True;HARD;19.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22277;SAI;55;0 days 00:01:28.384000;2.0;False;HARD;20.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22278;SAI;55;0 days 00:01:28.325000;2.0;False;HARD;21.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22279;SAI;55;0 days 00:01:28.279000;2.0;True;HARD;22.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22280;SAI;55;0 days 00:01:28.037000;2.0;True;HARD;23.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22281;SAI;55;0 days 00:01:28.178000;2.0;False;HARD;24.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22282;SAI;55;0 days 00:01:27.643000;2.0;True;HARD;25.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22283;SAI;55;0 days 00:01:27.929000;2.0;False;HARD;26.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22284;SAI;55;0 days 00:01:27.674000;2.0;False;HARD;27.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22285;SAI;55;0 days 00:01:27.797000;2.0;False;HARD;28.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22286;SAI;55;0 days 00:01:27.629000;2.0;True;HARD;29.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22287;SAI;55;0 days 00:01:27.732000;2.0;False;HARD;30.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22288;SAI;55;0 days 00:01:27.639000;2.0;False;HARD;31.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22289;SAI;55;0 days 00:01:27.618000;2.0;True;HARD;32.0;True;Ferrari;1;4.0;2021;Abu Dhabi Grand Prix
+22290;SAI;55;0 days 00:01:29.182000;2.0;False;HARD;33.0;True;Ferrari;2;4.0;2021;Abu Dhabi Grand Prix
+22291;SAI;55;0 days 00:01:56.967000;2.0;False;HARD;34.0;True;Ferrari;24;4.0;2021;Abu Dhabi Grand Prix
+22292;SAI;55;0 days 00:01:58.467000;2.0;False;HARD;35.0;True;Ferrari;4;4.0;2021;Abu Dhabi Grand Prix
+22293;SAI;55;0 days 00:01:47.011000;2.0;False;HARD;36.0;True;Ferrari;4;4.0;2021;Abu Dhabi Grand Prix
+22294;SAI;55;0 days 00:02:19.106000;2.0;False;HARD;37.0;True;Ferrari;4;3.0;2021;Abu Dhabi Grand Prix
+22295;SAI;55;0 days 00:02:19.998000;2.0;False;HARD;38.0;True;Ferrari;4;3.0;2021;Abu Dhabi Grand Prix
+22296;SAI;55;0 days 00:01:28.879000;2.0;False;HARD;39.0;True;Ferrari;1;3.0;2021;Abu Dhabi Grand Prix
+22297;RUS;63;0 days 00:01:42.644000;1.0;False;MEDIUM;1.0;True;Williams;1;19.0;2021;Abu Dhabi Grand Prix
+22298;RUS;63;0 days 00:01:34.186000;1.0;True;MEDIUM;2.0;True;Williams;1;19.0;2021;Abu Dhabi Grand Prix
+22299;RUS;63;0 days 00:01:33.882000;1.0;True;MEDIUM;3.0;True;Williams;1;19.0;2021;Abu Dhabi Grand Prix
+22300;RUS;63;0 days 00:01:32.609000;1.0;True;MEDIUM;4.0;True;Williams;1;19.0;2021;Abu Dhabi Grand Prix
+22301;RUS;63;0 days 00:01:31.678000;1.0;True;MEDIUM;5.0;True;Williams;1;19.0;2021;Abu Dhabi Grand Prix
+22302;RUS;63;0 days 00:01:32.508000;1.0;False;MEDIUM;6.0;True;Williams;1;19.0;2021;Abu Dhabi Grand Prix
+22303;RUS;63;0 days 00:01:31.589000;1.0;True;MEDIUM;7.0;True;Williams;1;19.0;2021;Abu Dhabi Grand Prix
+22304;RUS;63;0 days 00:01:32.193000;1.0;False;MEDIUM;8.0;True;Williams;1;19.0;2021;Abu Dhabi Grand Prix
+22305;RUS;63;0 days 00:01:31.554000;1.0;True;MEDIUM;9.0;True;Williams;1;19.0;2021;Abu Dhabi Grand Prix
+22306;RUS;63;0 days 00:01:31.631000;1.0;False;MEDIUM;10.0;True;Williams;1;18.0;2021;Abu Dhabi Grand Prix
+22307;RUS;63;0 days 00:01:30.793000;1.0;True;MEDIUM;11.0;True;Williams;1;18.0;2021;Abu Dhabi Grand Prix
+22308;RUS;63;0 days 00:01:30.957000;1.0;False;MEDIUM;12.0;True;Williams;1;18.0;2021;Abu Dhabi Grand Prix
+22309;RUS;63;0 days 00:01:31.068000;1.0;False;MEDIUM;13.0;True;Williams;1;18.0;2021;Abu Dhabi Grand Prix
+22310;RUS;63;0 days 00:01:30.768000;1.0;True;MEDIUM;14.0;True;Williams;1;18.0;2021;Abu Dhabi Grand Prix
+22311;RUS;63;0 days 00:01:30.853000;1.0;False;MEDIUM;15.0;True;Williams;1;18.0;2021;Abu Dhabi Grand Prix
+22312;RUS;63;0 days 00:01:31.729000;1.0;False;MEDIUM;16.0;True;Williams;1;17.0;2021;Abu Dhabi Grand Prix
+22313;RUS;63;0 days 00:01:31.206000;1.0;False;MEDIUM;17.0;True;Williams;1;17.0;2021;Abu Dhabi Grand Prix
+22314;RUS;63;0 days 00:01:32.536000;1.0;False;MEDIUM;18.0;True;Williams;1;17.0;2021;Abu Dhabi Grand Prix
+22315;RUS;63;0 days 00:01:31.252000;1.0;False;MEDIUM;19.0;True;Williams;1;16.0;2021;Abu Dhabi Grand Prix
+22316;RUS;63;0 days 00:01:32.053000;1.0;False;MEDIUM;20.0;True;Williams;1;17.0;2021;Abu Dhabi Grand Prix
+22317;RUS;63;0 days 00:01:31.065000;1.0;False;MEDIUM;21.0;True;Williams;1;17.0;2021;Abu Dhabi Grand Prix
+22318;RUS;63;0 days 00:01:30.821000;1.0;False;MEDIUM;22.0;True;Williams;1;15.0;2021;Abu Dhabi Grand Prix
+22319;RUS;63;0 days 00:01:30.647000;1.0;True;MEDIUM;23.0;True;Williams;1;15.0;2021;Abu Dhabi Grand Prix
+22320;RUS;63;0 days 00:01:31.577000;1.0;False;MEDIUM;24.0;True;Williams;1;14.0;2021;Abu Dhabi Grand Prix
+22321;RUS;63;0 days 00:01:32.794000;1.0;False;MEDIUM;25.0;True;Williams;2;16.0;2021;Abu Dhabi Grand Prix
+22322;RUS;63;;1.0;False;MEDIUM;26.0;True;Williams;2;18.0;2021;Abu Dhabi Grand Prix
+22323;RAI;7;0 days 00:01:41.610000;1.0;False;MEDIUM;1.0;True;Alfa Romeo Racing;1;17.0;2021;Abu Dhabi Grand Prix
+22324;RAI;7;0 days 00:01:33.319000;1.0;True;MEDIUM;2.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22325;RAI;7;0 days 00:01:31.945000;1.0;True;MEDIUM;3.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22326;RAI;7;0 days 00:01:32.230000;1.0;False;MEDIUM;4.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22327;RAI;7;0 days 00:01:31.984000;1.0;False;MEDIUM;5.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22328;RAI;7;0 days 00:01:31.868000;1.0;True;MEDIUM;6.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22329;RAI;7;0 days 00:01:31.350000;1.0;True;MEDIUM;7.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22330;RAI;7;0 days 00:01:31.420000;1.0;False;MEDIUM;8.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22331;RAI;7;0 days 00:01:31.363000;1.0;False;MEDIUM;9.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22332;RAI;7;0 days 00:01:30.740000;1.0;True;MEDIUM;10.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22333;RAI;7;0 days 00:01:30.931000;1.0;False;MEDIUM;11.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22334;RAI;7;0 days 00:01:30.807000;1.0;False;MEDIUM;12.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22335;RAI;7;0 days 00:01:31.086000;1.0;False;MEDIUM;13.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22336;RAI;7;0 days 00:01:30.753000;1.0;False;MEDIUM;14.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22337;RAI;7;0 days 00:01:30.604000;1.0;True;MEDIUM;15.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22338;RAI;7;0 days 00:01:30.478000;1.0;True;MEDIUM;16.0;True;Alfa Romeo Racing;1;14.0;2021;Abu Dhabi Grand Prix
+22339;RAI;7;0 days 00:01:30.312000;1.0;True;MEDIUM;17.0;True;Alfa Romeo Racing;1;14.0;2021;Abu Dhabi Grand Prix
+22340;RAI;7;0 days 00:01:30.426000;1.0;False;MEDIUM;18.0;True;Alfa Romeo Racing;1;12.0;2021;Abu Dhabi Grand Prix
+22341;RAI;7;0 days 00:01:30.680000;1.0;False;MEDIUM;19.0;True;Alfa Romeo Racing;1;11.0;2021;Abu Dhabi Grand Prix
+22342;RAI;7;0 days 00:01:31.110000;1.0;False;MEDIUM;20.0;True;Alfa Romeo Racing;1;12.0;2021;Abu Dhabi Grand Prix
+22343;RAI;7;0 days 00:01:33.951000;1.0;False;MEDIUM;21.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22344;RAI;7;0 days 00:01:50.722000;2.0;False;HARD;1.0;True;Alfa Romeo Racing;1;18.0;2021;Abu Dhabi Grand Prix
+22345;RAI;7;0 days 00:01:29.698000;2.0;True;HARD;2.0;True;Alfa Romeo Racing;1;18.0;2021;Abu Dhabi Grand Prix
+22346;RAI;7;0 days 00:01:31.307000;2.0;False;HARD;3.0;True;Alfa Romeo Racing;1;18.0;2021;Abu Dhabi Grand Prix
+22347;RAI;7;0 days 00:02:22.917000;2.0;False;HARD;4.0;True;Alfa Romeo Racing;2;19.0;2021;Abu Dhabi Grand Prix
+22348;BOT;77;0 days 00:01:37.280000;1.0;False;MEDIUM;6.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22349;BOT;77;0 days 00:01:31.738000;1.0;True;MEDIUM;7.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22350;BOT;77;0 days 00:01:30.683000;1.0;True;MEDIUM;8.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22351;BOT;77;0 days 00:01:30.997000;1.0;False;MEDIUM;9.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22352;BOT;77;0 days 00:01:30.644000;1.0;True;MEDIUM;10.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22353;BOT;77;0 days 00:01:30.639000;1.0;True;MEDIUM;11.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22354;BOT;77;0 days 00:01:30.195000;1.0;True;MEDIUM;12.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22355;BOT;77;0 days 00:01:30.533000;1.0;False;MEDIUM;13.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22356;BOT;77;0 days 00:01:30.515000;1.0;False;MEDIUM;14.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22357;BOT;77;0 days 00:01:30.704000;1.0;False;MEDIUM;15.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22358;BOT;77;0 days 00:01:30.592000;1.0;False;MEDIUM;16.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22359;BOT;77;0 days 00:01:30.252000;1.0;False;MEDIUM;17.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22360;BOT;77;0 days 00:01:30.079000;1.0;True;MEDIUM;18.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22361;BOT;77;0 days 00:01:30.595000;1.0;False;MEDIUM;19.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22362;BOT;77;0 days 00:01:31.079000;1.0;False;MEDIUM;20.0;False;Mercedes;1;7.0;2021;Abu Dhabi Grand Prix
+22363;BOT;77;0 days 00:01:29.754000;1.0;True;MEDIUM;21.0;False;Mercedes;1;7.0;2021;Abu Dhabi Grand Prix
+22364;BOT;77;0 days 00:01:29.692000;1.0;True;MEDIUM;22.0;False;Mercedes;1;7.0;2021;Abu Dhabi Grand Prix
+22365;BOT;77;0 days 00:01:29.478000;1.0;True;MEDIUM;23.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22366;BOT;77;0 days 00:01:29.652000;1.0;False;MEDIUM;24.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22367;BOT;77;0 days 00:01:29.620000;1.0;False;MEDIUM;25.0;False;Mercedes;1;5.0;2021;Abu Dhabi Grand Prix
+22368;BOT;77;0 days 00:01:29.647000;1.0;False;MEDIUM;26.0;False;Mercedes;1;5.0;2021;Abu Dhabi Grand Prix
+22369;BOT;77;0 days 00:01:29.559000;1.0;False;MEDIUM;27.0;False;Mercedes;1;4.0;2021;Abu Dhabi Grand Prix
+22370;BOT;77;0 days 00:01:29.984000;1.0;False;MEDIUM;28.0;False;Mercedes;1;3.0;2021;Abu Dhabi Grand Prix
+22371;BOT;77;0 days 00:01:29.097000;1.0;True;MEDIUM;29.0;False;Mercedes;1;3.0;2021;Abu Dhabi Grand Prix
+22372;BOT;77;0 days 00:01:28.871000;1.0;True;MEDIUM;30.0;False;Mercedes;1;3.0;2021;Abu Dhabi Grand Prix
+22373;BOT;77;0 days 00:01:29.636000;1.0;False;MEDIUM;31.0;False;Mercedes;2;3.0;2021;Abu Dhabi Grand Prix
+22374;BOT;77;0 days 00:01:28.927000;1.0;False;MEDIUM;32.0;False;Mercedes;1;3.0;2021;Abu Dhabi Grand Prix
+22375;BOT;77;0 days 00:01:29.131000;1.0;False;MEDIUM;33.0;False;Mercedes;1;3.0;2021;Abu Dhabi Grand Prix
+22376;BOT;77;0 days 00:01:29.204000;1.0;False;MEDIUM;34.0;False;Mercedes;1;3.0;2021;Abu Dhabi Grand Prix
+22377;BOT;77;0 days 00:01:30.944000;1.0;False;MEDIUM;35.0;False;Mercedes;1;4.0;2021;Abu Dhabi Grand Prix
+22378;BOT;77;0 days 00:01:50.242000;2.0;False;HARD;2.0;False;Mercedes;1;9.0;2021;Abu Dhabi Grand Prix
+22379;BOT;77;0 days 00:01:28.776000;2.0;True;HARD;3.0;False;Mercedes;1;9.0;2021;Abu Dhabi Grand Prix
+22380;BOT;77;0 days 00:01:28.961000;2.0;False;HARD;4.0;False;Mercedes;1;9.0;2021;Abu Dhabi Grand Prix
+22381;BOT;77;0 days 00:01:27.918000;2.0;True;HARD;5.0;False;Mercedes;1;8.0;2021;Abu Dhabi Grand Prix
+22382;BOT;77;0 days 00:01:33.907000;2.0;False;HARD;6.0;False;Mercedes;6;8.0;2021;Abu Dhabi Grand Prix
+22383;BOT;77;0 days 00:01:54.468000;2.0;False;HARD;7.0;False;Mercedes;6;8.0;2021;Abu Dhabi Grand Prix
+22384;BOT;77;0 days 00:01:41.441000;2.0;False;HARD;8.0;False;Mercedes;67;6.0;2021;Abu Dhabi Grand Prix
+22385;BOT;77;0 days 00:01:27.886000;2.0;True;HARD;9.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22386;BOT;77;0 days 00:01:27.960000;2.0;False;HARD;10.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22387;BOT;77;0 days 00:01:28.481000;2.0;False;HARD;11.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22388;BOT;77;0 days 00:01:28.224000;2.0;False;HARD;12.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22389;BOT;77;0 days 00:01:28.360000;2.0;False;HARD;13.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22390;BOT;77;0 days 00:01:28.327000;2.0;False;HARD;14.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22391;BOT;77;0 days 00:01:28.270000;2.0;False;HARD;15.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22392;BOT;77;0 days 00:01:27.839000;2.0;True;HARD;16.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22393;BOT;77;0 days 00:01:28.039000;2.0;False;HARD;17.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22394;BOT;77;0 days 00:01:27.849000;2.0;False;HARD;18.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22395;BOT;77;0 days 00:01:28.527000;2.0;False;HARD;19.0;False;Mercedes;1;5.0;2021;Abu Dhabi Grand Prix
+22396;BOT;77;0 days 00:01:27.239000;2.0;True;HARD;20.0;False;Mercedes;1;5.0;2021;Abu Dhabi Grand Prix
+22397;BOT;77;0 days 00:01:27.130000;2.0;True;HARD;21.0;False;Mercedes;1;5.0;2021;Abu Dhabi Grand Prix
+22398;BOT;77;0 days 00:01:26.862000;2.0;True;HARD;22.0;False;Mercedes;1;5.0;2021;Abu Dhabi Grand Prix
+22399;BOT;77;0 days 00:01:28.154000;2.0;False;HARD;23.0;False;Mercedes;24;5.0;2021;Abu Dhabi Grand Prix
+22400;BOT;77;0 days 00:01:58.324000;2.0;False;HARD;24.0;False;Mercedes;4;5.0;2021;Abu Dhabi Grand Prix
+22401;BOT;77;0 days 00:01:55.892000;2.0;False;HARD;25.0;False;Mercedes;4;5.0;2021;Abu Dhabi Grand Prix
+22402;BOT;77;0 days 00:01:47.158000;2.0;False;HARD;26.0;False;Mercedes;4;5.0;2021;Abu Dhabi Grand Prix
+22403;BOT;77;0 days 00:02:19.183000;2.0;False;HARD;27.0;False;Mercedes;4;4.0;2021;Abu Dhabi Grand Prix
+22404;BOT;77;0 days 00:02:19.191000;2.0;False;HARD;28.0;False;Mercedes;4;4.0;2021;Abu Dhabi Grand Prix
+22405;BOT;77;0 days 00:01:30.479000;2.0;False;HARD;29.0;False;Mercedes;1;6.0;2021;Abu Dhabi Grand Prix
+22406;GIO;99;0 days 00:01:39.822000;1.0;False;MEDIUM;1.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22407;GIO;99;0 days 00:01:33.170000;1.0;True;MEDIUM;2.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22408;GIO;99;0 days 00:01:31.837000;1.0;True;MEDIUM;3.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22409;GIO;99;0 days 00:01:31.553000;1.0;True;MEDIUM;4.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22410;GIO;99;0 days 00:01:31.597000;1.0;False;MEDIUM;5.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22411;GIO;99;0 days 00:01:31.313000;1.0;True;MEDIUM;6.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22412;GIO;99;0 days 00:01:30.707000;1.0;True;MEDIUM;7.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22413;GIO;99;0 days 00:01:31.022000;1.0;False;MEDIUM;8.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22414;GIO;99;0 days 00:01:31.039000;1.0;False;MEDIUM;9.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22415;GIO;99;0 days 00:01:31.035000;1.0;False;MEDIUM;10.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22416;GIO;99;0 days 00:01:30.746000;1.0;False;MEDIUM;11.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22417;GIO;99;0 days 00:01:30.868000;1.0;False;MEDIUM;12.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22418;GIO;99;0 days 00:01:30.853000;1.0;False;MEDIUM;13.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22419;GIO;99;0 days 00:01:30.546000;1.0;True;MEDIUM;14.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22420;GIO;99;0 days 00:01:30.550000;1.0;False;MEDIUM;15.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22421;GIO;99;0 days 00:01:30.682000;1.0;False;MEDIUM;16.0;True;Alfa Romeo Racing;1;11.0;2021;Abu Dhabi Grand Prix
+22422;GIO;99;0 days 00:01:32.432000;1.0;False;MEDIUM;17.0;True;Alfa Romeo Racing;1;12.0;2021;Abu Dhabi Grand Prix
+22423;GIO;99;0 days 00:01:51.395000;2.0;False;HARD;1.0;True;Alfa Romeo Racing;1;18.0;2021;Abu Dhabi Grand Prix
+22424;GIO;99;0 days 00:01:29.556000;2.0;True;HARD;2.0;True;Alfa Romeo Racing;1;18.0;2021;Abu Dhabi Grand Prix
+22425;GIO;99;0 days 00:01:30.001000;2.0;False;HARD;3.0;True;Alfa Romeo Racing;1;18.0;2021;Abu Dhabi Grand Prix
+22426;GIO;99;0 days 00:01:30.180000;2.0;False;HARD;4.0;True;Alfa Romeo Racing;1;18.0;2021;Abu Dhabi Grand Prix
+22427;GIO;99;0 days 00:01:30.137000;2.0;False;HARD;5.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22428;GIO;99;0 days 00:01:30.346000;2.0;False;HARD;6.0;True;Alfa Romeo Racing;1;16.0;2021;Abu Dhabi Grand Prix
+22429;GIO;99;0 days 00:01:31.109000;2.0;False;HARD;7.0;True;Alfa Romeo Racing;1;15.0;2021;Abu Dhabi Grand Prix
+22430;GIO;99;0 days 00:01:29.792000;2.0;False;HARD;8.0;True;Alfa Romeo Racing;2;14.0;2021;Abu Dhabi Grand Prix
+22431;GIO;99;0 days 00:01:30.004000;2.0;False;HARD;9.0;True;Alfa Romeo Racing;2;14.0;2021;Abu Dhabi Grand Prix
+22432;GIO;99;0 days 00:01:29.712000;2.0;False;HARD;10.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22433;GIO;99;0 days 00:01:30.282000;2.0;False;HARD;11.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22434;GIO;99;0 days 00:01:29.694000;2.0;False;HARD;12.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22435;GIO;99;0 days 00:01:29.775000;2.0;False;HARD;13.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22436;GIO;99;0 days 00:01:29.505000;2.0;True;HARD;14.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22437;GIO;99;0 days 00:01:29.596000;2.0;False;HARD;15.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22438;GIO;99;0 days 00:01:29.442000;2.0;True;HARD;16.0;True;Alfa Romeo Racing;1;13.0;2021;Abu Dhabi Grand Prix
+22439;GIO;99;;2.0;;HARD;17.0;True;Alfa Romeo Racing;;;2021;Abu Dhabi Grand Prix

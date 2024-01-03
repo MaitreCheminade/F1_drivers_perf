@@ -21474,3 +21474,1025 @@
 21472;GIO;99;0 days 00:02:14.947000;3.0;False;SOFT;26.0;True;Alfa Romeo Racing;4;7.0;2019;Brazilian Grand Prix
 21473;GIO;99;0 days 00:01:16;3.0;False;SOFT;27.0;True;Alfa Romeo Racing;2;6.0;2019;Brazilian Grand Prix
 21474;GIO;99;0 days 00:01:14.119000;3.0;False;SOFT;28.0;True;Alfa Romeo Racing;1;6.0;2019;Brazilian Grand Prix
+21475;HAM;44;0 days 00:01:44.369000;1.0;False;MEDIUM;4.0;False;Mercedes;2;1.0;2019;Abu Dhabi Grand Prix
+21476;HAM;44;0 days 00:01:42.740000;1.0;True;MEDIUM;5.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21477;HAM;44;0 days 00:01:42.503000;1.0;True;MEDIUM;6.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21478;HAM;44;0 days 00:01:42.916000;1.0;False;MEDIUM;7.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21479;HAM;44;0 days 00:01:43.130000;1.0;False;MEDIUM;8.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21480;HAM;44;0 days 00:01:42.858000;1.0;False;MEDIUM;9.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21481;HAM;44;0 days 00:01:42.881000;1.0;False;MEDIUM;10.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21482;HAM;44;0 days 00:01:42.733000;1.0;False;MEDIUM;11.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21483;HAM;44;0 days 00:01:42.874000;1.0;False;MEDIUM;12.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21484;HAM;44;0 days 00:01:42.907000;1.0;False;MEDIUM;13.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21485;HAM;44;0 days 00:01:42.779000;1.0;False;MEDIUM;14.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21486;HAM;44;0 days 00:01:43.067000;1.0;False;MEDIUM;15.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21487;HAM;44;0 days 00:01:42.620000;1.0;False;MEDIUM;16.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21488;HAM;44;0 days 00:01:42.535000;1.0;False;MEDIUM;17.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21489;HAM;44;0 days 00:01:42.444000;1.0;True;MEDIUM;18.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21490;HAM;44;0 days 00:01:42.292000;1.0;True;MEDIUM;19.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21491;HAM;44;0 days 00:01:42.474000;1.0;False;MEDIUM;20.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21492;HAM;44;0 days 00:01:42.410000;1.0;False;MEDIUM;21.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21493;HAM;44;0 days 00:01:42.229000;1.0;True;MEDIUM;22.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21494;HAM;44;0 days 00:01:42.657000;1.0;False;MEDIUM;23.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21495;HAM;44;0 days 00:01:43.680000;1.0;False;MEDIUM;24.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21496;HAM;44;0 days 00:01:42.806000;1.0;False;MEDIUM;25.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21497;HAM;44;0 days 00:01:43.778000;1.0;False;MEDIUM;26.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21498;HAM;44;0 days 00:01:43.039000;1.0;False;MEDIUM;27.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21499;HAM;44;0 days 00:01:43.121000;1.0;False;MEDIUM;28.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21500;HAM;44;0 days 00:01:44.822000;1.0;False;MEDIUM;29.0;False;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21501;HAM;44;0 days 00:02:02.843000;2.0;False;HARD;1.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21502;HAM;44;0 days 00:01:41.070000;2.0;True;HARD;2.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21503;HAM;44;0 days 00:01:41.744000;2.0;False;HARD;3.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21504;HAM;44;0 days 00:01:41.709000;2.0;False;HARD;4.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21505;HAM;44;0 days 00:01:41.569000;2.0;False;HARD;5.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21506;HAM;44;0 days 00:01:41.450000;2.0;False;HARD;6.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21507;HAM;44;0 days 00:01:41.581000;2.0;False;HARD;7.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21508;HAM;44;0 days 00:01:42.306000;2.0;False;HARD;8.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21509;HAM;44;0 days 00:01:41.845000;2.0;False;HARD;9.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21510;HAM;44;0 days 00:01:42.015000;2.0;False;HARD;10.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21511;HAM;44;0 days 00:01:42.024000;2.0;False;HARD;11.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21512;HAM;44;0 days 00:01:42.941000;2.0;False;HARD;12.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21513;HAM;44;0 days 00:01:41.580000;2.0;False;HARD;13.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21514;HAM;44;0 days 00:01:41.636000;2.0;False;HARD;14.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21515;HAM;44;0 days 00:01:41.976000;2.0;False;HARD;15.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21516;HAM;44;0 days 00:01:42.153000;2.0;False;HARD;16.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21517;HAM;44;0 days 00:01:41.305000;2.0;False;HARD;17.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21518;HAM;44;0 days 00:01:41.219000;2.0;False;HARD;18.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21519;HAM;44;0 days 00:01:40.008000;2.0;True;HARD;19.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21520;HAM;44;0 days 00:01:41.653000;2.0;False;HARD;20.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21521;HAM;44;0 days 00:01:41.525000;2.0;False;HARD;21.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21522;HAM;44;0 days 00:01:41.507000;2.0;False;HARD;22.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21523;HAM;44;0 days 00:01:41.548000;2.0;False;HARD;23.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21524;HAM;44;0 days 00:01:41.625000;2.0;False;HARD;24.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21525;HAM;44;0 days 00:01:41.969000;2.0;False;HARD;25.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21526;HAM;44;0 days 00:01:42.093000;2.0;False;HARD;26.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21527;HAM;44;0 days 00:01:39.283000;2.0;True;HARD;27.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21528;HAM;44;0 days 00:01:42.008000;2.0;False;HARD;28.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21529;HAM;44;0 days 00:01:42.866000;2.0;False;HARD;29.0;True;Mercedes;1;1.0;2019;Abu Dhabi Grand Prix
+21530;VER;33;0 days 00:01:47.616000;1.0;False;MEDIUM;4.0;False;Red Bull Racing;2;3.0;2019;Abu Dhabi Grand Prix
+21531;VER;33;0 days 00:01:43.281000;1.0;True;MEDIUM;5.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21532;VER;33;0 days 00:01:43.245000;1.0;True;MEDIUM;6.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21533;VER;33;0 days 00:01:43.308000;1.0;False;MEDIUM;7.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21534;VER;33;0 days 00:01:43.506000;1.0;False;MEDIUM;8.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21535;VER;33;0 days 00:01:43.799000;1.0;False;MEDIUM;9.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21536;VER;33;0 days 00:01:43.256000;1.0;False;MEDIUM;10.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21537;VER;33;0 days 00:01:43.206000;1.0;True;MEDIUM;11.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21538;VER;33;0 days 00:01:43.303000;1.0;False;MEDIUM;12.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21539;VER;33;0 days 00:01:43.442000;1.0;False;MEDIUM;13.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21540;VER;33;0 days 00:01:43.404000;1.0;False;MEDIUM;14.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21541;VER;33;0 days 00:01:43.252000;1.0;False;MEDIUM;15.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21542;VER;33;0 days 00:01:43.010000;1.0;True;MEDIUM;16.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21543;VER;33;0 days 00:01:42.876000;1.0;True;MEDIUM;17.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21544;VER;33;0 days 00:01:43.057000;1.0;False;MEDIUM;18.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21545;VER;33;0 days 00:01:42.834000;1.0;True;MEDIUM;19.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21546;VER;33;0 days 00:01:43.060000;1.0;False;MEDIUM;20.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21547;VER;33;0 days 00:01:43.168000;1.0;False;MEDIUM;21.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21548;VER;33;0 days 00:01:43.166000;1.0;False;MEDIUM;22.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21549;VER;33;0 days 00:01:43.010000;1.0;False;MEDIUM;23.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21550;VER;33;0 days 00:01:43.024000;1.0;False;MEDIUM;24.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21551;VER;33;0 days 00:01:43.190000;1.0;False;MEDIUM;25.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21552;VER;33;0 days 00:01:43.063000;1.0;False;MEDIUM;26.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21553;VER;33;0 days 00:01:43.259000;1.0;False;MEDIUM;27.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21554;VER;33;0 days 00:01:45.216000;1.0;False;MEDIUM;28.0;False;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21555;VER;33;0 days 00:02:02.305000;2.0;False;HARD;1.0;True;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21556;VER;33;0 days 00:01:42.898000;2.0;False;HARD;2.0;True;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21557;VER;33;0 days 00:01:41.651000;2.0;True;HARD;3.0;True;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21558;VER;33;0 days 00:01:41.701000;2.0;False;HARD;4.0;True;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21559;VER;33;0 days 00:01:41.897000;2.0;False;HARD;5.0;True;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21560;VER;33;0 days 00:01:42.521000;2.0;False;HARD;6.0;True;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21561;VER;33;0 days 00:01:42.598000;2.0;False;HARD;7.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21562;VER;33;0 days 00:01:41.983000;2.0;False;HARD;8.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21563;VER;33;0 days 00:01:41.694000;2.0;False;HARD;9.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21564;VER;33;0 days 00:01:42.286000;2.0;False;HARD;10.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21565;VER;33;0 days 00:01:42.561000;2.0;False;HARD;11.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21566;VER;33;0 days 00:01:41.776000;2.0;False;HARD;12.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21567;VER;33;0 days 00:01:41.555000;2.0;True;HARD;13.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21568;VER;33;0 days 00:01:41.541000;2.0;True;HARD;14.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21569;VER;33;0 days 00:01:41.778000;2.0;False;HARD;15.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21570;VER;33;0 days 00:01:41.824000;2.0;False;HARD;16.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21571;VER;33;0 days 00:01:41.915000;2.0;False;HARD;17.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21572;VER;33;0 days 00:01:41.755000;2.0;False;HARD;18.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21573;VER;33;0 days 00:01:42.046000;2.0;False;HARD;19.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21574;VER;33;0 days 00:01:41.955000;2.0;False;HARD;20.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21575;VER;33;0 days 00:01:41.674000;2.0;False;HARD;21.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21576;VER;33;0 days 00:01:41.592000;2.0;False;HARD;22.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21577;VER;33;0 days 00:01:41.273000;2.0;True;HARD;23.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21578;VER;33;0 days 00:01:41.775000;2.0;False;HARD;24.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21579;VER;33;0 days 00:01:41.333000;2.0;False;HARD;25.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21580;VER;33;0 days 00:01:41.774000;2.0;False;HARD;26.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21581;VER;33;0 days 00:01:41.743000;2.0;False;HARD;27.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21582;VER;33;0 days 00:01:41.849000;2.0;False;HARD;28.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21583;VER;33;0 days 00:01:41.564000;2.0;False;HARD;29.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21584;VER;33;0 days 00:01:41.119000;2.0;True;HARD;30.0;True;Red Bull Racing;1;2.0;2019;Abu Dhabi Grand Prix
+21585;LEC;16;0 days 00:01:46.050000;1.0;False;MEDIUM;4.0;False;Ferrari;2;2.0;2019;Abu Dhabi Grand Prix
+21586;LEC;16;0 days 00:01:43.061000;1.0;True;MEDIUM;5.0;False;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21587;LEC;16;0 days 00:01:43.272000;1.0;False;MEDIUM;6.0;False;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21588;LEC;16;0 days 00:01:43.155000;1.0;False;MEDIUM;7.0;False;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21589;LEC;16;0 days 00:01:43.501000;1.0;False;MEDIUM;8.0;False;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21590;LEC;16;0 days 00:01:43.764000;1.0;False;MEDIUM;9.0;False;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21591;LEC;16;0 days 00:01:43.320000;1.0;False;MEDIUM;10.0;False;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21592;LEC;16;0 days 00:01:43.172000;1.0;False;MEDIUM;11.0;False;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21593;LEC;16;0 days 00:01:43.109000;1.0;False;MEDIUM;12.0;False;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21594;LEC;16;0 days 00:01:43.353000;1.0;False;MEDIUM;13.0;False;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21595;LEC;16;0 days 00:01:43.315000;1.0;False;MEDIUM;14.0;False;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21596;LEC;16;0 days 00:01:45.143000;1.0;False;MEDIUM;15.0;False;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21597;LEC;16;0 days 00:02:03.596000;2.0;False;HARD;1.0;True;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21598;LEC;16;0 days 00:01:41.938000;2.0;True;HARD;2.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21599;LEC;16;0 days 00:01:41.997000;2.0;False;HARD;3.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21600;LEC;16;0 days 00:01:42.208000;2.0;False;HARD;4.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21601;LEC;16;0 days 00:01:43.395000;2.0;False;HARD;5.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21602;LEC;16;0 days 00:01:42.973000;2.0;False;HARD;6.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21603;LEC;16;0 days 00:01:42.758000;2.0;False;HARD;7.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21604;LEC;16;0 days 00:01:42.998000;2.0;False;HARD;8.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21605;LEC;16;0 days 00:01:42.794000;2.0;False;HARD;9.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21606;LEC;16;0 days 00:01:43.117000;2.0;False;HARD;10.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21607;LEC;16;0 days 00:01:42.914000;2.0;False;HARD;11.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21608;LEC;16;0 days 00:01:42.951000;2.0;False;HARD;12.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21609;LEC;16;0 days 00:01:43.443000;2.0;False;HARD;13.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21610;LEC;16;0 days 00:01:42.824000;2.0;False;HARD;14.0;True;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21611;LEC;16;0 days 00:01:42.852000;2.0;False;HARD;15.0;True;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21612;LEC;16;0 days 00:01:43.172000;2.0;False;HARD;16.0;True;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21613;LEC;16;0 days 00:01:42.773000;2.0;False;HARD;17.0;True;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21614;LEC;16;0 days 00:01:42.888000;2.0;False;HARD;18.0;True;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21615;LEC;16;0 days 00:01:43.120000;2.0;False;HARD;19.0;True;Ferrari;1;2.0;2019;Abu Dhabi Grand Prix
+21616;LEC;16;0 days 00:01:44.968000;2.0;False;HARD;20.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21617;LEC;16;0 days 00:01:43.466000;2.0;False;HARD;21.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21618;LEC;16;0 days 00:01:42.970000;2.0;False;HARD;22.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21619;LEC;16;0 days 00:01:42.759000;2.0;False;HARD;23.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21620;LEC;16;0 days 00:01:43.052000;2.0;False;HARD;24.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21621;LEC;16;0 days 00:01:43.459000;2.0;False;HARD;25.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21622;LEC;16;0 days 00:01:44.980000;2.0;False;HARD;26.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21623;LEC;16;0 days 00:02:00.803000;3.0;False;SOFT;1.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21624;LEC;16;0 days 00:01:40.514000;3.0;True;SOFT;2.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21625;LEC;16;0 days 00:01:41.022000;3.0;False;SOFT;3.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21626;LEC;16;0 days 00:01:40.999000;3.0;False;SOFT;4.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21627;LEC;16;0 days 00:01:40.751000;3.0;False;SOFT;5.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21628;LEC;16;0 days 00:01:40.442000;3.0;True;SOFT;6.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21629;LEC;16;0 days 00:01:40.868000;3.0;False;SOFT;7.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21630;LEC;16;0 days 00:01:40.886000;3.0;False;SOFT;8.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21631;LEC;16;0 days 00:01:41.222000;3.0;False;SOFT;9.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21632;LEC;16;0 days 00:01:41.712000;3.0;False;SOFT;10.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21633;LEC;16;0 days 00:01:42.019000;3.0;False;SOFT;11.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21634;LEC;16;0 days 00:01:42.421000;3.0;False;SOFT;12.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21635;LEC;16;0 days 00:01:42.195000;3.0;False;SOFT;13.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21636;LEC;16;0 days 00:01:41.882000;3.0;False;SOFT;14.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21637;LEC;16;0 days 00:01:41.878000;3.0;False;SOFT;15.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21638;LEC;16;0 days 00:01:42.127000;3.0;False;SOFT;16.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21639;LEC;16;0 days 00:01:42.829000;3.0;False;SOFT;17.0;True;Ferrari;1;3.0;2019;Abu Dhabi Grand Prix
+21640;BOT;77;0 days 00:01:55.218000;1.0;False;MEDIUM;4.0;False;Mercedes;2;15.0;2019;Abu Dhabi Grand Prix
+21641;BOT;77;0 days 00:01:47.442000;1.0;True;MEDIUM;5.0;False;Mercedes;1;14.0;2019;Abu Dhabi Grand Prix
+21642;BOT;77;0 days 00:01:46.669000;1.0;True;MEDIUM;6.0;False;Mercedes;1;14.0;2019;Abu Dhabi Grand Prix
+21643;BOT;77;0 days 00:01:46.766000;1.0;False;MEDIUM;7.0;False;Mercedes;1;14.0;2019;Abu Dhabi Grand Prix
+21644;BOT;77;0 days 00:01:44.794000;1.0;True;MEDIUM;8.0;False;Mercedes;1;13.0;2019;Abu Dhabi Grand Prix
+21645;BOT;77;0 days 00:01:45.256000;1.0;False;MEDIUM;9.0;False;Mercedes;1;12.0;2019;Abu Dhabi Grand Prix
+21646;BOT;77;0 days 00:01:44.608000;1.0;True;MEDIUM;10.0;False;Mercedes;1;11.0;2019;Abu Dhabi Grand Prix
+21647;BOT;77;0 days 00:01:44.237000;1.0;True;MEDIUM;11.0;False;Mercedes;1;11.0;2019;Abu Dhabi Grand Prix
+21648;BOT;77;0 days 00:01:44.742000;1.0;False;MEDIUM;12.0;False;Mercedes;1;10.0;2019;Abu Dhabi Grand Prix
+21649;BOT;77;0 days 00:01:45.173000;1.0;False;MEDIUM;13.0;False;Mercedes;1;10.0;2019;Abu Dhabi Grand Prix
+21650;BOT;77;0 days 00:01:45.062000;1.0;False;MEDIUM;14.0;False;Mercedes;1;10.0;2019;Abu Dhabi Grand Prix
+21651;BOT;77;0 days 00:01:44.139000;1.0;True;MEDIUM;15.0;False;Mercedes;1;8.0;2019;Abu Dhabi Grand Prix
+21652;BOT;77;0 days 00:01:43.950000;1.0;True;MEDIUM;16.0;False;Mercedes;1;6.0;2019;Abu Dhabi Grand Prix
+21653;BOT;77;0 days 00:01:44.362000;1.0;False;MEDIUM;17.0;False;Mercedes;1;5.0;2019;Abu Dhabi Grand Prix
+21654;BOT;77;0 days 00:01:44.608000;1.0;False;MEDIUM;18.0;False;Mercedes;1;5.0;2019;Abu Dhabi Grand Prix
+21655;BOT;77;0 days 00:01:44.406000;1.0;False;MEDIUM;19.0;False;Mercedes;1;5.0;2019;Abu Dhabi Grand Prix
+21656;BOT;77;0 days 00:01:45.423000;1.0;False;MEDIUM;20.0;False;Mercedes;1;5.0;2019;Abu Dhabi Grand Prix
+21657;BOT;77;0 days 00:01:43.384000;1.0;True;MEDIUM;21.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21658;BOT;77;0 days 00:01:43.312000;1.0;True;MEDIUM;22.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21659;BOT;77;0 days 00:01:42.747000;1.0;True;MEDIUM;23.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21660;BOT;77;0 days 00:01:42.608000;1.0;True;MEDIUM;24.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21661;BOT;77;0 days 00:01:42.809000;1.0;False;MEDIUM;25.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21662;BOT;77;0 days 00:01:42.590000;1.0;True;MEDIUM;26.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21663;BOT;77;0 days 00:01:42.753000;1.0;False;MEDIUM;27.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21664;BOT;77;0 days 00:01:42.518000;1.0;True;MEDIUM;28.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21665;BOT;77;0 days 00:01:42.904000;1.0;False;MEDIUM;29.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21666;BOT;77;0 days 00:01:42.828000;1.0;False;MEDIUM;30.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21667;BOT;77;0 days 00:01:42.912000;1.0;False;MEDIUM;31.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21668;BOT;77;0 days 00:01:44.574000;1.0;False;MEDIUM;32.0;False;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21669;BOT;77;0 days 00:02:01.245000;2.0;False;HARD;1.0;True;Mercedes;1;6.0;2019;Abu Dhabi Grand Prix
+21670;BOT;77;0 days 00:01:39.715000;2.0;True;HARD;2.0;True;Mercedes;1;6.0;2019;Abu Dhabi Grand Prix
+21671;BOT;77;0 days 00:01:40.953000;2.0;False;HARD;3.0;True;Mercedes;1;6.0;2019;Abu Dhabi Grand Prix
+21672;BOT;77;0 days 00:01:41.269000;2.0;False;HARD;4.0;True;Mercedes;1;6.0;2019;Abu Dhabi Grand Prix
+21673;BOT;77;0 days 00:01:41.403000;2.0;False;HARD;5.0;True;Mercedes;1;6.0;2019;Abu Dhabi Grand Prix
+21674;BOT;77;0 days 00:01:42.600000;2.0;False;HARD;6.0;True;Mercedes;1;6.0;2019;Abu Dhabi Grand Prix
+21675;BOT;77;0 days 00:01:41.693000;2.0;False;HARD;7.0;True;Mercedes;1;6.0;2019;Abu Dhabi Grand Prix
+21676;BOT;77;0 days 00:01:42.014000;2.0;False;HARD;8.0;True;Mercedes;1;6.0;2019;Abu Dhabi Grand Prix
+21677;BOT;77;0 days 00:01:42.780000;2.0;False;HARD;9.0;True;Mercedes;1;5.0;2019;Abu Dhabi Grand Prix
+21678;BOT;77;0 days 00:01:41.785000;2.0;False;HARD;10.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21679;BOT;77;0 days 00:01:42.305000;2.0;False;HARD;11.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21680;BOT;77;0 days 00:01:42.246000;2.0;False;HARD;12.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21681;BOT;77;0 days 00:01:41.706000;2.0;False;HARD;13.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21682;BOT;77;0 days 00:01:42.048000;2.0;False;HARD;14.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21683;BOT;77;0 days 00:01:41.409000;2.0;False;HARD;15.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21684;BOT;77;0 days 00:01:40.852000;2.0;False;HARD;16.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21685;BOT;77;0 days 00:01:40.865000;2.0;False;HARD;17.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21686;BOT;77;0 days 00:01:41.009000;2.0;False;HARD;18.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21687;BOT;77;0 days 00:01:40.844000;2.0;False;HARD;19.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21688;BOT;77;0 days 00:01:40.517000;2.0;False;HARD;20.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21689;BOT;77;0 days 00:01:40.864000;2.0;False;HARD;21.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21690;BOT;77;0 days 00:01:41.390000;2.0;False;HARD;22.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21691;BOT;77;0 days 00:01:41.054000;2.0;False;HARD;23.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21692;BOT;77;0 days 00:01:41.553000;2.0;False;HARD;24.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21693;BOT;77;0 days 00:01:41.001000;2.0;False;HARD;25.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21694;BOT;77;0 days 00:01:42.180000;2.0;False;HARD;26.0;True;Mercedes;1;4.0;2019;Abu Dhabi Grand Prix
+21695;VET;5;0 days 00:01:48.361000;1.0;False;SOFT;4.0;False;Ferrari;2;4.0;2019;Abu Dhabi Grand Prix
+21696;VET;5;0 days 00:01:43.643000;1.0;True;SOFT;5.0;False;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21697;VET;5;0 days 00:01:43.234000;1.0;True;SOFT;6.0;False;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21698;VET;5;0 days 00:01:43.513000;1.0;False;SOFT;7.0;False;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21699;VET;5;0 days 00:01:43.888000;1.0;False;SOFT;8.0;False;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21700;VET;5;0 days 00:01:44.065000;1.0;False;SOFT;9.0;False;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21701;VET;5;0 days 00:01:43.575000;1.0;False;SOFT;10.0;False;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21702;VET;5;0 days 00:01:43.900000;1.0;False;SOFT;11.0;False;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21703;VET;5;0 days 00:01:43.821000;1.0;False;SOFT;12.0;False;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21704;VET;5;0 days 00:01:44.061000;1.0;False;SOFT;13.0;False;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21705;VET;5;0 days 00:01:44.195000;1.0;False;SOFT;14.0;False;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21706;VET;5;0 days 00:01:46.406000;1.0;False;SOFT;15.0;False;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21707;VET;5;0 days 00:02:07.307000;2.0;False;HARD;1.0;True;Ferrari;1;7.0;2019;Abu Dhabi Grand Prix
+21708;VET;5;0 days 00:01:43.496000;2.0;False;HARD;2.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21709;VET;5;0 days 00:01:44.467000;2.0;False;HARD;3.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21710;VET;5;0 days 00:01:44.461000;2.0;False;HARD;4.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21711;VET;5;0 days 00:01:45.414000;2.0;False;HARD;5.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21712;VET;5;0 days 00:01:44.900000;2.0;False;HARD;6.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21713;VET;5;0 days 00:01:43.060000;2.0;True;HARD;7.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21714;VET;5;0 days 00:01:42.989000;2.0;True;HARD;8.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21715;VET;5;0 days 00:01:43.123000;2.0;False;HARD;9.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21716;VET;5;0 days 00:01:42.995000;2.0;False;HARD;10.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21717;VET;5;0 days 00:01:43.303000;2.0;False;HARD;11.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21718;VET;5;0 days 00:01:43.091000;2.0;False;HARD;12.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21719;VET;5;0 days 00:01:42.707000;2.0;True;HARD;13.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21720;VET;5;0 days 00:01:42.802000;2.0;False;HARD;14.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21721;VET;5;0 days 00:01:43.129000;2.0;False;HARD;15.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21722;VET;5;0 days 00:01:42.965000;2.0;False;HARD;16.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21723;VET;5;0 days 00:01:43.048000;2.0;False;HARD;17.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21724;VET;5;0 days 00:01:42.760000;2.0;False;HARD;18.0;True;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21725;VET;5;0 days 00:01:43.143000;2.0;False;HARD;19.0;True;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21726;VET;5;0 days 00:01:42.976000;2.0;False;HARD;20.0;True;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21727;VET;5;0 days 00:01:43.921000;2.0;False;HARD;21.0;True;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21728;VET;5;0 days 00:01:43.476000;2.0;False;HARD;22.0;True;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21729;VET;5;0 days 00:01:43.011000;2.0;False;HARD;23.0;True;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21730;VET;5;0 days 00:01:42.847000;2.0;False;HARD;24.0;True;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21731;VET;5;0 days 00:01:43.143000;2.0;False;HARD;25.0;True;Ferrari;1;4.0;2019;Abu Dhabi Grand Prix
+21732;VET;5;0 days 00:01:45.352000;2.0;False;HARD;26.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21733;VET;5;0 days 00:02:02.236000;3.0;False;MEDIUM;1.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21734;VET;5;0 days 00:01:41.569000;3.0;True;MEDIUM;2.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21735;VET;5;0 days 00:01:41.645000;3.0;False;MEDIUM;3.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21736;VET;5;0 days 00:01:42.017000;3.0;False;MEDIUM;4.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21737;VET;5;0 days 00:01:40.246000;3.0;True;MEDIUM;5.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21738;VET;5;0 days 00:01:41.605000;3.0;False;MEDIUM;6.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21739;VET;5;0 days 00:01:41.455000;3.0;False;MEDIUM;7.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21740;VET;5;0 days 00:01:41.104000;3.0;False;MEDIUM;8.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21741;VET;5;0 days 00:01:41.074000;3.0;False;MEDIUM;9.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21742;VET;5;0 days 00:01:41.561000;3.0;False;MEDIUM;10.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21743;VET;5;0 days 00:01:40.989000;3.0;False;MEDIUM;11.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21744;VET;5;0 days 00:01:41.099000;3.0;False;MEDIUM;12.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21745;VET;5;0 days 00:01:40.657000;3.0;False;MEDIUM;13.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21746;VET;5;0 days 00:01:41.105000;3.0;False;MEDIUM;14.0;True;Ferrari;1;6.0;2019;Abu Dhabi Grand Prix
+21747;VET;5;0 days 00:01:42.301000;3.0;False;MEDIUM;15.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21748;VET;5;0 days 00:01:42.733000;3.0;False;MEDIUM;16.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21749;VET;5;0 days 00:01:40.128000;3.0;True;MEDIUM;17.0;True;Ferrari;1;5.0;2019;Abu Dhabi Grand Prix
+21750;ALB;23;0 days 00:01:49.439000;1.0;False;MEDIUM;4.0;False;Red Bull Racing;2;5.0;2019;Abu Dhabi Grand Prix
+21751;ALB;23;0 days 00:01:44.511000;1.0;True;MEDIUM;5.0;False;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21752;ALB;23;0 days 00:01:43.826000;1.0;True;MEDIUM;6.0;False;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21753;ALB;23;0 days 00:01:43.881000;1.0;False;MEDIUM;7.0;False;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21754;ALB;23;0 days 00:01:44.110000;1.0;False;MEDIUM;8.0;False;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21755;ALB;23;0 days 00:01:44.042000;1.0;False;MEDIUM;9.0;False;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21756;ALB;23;0 days 00:01:44.604000;1.0;False;MEDIUM;10.0;False;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21757;ALB;23;0 days 00:01:43.942000;1.0;False;MEDIUM;11.0;False;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21758;ALB;23;0 days 00:01:44.231000;1.0;False;MEDIUM;12.0;False;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21759;ALB;23;0 days 00:01:44.308000;1.0;False;MEDIUM;13.0;False;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21760;ALB;23;0 days 00:01:44.184000;1.0;False;MEDIUM;14.0;False;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21761;ALB;23;0 days 00:01:43.989000;1.0;False;MEDIUM;15.0;False;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21762;ALB;23;0 days 00:01:45.896000;1.0;False;MEDIUM;16.0;False;Red Bull Racing;1;3.0;2019;Abu Dhabi Grand Prix
+21763;ALB;23;0 days 00:02:03.857000;2.0;False;HARD;1.0;True;Red Bull Racing;1;7.0;2019;Abu Dhabi Grand Prix
+21764;ALB;23;0 days 00:01:43.891000;2.0;False;HARD;2.0;True;Red Bull Racing;1;7.0;2019;Abu Dhabi Grand Prix
+21765;ALB;23;0 days 00:01:44.525000;2.0;False;HARD;3.0;True;Red Bull Racing;1;7.0;2019;Abu Dhabi Grand Prix
+21766;ALB;23;0 days 00:01:45.282000;2.0;False;HARD;4.0;True;Red Bull Racing;1;7.0;2019;Abu Dhabi Grand Prix
+21767;ALB;23;0 days 00:01:44.985000;2.0;False;HARD;5.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21768;ALB;23;0 days 00:01:43.557000;2.0;True;HARD;6.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21769;ALB;23;0 days 00:01:43.527000;2.0;True;HARD;7.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21770;ALB;23;0 days 00:01:43.258000;2.0;True;HARD;8.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21771;ALB;23;0 days 00:01:43.242000;2.0;True;HARD;9.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21772;ALB;23;0 days 00:01:43.211000;2.0;True;HARD;10.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21773;ALB;23;0 days 00:01:43.769000;2.0;False;HARD;11.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21774;ALB;23;0 days 00:01:43.251000;2.0;False;HARD;12.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21775;ALB;23;0 days 00:01:42.864000;2.0;True;HARD;13.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21776;ALB;23;0 days 00:01:43.279000;2.0;False;HARD;14.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21777;ALB;23;0 days 00:01:42.721000;2.0;True;HARD;15.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21778;ALB;23;0 days 00:01:43.223000;2.0;False;HARD;16.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21779;ALB;23;0 days 00:01:42.670000;2.0;True;HARD;17.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21780;ALB;23;0 days 00:01:42.788000;2.0;False;HARD;18.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21781;ALB;23;0 days 00:01:43.197000;2.0;False;HARD;19.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21782;ALB;23;0 days 00:01:42.783000;2.0;False;HARD;20.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21783;ALB;23;0 days 00:01:43.257000;2.0;False;HARD;21.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21784;ALB;23;0 days 00:01:43.113000;2.0;False;HARD;22.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21785;ALB;23;0 days 00:01:42.679000;2.0;False;HARD;23.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21786;ALB;23;0 days 00:01:42.779000;2.0;False;HARD;24.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21787;ALB;23;0 days 00:01:42.883000;2.0;False;HARD;25.0;True;Red Bull Racing;1;4.0;2019;Abu Dhabi Grand Prix
+21788;ALB;23;0 days 00:01:44.564000;2.0;False;HARD;26.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21789;ALB;23;0 days 00:01:43.344000;2.0;False;HARD;27.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21790;ALB;23;0 days 00:01:43.071000;2.0;False;HARD;28.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21791;ALB;23;0 days 00:01:42.845000;2.0;False;HARD;29.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21792;ALB;23;0 days 00:01:42.272000;2.0;True;HARD;30.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21793;ALB;23;0 days 00:01:42.760000;2.0;False;HARD;31.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21794;ALB;23;0 days 00:01:42.629000;2.0;False;HARD;32.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21795;ALB;23;0 days 00:01:42.343000;2.0;False;HARD;33.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21796;ALB;23;0 days 00:01:42.454000;2.0;False;HARD;34.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21797;ALB;23;0 days 00:01:42.357000;2.0;False;HARD;35.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21798;ALB;23;0 days 00:01:42.219000;2.0;True;HARD;36.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21799;ALB;23;0 days 00:01:42.496000;2.0;False;HARD;37.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21800;ALB;23;0 days 00:01:42.376000;2.0;False;HARD;38.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21801;ALB;23;0 days 00:01:42.462000;2.0;False;HARD;39.0;True;Red Bull Racing;1;5.0;2019;Abu Dhabi Grand Prix
+21802;ALB;23;0 days 00:01:44.788000;2.0;False;HARD;40.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21803;ALB;23;0 days 00:01:43.028000;2.0;False;HARD;41.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21804;ALB;23;0 days 00:01:43.358000;2.0;False;HARD;42.0;True;Red Bull Racing;1;6.0;2019;Abu Dhabi Grand Prix
+21805;PER;11;0 days 00:01:53.503000;1.0;False;MEDIUM;1.0;True;Racing Point;2;11.0;2019;Abu Dhabi Grand Prix
+21806;PER;11;0 days 00:01:46.965000;1.0;True;MEDIUM;2.0;True;Racing Point;1;11.0;2019;Abu Dhabi Grand Prix
+21807;PER;11;0 days 00:01:46.092000;1.0;True;MEDIUM;3.0;True;Racing Point;1;11.0;2019;Abu Dhabi Grand Prix
+21808;PER;11;0 days 00:01:46.181000;1.0;False;MEDIUM;4.0;True;Racing Point;1;11.0;2019;Abu Dhabi Grand Prix
+21809;PER;11;0 days 00:01:46.270000;1.0;False;MEDIUM;5.0;True;Racing Point;1;11.0;2019;Abu Dhabi Grand Prix
+21810;PER;11;0 days 00:01:45.287000;1.0;True;MEDIUM;6.0;True;Racing Point;1;10.0;2019;Abu Dhabi Grand Prix
+21811;PER;11;0 days 00:01:44.984000;1.0;True;MEDIUM;7.0;True;Racing Point;1;10.0;2019;Abu Dhabi Grand Prix
+21812;PER;11;0 days 00:01:44.941000;1.0;True;MEDIUM;8.0;True;Racing Point;1;10.0;2019;Abu Dhabi Grand Prix
+21813;PER;11;0 days 00:01:44.922000;1.0;True;MEDIUM;9.0;True;Racing Point;1;9.0;2019;Abu Dhabi Grand Prix
+21814;PER;11;0 days 00:01:44.931000;1.0;False;MEDIUM;10.0;True;Racing Point;1;9.0;2019;Abu Dhabi Grand Prix
+21815;PER;11;0 days 00:01:45.307000;1.0;False;MEDIUM;11.0;True;Racing Point;1;9.0;2019;Abu Dhabi Grand Prix
+21816;PER;11;0 days 00:01:46.473000;1.0;False;MEDIUM;12.0;True;Racing Point;1;9.0;2019;Abu Dhabi Grand Prix
+21817;PER;11;0 days 00:01:46.191000;1.0;False;MEDIUM;13.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21818;PER;11;0 days 00:01:45.418000;1.0;False;MEDIUM;14.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21819;PER;11;0 days 00:01:44.876000;1.0;True;MEDIUM;15.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21820;PER;11;0 days 00:01:44.740000;1.0;True;MEDIUM;16.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21821;PER;11;0 days 00:01:44.869000;1.0;False;MEDIUM;17.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21822;PER;11;0 days 00:01:44.969000;1.0;False;MEDIUM;18.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21823;PER;11;0 days 00:01:44.638000;1.0;True;MEDIUM;19.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21824;PER;11;0 days 00:01:44.718000;1.0;False;MEDIUM;20.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21825;PER;11;0 days 00:01:44.637000;1.0;True;MEDIUM;21.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21826;PER;11;0 days 00:01:44.368000;1.0;True;MEDIUM;22.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21827;PER;11;0 days 00:01:44.557000;1.0;False;MEDIUM;23.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21828;PER;11;0 days 00:01:44.610000;1.0;False;MEDIUM;24.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21829;PER;11;0 days 00:01:44.433000;1.0;False;MEDIUM;25.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21830;PER;11;0 days 00:01:44.574000;1.0;False;MEDIUM;26.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21831;PER;11;0 days 00:01:44.276000;1.0;True;MEDIUM;27.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21832;PER;11;0 days 00:01:44.330000;1.0;False;MEDIUM;28.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21833;PER;11;0 days 00:01:44.397000;1.0;False;MEDIUM;29.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21834;PER;11;0 days 00:01:44.393000;1.0;False;MEDIUM;30.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21835;PER;11;0 days 00:01:44.127000;1.0;True;MEDIUM;31.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21836;PER;11;0 days 00:01:44.379000;1.0;False;MEDIUM;32.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21837;PER;11;0 days 00:01:44.343000;1.0;False;MEDIUM;33.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21838;PER;11;0 days 00:01:44.341000;1.0;False;MEDIUM;34.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21839;PER;11;0 days 00:01:44.890000;1.0;False;MEDIUM;35.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21840;PER;11;0 days 00:01:44.736000;1.0;False;MEDIUM;36.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21841;PER;11;0 days 00:01:46.690000;1.0;False;MEDIUM;37.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21842;PER;11;0 days 00:02:02.707000;2.0;False;HARD;1.0;True;Racing Point;1;12.0;2019;Abu Dhabi Grand Prix
+21843;PER;11;0 days 00:01:42.639000;2.0;True;HARD;2.0;True;Racing Point;1;12.0;2019;Abu Dhabi Grand Prix
+21844;PER;11;0 days 00:01:43.135000;2.0;False;HARD;3.0;True;Racing Point;1;11.0;2019;Abu Dhabi Grand Prix
+21845;PER;11;0 days 00:01:43.188000;2.0;False;HARD;4.0;True;Racing Point;1;9.0;2019;Abu Dhabi Grand Prix
+21846;PER;11;0 days 00:01:44.196000;2.0;False;HARD;5.0;True;Racing Point;1;9.0;2019;Abu Dhabi Grand Prix
+21847;PER;11;0 days 00:01:42.846000;2.0;False;HARD;6.0;True;Racing Point;1;9.0;2019;Abu Dhabi Grand Prix
+21848;PER;11;0 days 00:01:43.362000;2.0;False;HARD;7.0;True;Racing Point;1;9.0;2019;Abu Dhabi Grand Prix
+21849;PER;11;0 days 00:01:42.654000;2.0;False;HARD;8.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21850;PER;11;0 days 00:01:42.763000;2.0;False;HARD;9.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21851;PER;11;0 days 00:01:42.901000;2.0;False;HARD;10.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21852;PER;11;0 days 00:01:43.271000;2.0;False;HARD;11.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21853;PER;11;0 days 00:01:43.144000;2.0;False;HARD;12.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21854;PER;11;0 days 00:01:43.085000;2.0;False;HARD;13.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21855;PER;11;0 days 00:01:43.055000;2.0;False;HARD;14.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21856;PER;11;0 days 00:01:45.518000;2.0;False;HARD;15.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21857;PER;11;0 days 00:01:44.173000;2.0;False;HARD;16.0;True;Racing Point;1;8.0;2019;Abu Dhabi Grand Prix
+21858;PER;11;0 days 00:01:43.625000;2.0;False;HARD;17.0;True;Racing Point;1;7.0;2019;Abu Dhabi Grand Prix
+21859;NOR;4;0 days 00:01:50.507000;1.0;False;SOFT;4.0;False;McLaren;2;6.0;2019;Abu Dhabi Grand Prix
+21860;NOR;4;0 days 00:01:45.289000;1.0;True;SOFT;5.0;False;McLaren;1;6.0;2019;Abu Dhabi Grand Prix
+21861;NOR;4;0 days 00:01:45.062000;1.0;True;SOFT;6.0;False;McLaren;1;6.0;2019;Abu Dhabi Grand Prix
+21862;NOR;4;0 days 00:01:45.351000;1.0;False;SOFT;7.0;False;McLaren;1;6.0;2019;Abu Dhabi Grand Prix
+21863;NOR;4;0 days 00:01:45.416000;1.0;False;SOFT;8.0;False;McLaren;1;6.0;2019;Abu Dhabi Grand Prix
+21864;NOR;4;0 days 00:01:45.214000;1.0;False;SOFT;9.0;False;McLaren;1;6.0;2019;Abu Dhabi Grand Prix
+21865;NOR;4;0 days 00:01:45.228000;1.0;False;SOFT;10.0;False;McLaren;1;6.0;2019;Abu Dhabi Grand Prix
+21866;NOR;4;0 days 00:01:48.001000;1.0;False;SOFT;11.0;False;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21867;NOR;4;0 days 00:02:07.038000;2.0;False;HARD;1.0;True;McLaren;1;16.0;2019;Abu Dhabi Grand Prix
+21868;NOR;4;0 days 00:01:44.389000;2.0;True;HARD;2.0;True;McLaren;1;15.0;2019;Abu Dhabi Grand Prix
+21869;NOR;4;0 days 00:01:45.114000;2.0;False;HARD;3.0;True;McLaren;1;15.0;2019;Abu Dhabi Grand Prix
+21870;NOR;4;0 days 00:01:44.992000;2.0;False;HARD;4.0;True;McLaren;1;14.0;2019;Abu Dhabi Grand Prix
+21871;NOR;4;0 days 00:01:45.386000;2.0;False;HARD;5.0;True;McLaren;1;13.0;2019;Abu Dhabi Grand Prix
+21872;NOR;4;0 days 00:01:45.016000;2.0;False;HARD;6.0;True;McLaren;1;13.0;2019;Abu Dhabi Grand Prix
+21873;NOR;4;0 days 00:01:45.338000;2.0;False;HARD;7.0;True;McLaren;1;13.0;2019;Abu Dhabi Grand Prix
+21874;NOR;4;0 days 00:01:45.559000;2.0;False;HARD;8.0;True;McLaren;1;13.0;2019;Abu Dhabi Grand Prix
+21875;NOR;4;0 days 00:01:45.195000;2.0;False;HARD;9.0;True;McLaren;1;13.0;2019;Abu Dhabi Grand Prix
+21876;NOR;4;0 days 00:01:44.235000;2.0;True;HARD;10.0;True;McLaren;1;12.0;2019;Abu Dhabi Grand Prix
+21877;NOR;4;0 days 00:01:45.040000;2.0;False;HARD;11.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21878;NOR;4;0 days 00:01:44.986000;2.0;False;HARD;12.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21879;NOR;4;0 days 00:01:44.908000;2.0;False;HARD;13.0;True;McLaren;1;10.0;2019;Abu Dhabi Grand Prix
+21880;NOR;4;0 days 00:01:45.064000;2.0;False;HARD;14.0;True;McLaren;1;10.0;2019;Abu Dhabi Grand Prix
+21881;NOR;4;0 days 00:01:44.531000;2.0;False;HARD;15.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21882;NOR;4;0 days 00:01:44.223000;2.0;True;HARD;16.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21883;NOR;4;0 days 00:01:44.537000;2.0;False;HARD;17.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21884;NOR;4;0 days 00:01:44.747000;2.0;False;HARD;18.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21885;NOR;4;0 days 00:01:44.209000;2.0;True;HARD;19.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21886;NOR;4;0 days 00:01:44.346000;2.0;False;HARD;20.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21887;NOR;4;0 days 00:01:44.448000;2.0;False;HARD;21.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21888;NOR;4;0 days 00:01:44.345000;2.0;False;HARD;22.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21889;NOR;4;0 days 00:01:44.337000;2.0;False;HARD;23.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21890;NOR;4;0 days 00:01:44.239000;2.0;False;HARD;24.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21891;NOR;4;0 days 00:01:44.159000;2.0;True;HARD;25.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21892;NOR;4;0 days 00:01:44.183000;2.0;False;HARD;26.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21893;NOR;4;0 days 00:01:43.894000;2.0;True;HARD;27.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21894;NOR;4;0 days 00:01:43.957000;2.0;False;HARD;28.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21895;NOR;4;0 days 00:01:43.819000;2.0;True;HARD;29.0;True;McLaren;1;9.0;2019;Abu Dhabi Grand Prix
+21896;NOR;4;0 days 00:01:43.762000;2.0;True;HARD;30.0;True;McLaren;1;8.0;2019;Abu Dhabi Grand Prix
+21897;NOR;4;0 days 00:01:43.545000;2.0;True;HARD;31.0;True;McLaren;1;8.0;2019;Abu Dhabi Grand Prix
+21898;NOR;4;0 days 00:01:43.578000;2.0;False;HARD;32.0;True;McLaren;1;8.0;2019;Abu Dhabi Grand Prix
+21899;NOR;4;0 days 00:01:43.403000;2.0;True;HARD;33.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21900;NOR;4;0 days 00:01:43.574000;2.0;False;HARD;34.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21901;NOR;4;0 days 00:01:43.940000;2.0;False;HARD;35.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21902;NOR;4;0 days 00:01:44.715000;2.0;False;HARD;36.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21903;NOR;4;0 days 00:01:43.849000;2.0;False;HARD;37.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21904;NOR;4;0 days 00:01:43.651000;2.0;False;HARD;38.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21905;NOR;4;0 days 00:01:43.377000;2.0;True;HARD;39.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21906;NOR;4;0 days 00:01:43.199000;2.0;True;HARD;40.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21907;NOR;4;0 days 00:01:43.308000;2.0;False;HARD;41.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21908;NOR;4;0 days 00:01:43.026000;2.0;True;HARD;42.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21909;NOR;4;0 days 00:01:43.165000;2.0;False;HARD;43.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21910;NOR;4;0 days 00:01:45.803000;2.0;False;HARD;44.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21911;NOR;4;0 days 00:01:43.963000;2.0;False;HARD;45.0;True;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21912;NOR;4;0 days 00:01:45.819000;2.0;False;HARD;46.0;True;McLaren;1;8.0;2019;Abu Dhabi Grand Prix
+21913;KVY;26;0 days 00:01:55.917000;1.0;False;HARD;1.0;True;Toro Rosso;2;16.0;2019;Abu Dhabi Grand Prix
+21914;KVY;26;0 days 00:01:48.069000;1.0;True;HARD;2.0;True;Toro Rosso;1;16.0;2019;Abu Dhabi Grand Prix
+21915;KVY;26;0 days 00:01:47.238000;1.0;True;HARD;3.0;True;Toro Rosso;1;16.0;2019;Abu Dhabi Grand Prix
+21916;KVY;26;0 days 00:01:46.754000;1.0;True;HARD;4.0;True;Toro Rosso;1;16.0;2019;Abu Dhabi Grand Prix
+21917;KVY;26;0 days 00:01:46.950000;1.0;False;HARD;5.0;True;Toro Rosso;1;16.0;2019;Abu Dhabi Grand Prix
+21918;KVY;26;0 days 00:01:45.771000;1.0;True;HARD;6.0;True;Toro Rosso;1;15.0;2019;Abu Dhabi Grand Prix
+21919;KVY;26;0 days 00:01:45.579000;1.0;True;HARD;7.0;True;Toro Rosso;1;15.0;2019;Abu Dhabi Grand Prix
+21920;KVY;26;0 days 00:01:45.908000;1.0;False;HARD;8.0;True;Toro Rosso;1;15.0;2019;Abu Dhabi Grand Prix
+21921;KVY;26;0 days 00:01:45.494000;1.0;True;HARD;9.0;True;Toro Rosso;1;13.0;2019;Abu Dhabi Grand Prix
+21922;KVY;26;0 days 00:01:45.769000;1.0;False;HARD;10.0;True;Toro Rosso;1;13.0;2019;Abu Dhabi Grand Prix
+21923;KVY;26;0 days 00:01:45.907000;1.0;False;HARD;11.0;True;Toro Rosso;1;13.0;2019;Abu Dhabi Grand Prix
+21924;KVY;26;0 days 00:01:45.952000;1.0;False;HARD;12.0;True;Toro Rosso;1;12.0;2019;Abu Dhabi Grand Prix
+21925;KVY;26;0 days 00:01:45.784000;1.0;False;HARD;13.0;True;Toro Rosso;1;11.0;2019;Abu Dhabi Grand Prix
+21926;KVY;26;0 days 00:01:45.475000;1.0;True;HARD;14.0;True;Toro Rosso;1;11.0;2019;Abu Dhabi Grand Prix
+21927;KVY;26;0 days 00:01:45.543000;1.0;False;HARD;15.0;True;Toro Rosso;1;11.0;2019;Abu Dhabi Grand Prix
+21928;KVY;26;0 days 00:01:45.401000;1.0;True;HARD;16.0;True;Toro Rosso;1;11.0;2019;Abu Dhabi Grand Prix
+21929;KVY;26;0 days 00:01:45.691000;1.0;False;HARD;17.0;True;Toro Rosso;1;11.0;2019;Abu Dhabi Grand Prix
+21930;KVY;26;0 days 00:01:45.496000;1.0;False;HARD;18.0;True;Toro Rosso;1;11.0;2019;Abu Dhabi Grand Prix
+21931;KVY;26;0 days 00:01:45.411000;1.0;False;HARD;19.0;True;Toro Rosso;1;10.0;2019;Abu Dhabi Grand Prix
+21932;KVY;26;0 days 00:01:45.145000;1.0;True;HARD;20.0;True;Toro Rosso;1;10.0;2019;Abu Dhabi Grand Prix
+21933;KVY;26;0 days 00:01:43.768000;1.0;True;HARD;21.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21934;KVY;26;0 days 00:01:44.516000;1.0;False;HARD;22.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21935;KVY;26;0 days 00:01:44.188000;1.0;False;HARD;23.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21936;KVY;26;0 days 00:01:44.020000;1.0;False;HARD;24.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21937;KVY;26;0 days 00:01:43.933000;1.0;False;HARD;25.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21938;KVY;26;0 days 00:01:43.688000;1.0;True;HARD;26.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21939;KVY;26;0 days 00:01:43.661000;1.0;True;HARD;27.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21940;KVY;26;0 days 00:01:43.587000;1.0;True;HARD;28.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21941;KVY;26;0 days 00:01:43.529000;1.0;True;HARD;29.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21942;KVY;26;0 days 00:01:43.484000;1.0;True;HARD;30.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21943;KVY;26;0 days 00:01:43.648000;1.0;False;HARD;31.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21944;KVY;26;0 days 00:01:43.579000;1.0;False;HARD;32.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21945;KVY;26;0 days 00:01:43.294000;1.0;True;HARD;33.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21946;KVY;26;0 days 00:01:43.415000;1.0;False;HARD;34.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21947;KVY;26;0 days 00:01:43.559000;1.0;False;HARD;35.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21948;KVY;26;0 days 00:01:44.235000;1.0;False;HARD;36.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21949;KVY;26;0 days 00:01:45.941000;1.0;False;HARD;37.0;True;Toro Rosso;1;8.0;2019;Abu Dhabi Grand Prix
+21950;KVY;26;0 days 00:01:43.424000;1.0;False;HARD;38.0;True;Toro Rosso;1;7.0;2019;Abu Dhabi Grand Prix
+21951;KVY;26;0 days 00:01:43.607000;1.0;False;HARD;39.0;True;Toro Rosso;1;7.0;2019;Abu Dhabi Grand Prix
+21952;KVY;26;0 days 00:01:45.782000;1.0;False;HARD;40.0;True;Toro Rosso;1;7.0;2019;Abu Dhabi Grand Prix
+21953;KVY;26;0 days 00:02:03.697000;2.0;False;MEDIUM;1.0;True;Toro Rosso;1;12.0;2019;Abu Dhabi Grand Prix
+21954;KVY;26;0 days 00:01:42.222000;2.0;True;MEDIUM;2.0;True;Toro Rosso;1;10.0;2019;Abu Dhabi Grand Prix
+21955;KVY;26;0 days 00:01:42.578000;2.0;False;MEDIUM;3.0;True;Toro Rosso;1;10.0;2019;Abu Dhabi Grand Prix
+21956;KVY;26;0 days 00:01:42.404000;2.0;False;MEDIUM;4.0;True;Toro Rosso;1;10.0;2019;Abu Dhabi Grand Prix
+21957;KVY;26;0 days 00:01:42.575000;2.0;False;MEDIUM;5.0;True;Toro Rosso;1;10.0;2019;Abu Dhabi Grand Prix
+21958;KVY;26;0 days 00:01:43.362000;2.0;False;MEDIUM;6.0;True;Toro Rosso;1;9.0;2019;Abu Dhabi Grand Prix
+21959;KVY;26;0 days 00:01:43.653000;2.0;False;MEDIUM;7.0;True;Toro Rosso;1;9.0;2019;Abu Dhabi Grand Prix
+21960;KVY;26;0 days 00:01:43.069000;2.0;False;MEDIUM;8.0;True;Toro Rosso;1;9.0;2019;Abu Dhabi Grand Prix
+21961;KVY;26;0 days 00:01:45.030000;2.0;False;MEDIUM;9.0;True;Toro Rosso;1;9.0;2019;Abu Dhabi Grand Prix
+21962;KVY;26;0 days 00:01:43.032000;2.0;False;MEDIUM;10.0;True;Toro Rosso;1;9.0;2019;Abu Dhabi Grand Prix
+21963;KVY;26;0 days 00:01:43.109000;2.0;False;MEDIUM;11.0;True;Toro Rosso;1;9.0;2019;Abu Dhabi Grand Prix
+21964;KVY;26;0 days 00:01:43.372000;2.0;False;MEDIUM;12.0;True;Toro Rosso;1;9.0;2019;Abu Dhabi Grand Prix
+21965;KVY;26;0 days 00:01:43.322000;2.0;False;MEDIUM;13.0;True;Toro Rosso;1;9.0;2019;Abu Dhabi Grand Prix
+21966;KVY;26;0 days 00:01:43.699000;2.0;False;MEDIUM;14.0;True;Toro Rosso;1;9.0;2019;Abu Dhabi Grand Prix
+21967;SAI;55;0 days 00:01:51.285000;1.0;False;SOFT;4.0;False;McLaren;2;7.0;2019;Abu Dhabi Grand Prix
+21968;SAI;55;0 days 00:01:45.586000;1.0;True;SOFT;5.0;False;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21969;SAI;55;0 days 00:01:45.227000;1.0;True;SOFT;6.0;False;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21970;SAI;55;0 days 00:01:45.570000;1.0;False;SOFT;7.0;False;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21971;SAI;55;0 days 00:01:45.559000;1.0;False;SOFT;8.0;False;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21972;SAI;55;0 days 00:01:45.438000;1.0;False;SOFT;9.0;False;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21973;SAI;55;0 days 00:01:45.568000;1.0;False;SOFT;10.0;False;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21974;SAI;55;0 days 00:01:45.699000;1.0;False;SOFT;11.0;False;McLaren;1;6.0;2019;Abu Dhabi Grand Prix
+21975;SAI;55;0 days 00:01:45.230000;1.0;False;SOFT;12.0;False;McLaren;1;6.0;2019;Abu Dhabi Grand Prix
+21976;SAI;55;0 days 00:01:45.526000;1.0;False;SOFT;13.0;False;McLaren;1;6.0;2019;Abu Dhabi Grand Prix
+21977;SAI;55;0 days 00:01:45.441000;1.0;False;SOFT;14.0;False;McLaren;1;6.0;2019;Abu Dhabi Grand Prix
+21978;SAI;55;0 days 00:01:47.314000;1.0;False;SOFT;15.0;False;McLaren;1;7.0;2019;Abu Dhabi Grand Prix
+21979;SAI;55;0 days 00:02:05.550000;2.0;False;HARD;1.0;True;McLaren;1;15.0;2019;Abu Dhabi Grand Prix
+21980;SAI;55;0 days 00:01:44.575000;2.0;True;HARD;2.0;True;McLaren;1;15.0;2019;Abu Dhabi Grand Prix
+21981;SAI;55;0 days 00:01:45.192000;2.0;False;HARD;3.0;True;McLaren;1;14.0;2019;Abu Dhabi Grand Prix
+21982;SAI;55;0 days 00:01:44.865000;2.0;False;HARD;4.0;True;McLaren;1;14.0;2019;Abu Dhabi Grand Prix
+21983;SAI;55;0 days 00:01:45.445000;2.0;False;HARD;5.0;True;McLaren;1;14.0;2019;Abu Dhabi Grand Prix
+21984;SAI;55;0 days 00:01:44.464000;2.0;True;HARD;6.0;True;McLaren;1;13.0;2019;Abu Dhabi Grand Prix
+21985;SAI;55;0 days 00:01:45.883000;2.0;False;HARD;7.0;True;McLaren;1;13.0;2019;Abu Dhabi Grand Prix
+21986;SAI;55;0 days 00:01:45.309000;2.0;False;HARD;8.0;True;McLaren;1;13.0;2019;Abu Dhabi Grand Prix
+21987;SAI;55;0 days 00:01:44.739000;2.0;False;HARD;9.0;True;McLaren;1;12.0;2019;Abu Dhabi Grand Prix
+21988;SAI;55;0 days 00:01:44.752000;2.0;False;HARD;10.0;True;McLaren;1;12.0;2019;Abu Dhabi Grand Prix
+21989;SAI;55;0 days 00:01:44.647000;2.0;False;HARD;11.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21990;SAI;55;0 days 00:01:44.479000;2.0;False;HARD;12.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21991;SAI;55;0 days 00:01:44.774000;2.0;False;HARD;13.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21992;SAI;55;0 days 00:01:44.477000;2.0;False;HARD;14.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21993;SAI;55;0 days 00:01:44.385000;2.0;True;HARD;15.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21994;SAI;55;0 days 00:01:44.201000;2.0;True;HARD;16.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21995;SAI;55;0 days 00:01:44.496000;2.0;False;HARD;17.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21996;SAI;55;0 days 00:01:44.471000;2.0;False;HARD;18.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21997;SAI;55;0 days 00:01:44.267000;2.0;False;HARD;19.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21998;SAI;55;0 days 00:01:44.438000;2.0;False;HARD;20.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+21999;SAI;55;0 days 00:01:44.128000;2.0;True;HARD;21.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22000;SAI;55;0 days 00:01:44.174000;2.0;False;HARD;22.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22001;SAI;55;0 days 00:01:44.189000;2.0;False;HARD;23.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22002;SAI;55;0 days 00:01:44.303000;2.0;False;HARD;24.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22003;SAI;55;0 days 00:01:44.355000;2.0;False;HARD;25.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22004;SAI;55;0 days 00:01:43.649000;2.0;True;HARD;26.0;True;McLaren;1;10.0;2019;Abu Dhabi Grand Prix
+22005;SAI;55;0 days 00:01:44;2.0;False;HARD;27.0;True;McLaren;1;10.0;2019;Abu Dhabi Grand Prix
+22006;SAI;55;0 days 00:01:43.899000;2.0;False;HARD;28.0;True;McLaren;1;10.0;2019;Abu Dhabi Grand Prix
+22007;SAI;55;0 days 00:01:45.220000;2.0;False;HARD;29.0;True;McLaren;1;10.0;2019;Abu Dhabi Grand Prix
+22008;SAI;55;0 days 00:02:00.593000;3.0;False;MEDIUM;1.0;True;McLaren;1;14.0;2019;Abu Dhabi Grand Prix
+22009;SAI;55;0 days 00:01:41.294000;3.0;True;MEDIUM;2.0;True;McLaren;1;12.0;2019;Abu Dhabi Grand Prix
+22010;SAI;55;0 days 00:01:42.207000;3.0;False;MEDIUM;3.0;True;McLaren;1;12.0;2019;Abu Dhabi Grand Prix
+22011;SAI;55;0 days 00:01:42.302000;3.0;False;MEDIUM;4.0;True;McLaren;1;12.0;2019;Abu Dhabi Grand Prix
+22012;SAI;55;0 days 00:01:42.644000;3.0;False;MEDIUM;5.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22013;SAI;55;0 days 00:01:42.075000;3.0;False;MEDIUM;6.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22014;SAI;55;0 days 00:01:42.134000;3.0;False;MEDIUM;7.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22015;SAI;55;0 days 00:01:42.153000;3.0;False;MEDIUM;8.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22016;SAI;55;0 days 00:01:42.193000;3.0;False;MEDIUM;9.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22017;SAI;55;0 days 00:01:42.262000;3.0;False;MEDIUM;10.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22018;SAI;55;0 days 00:01:43.407000;3.0;False;MEDIUM;11.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22019;SAI;55;0 days 00:01:43.075000;3.0;False;MEDIUM;12.0;True;McLaren;1;11.0;2019;Abu Dhabi Grand Prix
+22020;SAI;55;0 days 00:01:43.728000;3.0;False;MEDIUM;13.0;True;McLaren;1;10.0;2019;Abu Dhabi Grand Prix
+22021;RIC;3;0 days 00:01:52.043000;1.0;False;SOFT;4.0;False;Renault;2;8.0;2019;Abu Dhabi Grand Prix
+22022;RIC;3;0 days 00:01:45.722000;1.0;True;SOFT;5.0;False;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22023;RIC;3;0 days 00:01:45.428000;1.0;True;SOFT;6.0;False;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22024;RIC;3;0 days 00:01:45.441000;1.0;False;SOFT;7.0;False;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22025;RIC;3;0 days 00:01:45.492000;1.0;False;SOFT;8.0;False;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22026;RIC;3;0 days 00:01:45.689000;1.0;False;SOFT;9.0;False;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22027;RIC;3;0 days 00:01:45.358000;1.0;True;SOFT;10.0;False;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22028;RIC;3;0 days 00:01:45.560000;1.0;False;SOFT;11.0;False;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22029;RIC;3;0 days 00:01:45.420000;1.0;False;SOFT;12.0;False;Renault;1;7.0;2019;Abu Dhabi Grand Prix
+22030;RIC;3;0 days 00:01:45.508000;1.0;False;SOFT;13.0;False;Renault;1;7.0;2019;Abu Dhabi Grand Prix
+22031;RIC;3;0 days 00:01:47.170000;1.0;False;SOFT;14.0;False;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22032;RIC;3;0 days 00:02:04.267000;2.0;False;HARD;1.0;True;Renault;1;15.0;2019;Abu Dhabi Grand Prix
+22033;RIC;3;0 days 00:01:44.992000;2.0;True;HARD;2.0;True;Renault;1;14.0;2019;Abu Dhabi Grand Prix
+22034;RIC;3;0 days 00:01:44.858000;2.0;True;HARD;3.0;True;Renault;1;14.0;2019;Abu Dhabi Grand Prix
+22035;RIC;3;0 days 00:01:46.835000;2.0;False;HARD;4.0;True;Renault;1;15.0;2019;Abu Dhabi Grand Prix
+22036;RIC;3;0 days 00:01:45.617000;2.0;False;HARD;5.0;True;Renault;1;15.0;2019;Abu Dhabi Grand Prix
+22037;RIC;3;0 days 00:01:44.957000;2.0;False;HARD;6.0;True;Renault;1;15.0;2019;Abu Dhabi Grand Prix
+22038;RIC;3;0 days 00:01:45.531000;2.0;False;HARD;7.0;True;Renault;1;14.0;2019;Abu Dhabi Grand Prix
+22039;RIC;3;0 days 00:01:44.969000;2.0;False;HARD;8.0;True;Renault;1;14.0;2019;Abu Dhabi Grand Prix
+22040;RIC;3;0 days 00:01:45.017000;2.0;False;HARD;9.0;True;Renault;1;14.0;2019;Abu Dhabi Grand Prix
+22041;RIC;3;0 days 00:01:44.624000;2.0;True;HARD;10.0;True;Renault;1;13.0;2019;Abu Dhabi Grand Prix
+22042;RIC;3;0 days 00:01:44.747000;2.0;False;HARD;11.0;True;Renault;1;13.0;2019;Abu Dhabi Grand Prix
+22043;RIC;3;0 days 00:01:44.616000;2.0;True;HARD;12.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22044;RIC;3;0 days 00:01:44.605000;2.0;True;HARD;13.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22045;RIC;3;0 days 00:01:44.521000;2.0;True;HARD;14.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22046;RIC;3;0 days 00:01:44.393000;2.0;True;HARD;15.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22047;RIC;3;0 days 00:01:44.458000;2.0;False;HARD;16.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22048;RIC;3;0 days 00:01:44.385000;2.0;True;HARD;17.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22049;RIC;3;0 days 00:01:44.546000;2.0;False;HARD;18.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22050;RIC;3;0 days 00:01:44.163000;2.0;True;HARD;19.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22051;RIC;3;0 days 00:01:44.461000;2.0;False;HARD;20.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22052;RIC;3;0 days 00:01:44.272000;2.0;False;HARD;21.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22053;RIC;3;0 days 00:01:44.142000;2.0;True;HARD;22.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22054;RIC;3;0 days 00:01:44.158000;2.0;False;HARD;23.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22055;RIC;3;0 days 00:01:44.389000;2.0;False;HARD;24.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22056;RIC;3;0 days 00:01:44.365000;2.0;False;HARD;25.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22057;RIC;3;0 days 00:01:44.450000;2.0;False;HARD;26.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22058;RIC;3;0 days 00:01:43.850000;2.0;True;HARD;27.0;True;Renault;1;11.0;2019;Abu Dhabi Grand Prix
+22059;RIC;3;0 days 00:01:43.738000;2.0;True;HARD;28.0;True;Renault;1;11.0;2019;Abu Dhabi Grand Prix
+22060;RIC;3;0 days 00:01:45.302000;2.0;False;HARD;29.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22061;RIC;3;0 days 00:01:45.198000;2.0;False;HARD;30.0;True;Renault;1;11.0;2019;Abu Dhabi Grand Prix
+22062;RIC;3;0 days 00:01:45.502000;2.0;False;HARD;31.0;True;Renault;1;11.0;2019;Abu Dhabi Grand Prix
+22063;RIC;3;0 days 00:02:01.870000;3.0;False;SOFT;4.0;False;Renault;1;14.0;2019;Abu Dhabi Grand Prix
+22064;RIC;3;0 days 00:01:41.676000;3.0;True;SOFT;5.0;False;Renault;1;14.0;2019;Abu Dhabi Grand Prix
+22065;RIC;3;0 days 00:01:42.198000;3.0;False;SOFT;6.0;False;Renault;1;14.0;2019;Abu Dhabi Grand Prix
+22066;RIC;3;0 days 00:01:41.399000;3.0;True;SOFT;7.0;False;Renault;1;13.0;2019;Abu Dhabi Grand Prix
+22067;RIC;3;0 days 00:01:41.359000;3.0;True;SOFT;8.0;False;Renault;1;13.0;2019;Abu Dhabi Grand Prix
+22068;RIC;3;0 days 00:01:41.741000;3.0;False;SOFT;9.0;False;Renault;1;13.0;2019;Abu Dhabi Grand Prix
+22069;RIC;3;0 days 00:01:41.290000;3.0;True;SOFT;10.0;False;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22070;RIC;3;0 days 00:01:41.627000;3.0;False;SOFT;11.0;False;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22071;RIC;3;0 days 00:01:41.190000;3.0;True;SOFT;12.0;False;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22072;RIC;3;0 days 00:01:41.777000;3.0;False;SOFT;13.0;False;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22073;RIC;3;0 days 00:01:42.752000;3.0;False;SOFT;14.0;False;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22074;RIC;3;0 days 00:01:44.099000;3.0;False;SOFT;15.0;False;Renault;1;11.0;2019;Abu Dhabi Grand Prix
+22075;HUL;27;0 days 00:01:52.942000;1.0;False;SOFT;4.0;False;Renault;2;10.0;2019;Abu Dhabi Grand Prix
+22076;HUL;27;0 days 00:01:45.616000;1.0;True;SOFT;5.0;False;Renault;1;9.0;2019;Abu Dhabi Grand Prix
+22077;HUL;27;0 days 00:01:45.595000;1.0;True;SOFT;6.0;False;Renault;1;9.0;2019;Abu Dhabi Grand Prix
+22078;HUL;27;0 days 00:01:45.544000;1.0;True;SOFT;7.0;False;Renault;1;9.0;2019;Abu Dhabi Grand Prix
+22079;HUL;27;0 days 00:01:45.338000;1.0;True;SOFT;8.0;False;Renault;1;9.0;2019;Abu Dhabi Grand Prix
+22080;HUL;27;0 days 00:01:45.793000;1.0;False;SOFT;9.0;False;Renault;1;9.0;2019;Abu Dhabi Grand Prix
+22081;HUL;27;0 days 00:01:45.319000;1.0;True;SOFT;10.0;False;Renault;1;9.0;2019;Abu Dhabi Grand Prix
+22082;HUL;27;0 days 00:01:45.663000;1.0;False;SOFT;11.0;False;Renault;1;9.0;2019;Abu Dhabi Grand Prix
+22083;HUL;27;0 days 00:01:45.492000;1.0;False;SOFT;12.0;False;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22084;HUL;27;0 days 00:01:45.371000;1.0;False;SOFT;13.0;False;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22085;HUL;27;0 days 00:01:45.278000;1.0;True;SOFT;14.0;False;Renault;1;7.0;2019;Abu Dhabi Grand Prix
+22086;HUL;27;0 days 00:01:44.753000;1.0;True;SOFT;15.0;False;Renault;1;6.0;2019;Abu Dhabi Grand Prix
+22087;HUL;27;0 days 00:01:44.202000;1.0;True;SOFT;16.0;False;Renault;1;5.0;2019;Abu Dhabi Grand Prix
+22088;HUL;27;0 days 00:01:44.614000;1.0;False;SOFT;17.0;False;Renault;1;4.0;2019;Abu Dhabi Grand Prix
+22089;HUL;27;0 days 00:01:44.655000;1.0;False;SOFT;18.0;False;Renault;1;4.0;2019;Abu Dhabi Grand Prix
+22090;HUL;27;0 days 00:01:44.474000;1.0;False;SOFT;19.0;False;Renault;1;4.0;2019;Abu Dhabi Grand Prix
+22091;HUL;27;0 days 00:01:45.441000;1.0;False;SOFT;20.0;False;Renault;1;4.0;2019;Abu Dhabi Grand Prix
+22092;HUL;27;0 days 00:01:47.732000;1.0;False;SOFT;21.0;False;Renault;1;7.0;2019;Abu Dhabi Grand Prix
+22093;HUL;27;0 days 00:02:04.370000;2.0;False;MEDIUM;1.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22094;HUL;27;0 days 00:01:45.263000;2.0;False;MEDIUM;2.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22095;HUL;27;0 days 00:01:44.718000;2.0;False;MEDIUM;3.0;True;Renault;1;11.0;2019;Abu Dhabi Grand Prix
+22096;HUL;27;0 days 00:01:45.005000;2.0;False;MEDIUM;4.0;True;Renault;1;11.0;2019;Abu Dhabi Grand Prix
+22097;HUL;27;0 days 00:01:44.484000;2.0;False;MEDIUM;5.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22098;HUL;27;0 days 00:01:44.243000;2.0;False;MEDIUM;6.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22099;HUL;27;0 days 00:01:44.603000;2.0;False;MEDIUM;7.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22100;HUL;27;0 days 00:01:44.800000;2.0;False;MEDIUM;8.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22101;HUL;27;0 days 00:01:44.380000;2.0;False;MEDIUM;9.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22102;HUL;27;0 days 00:01:44.400000;2.0;False;MEDIUM;10.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22103;HUL;27;0 days 00:01:44.317000;2.0;False;MEDIUM;11.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22104;HUL;27;0 days 00:01:44.324000;2.0;False;MEDIUM;12.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22105;HUL;27;0 days 00:01:44.358000;2.0;False;MEDIUM;13.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22106;HUL;27;0 days 00:01:44.527000;2.0;False;MEDIUM;14.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22107;HUL;27;0 days 00:01:43.961000;2.0;True;MEDIUM;15.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22108;HUL;27;0 days 00:01:44.281000;2.0;False;MEDIUM;16.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22109;HUL;27;0 days 00:01:43.993000;2.0;False;MEDIUM;17.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22110;HUL;27;0 days 00:01:44.225000;2.0;False;MEDIUM;18.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22111;HUL;27;0 days 00:01:43.990000;2.0;False;MEDIUM;19.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22112;HUL;27;0 days 00:01:43.743000;2.0;True;MEDIUM;20.0;True;Renault;1;9.0;2019;Abu Dhabi Grand Prix
+22113;HUL;27;0 days 00:01:43.807000;2.0;False;MEDIUM;21.0;True;Renault;1;9.0;2019;Abu Dhabi Grand Prix
+22114;HUL;27;0 days 00:01:43.894000;2.0;False;MEDIUM;22.0;True;Renault;1;9.0;2019;Abu Dhabi Grand Prix
+22115;HUL;27;0 days 00:01:43.483000;2.0;True;MEDIUM;23.0;True;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22116;HUL;27;0 days 00:01:43.683000;2.0;False;MEDIUM;24.0;True;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22117;HUL;27;0 days 00:01:45.203000;2.0;False;MEDIUM;25.0;True;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22118;HUL;27;0 days 00:01:43.655000;2.0;False;MEDIUM;26.0;True;Renault;1;8.0;2019;Abu Dhabi Grand Prix
+22119;HUL;27;0 days 00:01:44.893000;2.0;False;MEDIUM;27.0;True;Renault;1;9.0;2019;Abu Dhabi Grand Prix
+22120;HUL;27;0 days 00:01:45.415000;2.0;False;MEDIUM;28.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22121;HUL;27;0 days 00:01:43.631000;2.0;False;MEDIUM;29.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22122;HUL;27;0 days 00:01:45.323000;2.0;False;MEDIUM;30.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22123;HUL;27;0 days 00:01:43.439000;2.0;True;MEDIUM;31.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22124;HUL;27;0 days 00:01:43.778000;2.0;False;MEDIUM;32.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22125;HUL;27;0 days 00:01:43.412000;2.0;True;MEDIUM;33.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22126;HUL;27;0 days 00:01:43.274000;2.0;True;MEDIUM;34.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22127;HUL;27;0 days 00:01:43.409000;2.0;False;MEDIUM;35.0;True;Renault;1;10.0;2019;Abu Dhabi Grand Prix
+22128;HUL;27;0 days 00:01:46.988000;2.0;False;MEDIUM;36.0;True;Renault;1;12.0;2019;Abu Dhabi Grand Prix
+22129;RAI;7;0 days 00:01:54.906000;1.0;False;MEDIUM;1.0;True;Alfa Romeo Racing;2;14.0;2019;Abu Dhabi Grand Prix
+22130;RAI;7;0 days 00:01:48.246000;1.0;True;MEDIUM;2.0;True;Alfa Romeo Racing;1;15.0;2019;Abu Dhabi Grand Prix
+22131;RAI;7;0 days 00:01:47.032000;1.0;True;MEDIUM;3.0;True;Alfa Romeo Racing;1;15.0;2019;Abu Dhabi Grand Prix
+22132;RAI;7;0 days 00:01:46.667000;1.0;True;MEDIUM;4.0;True;Alfa Romeo Racing;1;15.0;2019;Abu Dhabi Grand Prix
+22133;RAI;7;0 days 00:01:46.663000;1.0;True;MEDIUM;5.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22134;RAI;7;0 days 00:01:45.630000;1.0;True;MEDIUM;6.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22135;RAI;7;0 days 00:01:45.745000;1.0;False;MEDIUM;7.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22136;RAI;7;0 days 00:01:46.175000;1.0;False;MEDIUM;8.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22137;RAI;7;0 days 00:01:45.471000;1.0;True;MEDIUM;9.0;True;Alfa Romeo Racing;1;12.0;2019;Abu Dhabi Grand Prix
+22138;RAI;7;0 days 00:01:45.992000;1.0;False;MEDIUM;10.0;True;Alfa Romeo Racing;1;12.0;2019;Abu Dhabi Grand Prix
+22139;RAI;7;0 days 00:01:45.972000;1.0;False;MEDIUM;11.0;True;Alfa Romeo Racing;1;12.0;2019;Abu Dhabi Grand Prix
+22140;RAI;7;0 days 00:01:45.811000;1.0;False;MEDIUM;12.0;True;Alfa Romeo Racing;1;11.0;2019;Abu Dhabi Grand Prix
+22141;RAI;7;0 days 00:01:45.634000;1.0;False;MEDIUM;13.0;True;Alfa Romeo Racing;1;10.0;2019;Abu Dhabi Grand Prix
+22142;RAI;7;0 days 00:01:45.607000;1.0;False;MEDIUM;14.0;True;Alfa Romeo Racing;1;10.0;2019;Abu Dhabi Grand Prix
+22143;RAI;7;0 days 00:01:45.501000;1.0;False;MEDIUM;15.0;True;Alfa Romeo Racing;1;10.0;2019;Abu Dhabi Grand Prix
+22144;RAI;7;0 days 00:01:45.365000;1.0;True;MEDIUM;16.0;True;Alfa Romeo Racing;1;10.0;2019;Abu Dhabi Grand Prix
+22145;RAI;7;0 days 00:01:45.762000;1.0;False;MEDIUM;17.0;True;Alfa Romeo Racing;1;10.0;2019;Abu Dhabi Grand Prix
+22146;RAI;7;0 days 00:01:45.364000;1.0;True;MEDIUM;18.0;True;Alfa Romeo Racing;1;10.0;2019;Abu Dhabi Grand Prix
+22147;RAI;7;0 days 00:01:45.547000;1.0;False;MEDIUM;19.0;True;Alfa Romeo Racing;1;9.0;2019;Abu Dhabi Grand Prix
+22148;RAI;7;0 days 00:01:45.222000;1.0;True;MEDIUM;20.0;True;Alfa Romeo Racing;1;8.0;2019;Abu Dhabi Grand Prix
+22149;RAI;7;0 days 00:01:46.397000;1.0;False;MEDIUM;21.0;True;Alfa Romeo Racing;1;9.0;2019;Abu Dhabi Grand Prix
+22150;RAI;7;0 days 00:01:47.583000;1.0;False;MEDIUM;22.0;True;Alfa Romeo Racing;1;9.0;2019;Abu Dhabi Grand Prix
+22151;RAI;7;0 days 00:02:04.375000;2.0;False;HARD;1.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22152;RAI;7;0 days 00:01:43.214000;2.0;True;HARD;2.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22153;RAI;7;0 days 00:01:43.142000;2.0;True;HARD;3.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22154;RAI;7;0 days 00:01:43.583000;2.0;False;HARD;4.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22155;RAI;7;0 days 00:01:43.356000;2.0;False;HARD;5.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22156;RAI;7;0 days 00:01:44.493000;2.0;False;HARD;6.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22157;RAI;7;0 days 00:01:43.555000;2.0;False;HARD;7.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22158;RAI;7;0 days 00:01:43.631000;2.0;False;HARD;8.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22159;RAI;7;0 days 00:01:43.476000;2.0;False;HARD;9.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22160;RAI;7;0 days 00:01:43.672000;2.0;False;HARD;10.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22161;RAI;7;0 days 00:01:43.920000;2.0;False;HARD;11.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22162;RAI;7;0 days 00:01:44.091000;2.0;False;HARD;12.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22163;RAI;7;0 days 00:01:44.174000;2.0;False;HARD;13.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22164;RAI;7;0 days 00:01:44.366000;2.0;False;HARD;14.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22165;RAI;7;0 days 00:01:45.727000;2.0;False;HARD;15.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22166;RAI;7;0 days 00:01:43.371000;2.0;False;HARD;16.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22167;RAI;7;0 days 00:01:44.139000;2.0;False;HARD;17.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22168;RAI;7;0 days 00:01:43.863000;2.0;False;HARD;18.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22169;RAI;7;0 days 00:01:43.686000;2.0;False;HARD;19.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22170;RAI;7;0 days 00:01:43.325000;2.0;False;HARD;20.0;True;Alfa Romeo Racing;1;12.0;2019;Abu Dhabi Grand Prix
+22171;RAI;7;0 days 00:01:43.403000;2.0;False;HARD;21.0;True;Alfa Romeo Racing;1;11.0;2019;Abu Dhabi Grand Prix
+22172;RAI;7;0 days 00:01:45.900000;2.0;False;HARD;22.0;True;Alfa Romeo Racing;1;11.0;2019;Abu Dhabi Grand Prix
+22173;RAI;7;0 days 00:01:43.216000;2.0;False;HARD;23.0;True;Alfa Romeo Racing;1;11.0;2019;Abu Dhabi Grand Prix
+22174;RAI;7;0 days 00:01:45.176000;2.0;False;HARD;24.0;True;Alfa Romeo Racing;1;12.0;2019;Abu Dhabi Grand Prix
+22175;RAI;7;0 days 00:01:43.561000;2.0;False;HARD;25.0;True;Alfa Romeo Racing;1;12.0;2019;Abu Dhabi Grand Prix
+22176;RAI;7;0 days 00:01:43.222000;2.0;False;HARD;26.0;True;Alfa Romeo Racing;1;12.0;2019;Abu Dhabi Grand Prix
+22177;RAI;7;0 days 00:01:44.116000;2.0;False;HARD;27.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22178;RAI;7;0 days 00:01:43.430000;2.0;False;HARD;28.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22179;RAI;7;0 days 00:01:43.609000;2.0;False;HARD;29.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22180;RAI;7;0 days 00:01:43.391000;2.0;False;HARD;30.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22181;RAI;7;0 days 00:01:44.614000;2.0;False;HARD;31.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22182;RAI;7;0 days 00:01:43.406000;2.0;False;HARD;32.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22183;MAG;20;0 days 00:01:52.555000;1.0;False;MEDIUM;1.0;True;Haas F1 Team;2;9.0;2019;Abu Dhabi Grand Prix
+22184;MAG;20;0 days 00:01:47.299000;1.0;True;MEDIUM;2.0;True;Haas F1 Team;1;10.0;2019;Abu Dhabi Grand Prix
+22185;MAG;20;0 days 00:01:45.952000;1.0;True;MEDIUM;3.0;True;Haas F1 Team;1;10.0;2019;Abu Dhabi Grand Prix
+22186;MAG;20;0 days 00:01:46.112000;1.0;False;MEDIUM;4.0;True;Haas F1 Team;1;10.0;2019;Abu Dhabi Grand Prix
+22187;MAG;20;0 days 00:01:46.348000;1.0;False;MEDIUM;5.0;True;Haas F1 Team;1;10.0;2019;Abu Dhabi Grand Prix
+22188;MAG;20;0 days 00:01:47.405000;1.0;False;MEDIUM;6.0;True;Haas F1 Team;1;11.0;2019;Abu Dhabi Grand Prix
+22189;MAG;20;0 days 00:01:47.063000;1.0;False;MEDIUM;7.0;True;Haas F1 Team;1;12.0;2019;Abu Dhabi Grand Prix
+22190;MAG;20;0 days 00:01:46.228000;1.0;False;MEDIUM;8.0;True;Haas F1 Team;1;12.0;2019;Abu Dhabi Grand Prix
+22191;MAG;20;0 days 00:01:46.206000;1.0;False;MEDIUM;9.0;True;Haas F1 Team;1;11.0;2019;Abu Dhabi Grand Prix
+22192;MAG;20;0 days 00:01:46.058000;1.0;False;MEDIUM;10.0;True;Haas F1 Team;1;11.0;2019;Abu Dhabi Grand Prix
+22193;MAG;20;0 days 00:01:45.844000;1.0;True;MEDIUM;11.0;True;Haas F1 Team;1;11.0;2019;Abu Dhabi Grand Prix
+22194;MAG;20;0 days 00:01:45.751000;1.0;True;MEDIUM;12.0;True;Haas F1 Team;1;10.0;2019;Abu Dhabi Grand Prix
+22195;MAG;20;0 days 00:01:45.693000;1.0;True;MEDIUM;13.0;True;Haas F1 Team;1;9.0;2019;Abu Dhabi Grand Prix
+22196;MAG;20;0 days 00:01:45.486000;1.0;True;MEDIUM;14.0;True;Haas F1 Team;1;9.0;2019;Abu Dhabi Grand Prix
+22197;MAG;20;0 days 00:01:45.425000;1.0;True;MEDIUM;15.0;True;Haas F1 Team;1;9.0;2019;Abu Dhabi Grand Prix
+22198;MAG;20;0 days 00:01:45.486000;1.0;False;MEDIUM;16.0;True;Haas F1 Team;1;9.0;2019;Abu Dhabi Grand Prix
+22199;MAG;20;0 days 00:01:45.716000;1.0;False;MEDIUM;17.0;True;Haas F1 Team;1;9.0;2019;Abu Dhabi Grand Prix
+22200;MAG;20;0 days 00:01:45.622000;1.0;False;MEDIUM;18.0;True;Haas F1 Team;1;9.0;2019;Abu Dhabi Grand Prix
+22201;MAG;20;0 days 00:01:45.456000;1.0;False;MEDIUM;19.0;True;Haas F1 Team;1;8.0;2019;Abu Dhabi Grand Prix
+22202;MAG;20;0 days 00:01:47.475000;1.0;False;MEDIUM;20.0;True;Haas F1 Team;1;9.0;2019;Abu Dhabi Grand Prix
+22203;MAG;20;0 days 00:02:03.691000;2.0;False;HARD;2.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22204;MAG;20;0 days 00:01:43.790000;2.0;True;HARD;3.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22205;MAG;20;0 days 00:01:43.929000;2.0;False;HARD;4.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22206;MAG;20;0 days 00:01:44.394000;2.0;False;HARD;5.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22207;MAG;20;0 days 00:01:43.883000;2.0;False;HARD;6.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22208;MAG;20;0 days 00:01:43.864000;2.0;False;HARD;7.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22209;MAG;20;0 days 00:01:43.985000;2.0;False;HARD;8.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22210;MAG;20;0 days 00:01:44.064000;2.0;False;HARD;9.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22211;MAG;20;0 days 00:01:44.080000;2.0;False;HARD;10.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22212;MAG;20;0 days 00:01:44.083000;2.0;False;HARD;11.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22213;MAG;20;0 days 00:01:44.146000;2.0;False;HARD;12.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22214;MAG;20;0 days 00:01:44.148000;2.0;False;HARD;13.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22215;MAG;20;0 days 00:01:44.176000;2.0;False;HARD;14.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22216;MAG;20;0 days 00:01:44.353000;2.0;False;HARD;15.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22217;MAG;20;0 days 00:01:44.214000;2.0;False;HARD;16.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22218;MAG;20;0 days 00:01:44.544000;2.0;False;HARD;17.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22219;MAG;20;0 days 00:01:44.876000;2.0;False;HARD;18.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22220;MAG;20;0 days 00:01:46.753000;2.0;False;HARD;19.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22221;MAG;20;0 days 00:01:44.926000;2.0;False;HARD;20.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22222;MAG;20;0 days 00:01:44.701000;2.0;False;HARD;21.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22223;MAG;20;0 days 00:01:44.366000;2.0;False;HARD;22.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22224;MAG;20;0 days 00:01:45.781000;2.0;False;HARD;23.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22225;MAG;20;0 days 00:01:45.240000;2.0;False;HARD;24.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22226;MAG;20;0 days 00:01:44.349000;2.0;False;HARD;25.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22227;MAG;20;0 days 00:01:44.227000;2.0;False;HARD;26.0;False;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22228;MAG;20;0 days 00:01:45.289000;2.0;False;HARD;27.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22229;MAG;20;0 days 00:01:44.092000;2.0;False;HARD;28.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22230;MAG;20;0 days 00:01:44.128000;2.0;False;HARD;29.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22231;MAG;20;0 days 00:01:44.318000;2.0;False;HARD;30.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22232;MAG;20;0 days 00:01:45.938000;2.0;False;HARD;31.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22233;MAG;20;0 days 00:01:45.141000;2.0;False;HARD;32.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22234;MAG;20;0 days 00:01:44.056000;2.0;False;HARD;33.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22235;MAG;20;0 days 00:01:44.230000;2.0;False;HARD;34.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22236;MAG;20;0 days 00:01:44.560000;2.0;False;HARD;35.0;False;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22237;GRO;8;0 days 00:01:56.282000;1.0;False;MEDIUM;1.0;True;Haas F1 Team;2;17.0;2019;Abu Dhabi Grand Prix
+22238;GRO;8;0 days 00:01:48.297000;1.0;True;MEDIUM;2.0;True;Haas F1 Team;1;17.0;2019;Abu Dhabi Grand Prix
+22239;GRO;8;0 days 00:01:47.533000;1.0;True;MEDIUM;3.0;True;Haas F1 Team;1;17.0;2019;Abu Dhabi Grand Prix
+22240;GRO;8;0 days 00:01:47.210000;1.0;True;MEDIUM;4.0;True;Haas F1 Team;1;17.0;2019;Abu Dhabi Grand Prix
+22241;GRO;8;0 days 00:01:46.641000;1.0;True;MEDIUM;5.0;True;Haas F1 Team;1;17.0;2019;Abu Dhabi Grand Prix
+22242;GRO;8;0 days 00:01:46.670000;1.0;False;MEDIUM;6.0;True;Haas F1 Team;1;16.0;2019;Abu Dhabi Grand Prix
+22243;GRO;8;0 days 00:01:46.300000;1.0;True;MEDIUM;7.0;True;Haas F1 Team;1;16.0;2019;Abu Dhabi Grand Prix
+22244;GRO;8;0 days 00:01:46.235000;1.0;True;MEDIUM;8.0;True;Haas F1 Team;1;16.0;2019;Abu Dhabi Grand Prix
+22245;GRO;8;0 days 00:01:46.048000;1.0;True;MEDIUM;9.0;True;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22246;GRO;8;0 days 00:01:46.225000;1.0;False;MEDIUM;10.0;True;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22247;GRO;8;0 days 00:01:46.042000;1.0;True;MEDIUM;11.0;True;Haas F1 Team;1;14.0;2019;Abu Dhabi Grand Prix
+22248;GRO;8;0 days 00:01:45.917000;1.0;True;MEDIUM;12.0;True;Haas F1 Team;1;13.0;2019;Abu Dhabi Grand Prix
+22249;GRO;8;0 days 00:01:45.871000;1.0;True;MEDIUM;13.0;True;Haas F1 Team;1;12.0;2019;Abu Dhabi Grand Prix
+22250;GRO;8;0 days 00:01:45.573000;1.0;True;MEDIUM;14.0;True;Haas F1 Team;1;12.0;2019;Abu Dhabi Grand Prix
+22251;GRO;8;0 days 00:01:45.594000;1.0;False;MEDIUM;15.0;True;Haas F1 Team;1;12.0;2019;Abu Dhabi Grand Prix
+22252;GRO;8;0 days 00:01:45.577000;1.0;False;MEDIUM;16.0;True;Haas F1 Team;1;12.0;2019;Abu Dhabi Grand Prix
+22253;GRO;8;0 days 00:01:45.330000;1.0;True;MEDIUM;17.0;True;Haas F1 Team;1;12.0;2019;Abu Dhabi Grand Prix
+22254;GRO;8;0 days 00:01:49.975000;1.0;False;MEDIUM;18.0;True;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22255;GRO;8;0 days 00:02:05.987000;2.0;False;HARD;2.0;False;Haas F1 Team;1;19.0;2019;Abu Dhabi Grand Prix
+22256;GRO;8;0 days 00:01:45.146000;2.0;True;HARD;3.0;False;Haas F1 Team;1;19.0;2019;Abu Dhabi Grand Prix
+22257;GRO;8;0 days 00:01:46.289000;2.0;False;HARD;4.0;False;Haas F1 Team;1;19.0;2019;Abu Dhabi Grand Prix
+22258;GRO;8;0 days 00:01:44.952000;2.0;True;HARD;5.0;False;Haas F1 Team;1;19.0;2019;Abu Dhabi Grand Prix
+22259;GRO;8;0 days 00:01:46.589000;2.0;False;HARD;6.0;False;Haas F1 Team;1;18.0;2019;Abu Dhabi Grand Prix
+22260;GRO;8;0 days 00:01:45.725000;2.0;False;HARD;7.0;False;Haas F1 Team;1;18.0;2019;Abu Dhabi Grand Prix
+22261;GRO;8;0 days 00:01:45.493000;2.0;False;HARD;8.0;False;Haas F1 Team;1;17.0;2019;Abu Dhabi Grand Prix
+22262;GRO;8;0 days 00:01:44.628000;2.0;True;HARD;9.0;False;Haas F1 Team;1;16.0;2019;Abu Dhabi Grand Prix
+22263;GRO;8;0 days 00:01:44.032000;2.0;True;HARD;10.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22264;GRO;8;0 days 00:01:44.002000;2.0;True;HARD;11.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22265;GRO;8;0 days 00:01:46.501000;2.0;False;HARD;12.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22266;GRO;8;0 days 00:01:43.959000;2.0;True;HARD;13.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22267;GRO;8;0 days 00:01:43.866000;2.0;True;HARD;14.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22268;GRO;8;0 days 00:01:43.702000;2.0;True;HARD;15.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22269;GRO;8;0 days 00:01:43.666000;2.0;True;HARD;16.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22270;GRO;8;0 days 00:01:43.736000;2.0;False;HARD;17.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22271;GRO;8;0 days 00:01:44.021000;2.0;False;HARD;18.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22272;GRO;8;0 days 00:01:46.517000;2.0;False;HARD;19.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22273;GRO;8;0 days 00:01:43.958000;2.0;False;HARD;20.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22274;GRO;8;0 days 00:01:43.887000;2.0;False;HARD;21.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22275;GRO;8;0 days 00:01:43.909000;2.0;False;HARD;22.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22276;GRO;8;0 days 00:01:44.646000;2.0;False;HARD;23.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22277;GRO;8;0 days 00:01:44.258000;2.0;False;HARD;24.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22278;GRO;8;0 days 00:01:43.999000;2.0;False;HARD;25.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22279;GRO;8;0 days 00:01:44.082000;2.0;False;HARD;26.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22280;GRO;8;0 days 00:01:49.178000;2.0;False;HARD;27.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22281;GRO;8;0 days 00:01:43.787000;2.0;False;HARD;28.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22282;GRO;8;0 days 00:01:45.965000;2.0;False;HARD;29.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22283;GRO;8;0 days 00:01:44.101000;2.0;False;HARD;30.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22284;GRO;8;0 days 00:01:43.961000;2.0;False;HARD;31.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22285;GRO;8;0 days 00:01:44.003000;2.0;False;HARD;32.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22286;GRO;8;0 days 00:01:43.851000;2.0;False;HARD;33.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22287;GRO;8;0 days 00:01:47.784000;2.0;False;HARD;34.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22288;GRO;8;0 days 00:01:43.900000;2.0;False;HARD;35.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22289;GRO;8;0 days 00:01:44.875000;2.0;False;HARD;36.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22290;GRO;8;0 days 00:01:44.192000;2.0;False;HARD;37.0;False;Haas F1 Team;1;15.0;2019;Abu Dhabi Grand Prix
+22291;GIO;99;0 days 00:01:54.477000;1.0;False;SOFT;1.0;True;Alfa Romeo Racing;2;13.0;2019;Abu Dhabi Grand Prix
+22292;GIO;99;0 days 00:01:46.760000;1.0;True;SOFT;2.0;True;Alfa Romeo Racing;1;12.0;2019;Abu Dhabi Grand Prix
+22293;GIO;99;0 days 00:01:46.322000;1.0;True;SOFT;3.0;True;Alfa Romeo Racing;1;12.0;2019;Abu Dhabi Grand Prix
+22294;GIO;99;0 days 00:01:46.218000;1.0;True;SOFT;4.0;True;Alfa Romeo Racing;1;12.0;2019;Abu Dhabi Grand Prix
+22295;GIO;99;0 days 00:01:46.383000;1.0;False;SOFT;5.0;True;Alfa Romeo Racing;1;12.0;2019;Abu Dhabi Grand Prix
+22296;GIO;99;0 days 00:01:47.294000;1.0;False;SOFT;6.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22297;GIO;99;0 days 00:01:46.534000;1.0;False;SOFT;7.0;True;Alfa Romeo Racing;1;13.0;2019;Abu Dhabi Grand Prix
+22298;GIO;99;0 days 00:01:48.143000;1.0;False;SOFT;8.0;True;Alfa Romeo Racing;1;14.0;2019;Abu Dhabi Grand Prix
+22299;GIO;99;0 days 00:02:05.855000;2.0;False;HARD;1.0;True;Alfa Romeo Racing;1;18.0;2019;Abu Dhabi Grand Prix
+22300;GIO;99;0 days 00:01:45.032000;2.0;True;HARD;2.0;True;Alfa Romeo Racing;1;18.0;2019;Abu Dhabi Grand Prix
+22301;GIO;99;0 days 00:01:44.940000;2.0;True;HARD;3.0;True;Alfa Romeo Racing;1;18.0;2019;Abu Dhabi Grand Prix
+22302;GIO;99;0 days 00:01:44.983000;2.0;False;HARD;4.0;True;Alfa Romeo Racing;1;18.0;2019;Abu Dhabi Grand Prix
+22303;GIO;99;0 days 00:01:45.292000;2.0;False;HARD;5.0;True;Alfa Romeo Racing;1;18.0;2019;Abu Dhabi Grand Prix
+22304;GIO;99;0 days 00:01:45.579000;2.0;False;HARD;6.0;True;Alfa Romeo Racing;1;18.0;2019;Abu Dhabi Grand Prix
+22305;GIO;99;0 days 00:01:46.045000;2.0;False;HARD;7.0;True;Alfa Romeo Racing;1;18.0;2019;Abu Dhabi Grand Prix
+22306;GIO;99;0 days 00:01:46.520000;2.0;False;HARD;8.0;True;Alfa Romeo Racing;1;18.0;2019;Abu Dhabi Grand Prix
+22307;GIO;99;0 days 00:01:46.515000;2.0;False;HARD;9.0;True;Alfa Romeo Racing;1;18.0;2019;Abu Dhabi Grand Prix
+22308;GIO;99;0 days 00:01:46.181000;2.0;False;HARD;10.0;True;Alfa Romeo Racing;1;18.0;2019;Abu Dhabi Grand Prix
+22309;GIO;99;0 days 00:01:45.575000;2.0;False;HARD;11.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22310;GIO;99;0 days 00:01:46.235000;2.0;False;HARD;12.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22311;GIO;99;0 days 00:01:46.313000;2.0;False;HARD;13.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22312;GIO;99;0 days 00:01:47.815000;2.0;False;HARD;14.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22313;GIO;99;0 days 00:01:47.720000;2.0;False;HARD;15.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22314;GIO;99;0 days 00:01:45.274000;2.0;False;HARD;16.0;True;Alfa Romeo Racing;1;15.0;2019;Abu Dhabi Grand Prix
+22315;GIO;99;0 days 00:01:45.348000;2.0;False;HARD;17.0;True;Alfa Romeo Racing;1;15.0;2019;Abu Dhabi Grand Prix
+22316;GIO;99;0 days 00:01:46.816000;2.0;False;HARD;18.0;True;Alfa Romeo Racing;1;15.0;2019;Abu Dhabi Grand Prix
+22317;GIO;99;0 days 00:02:05.589000;3.0;False;MEDIUM;1.0;True;Alfa Romeo Racing;1;17.0;2019;Abu Dhabi Grand Prix
+22318;GIO;99;0 days 00:01:43.256000;3.0;True;MEDIUM;2.0;True;Alfa Romeo Racing;1;17.0;2019;Abu Dhabi Grand Prix
+22319;GIO;99;0 days 00:01:43.297000;3.0;False;MEDIUM;3.0;True;Alfa Romeo Racing;1;17.0;2019;Abu Dhabi Grand Prix
+22320;GIO;99;0 days 00:01:43.628000;3.0;False;MEDIUM;4.0;True;Alfa Romeo Racing;1;17.0;2019;Abu Dhabi Grand Prix
+22321;GIO;99;0 days 00:01:43.945000;3.0;False;MEDIUM;5.0;True;Alfa Romeo Racing;1;17.0;2019;Abu Dhabi Grand Prix
+22322;GIO;99;0 days 00:01:44.256000;3.0;False;MEDIUM;6.0;True;Alfa Romeo Racing;1;17.0;2019;Abu Dhabi Grand Prix
+22323;GIO;99;0 days 00:01:43.907000;3.0;False;MEDIUM;7.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22324;GIO;99;0 days 00:01:43.963000;3.0;False;MEDIUM;8.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22325;GIO;99;0 days 00:01:43.642000;3.0;False;MEDIUM;9.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22326;GIO;99;0 days 00:01:43.793000;3.0;False;MEDIUM;10.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22327;GIO;99;0 days 00:01:44.100000;3.0;False;MEDIUM;11.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22328;GIO;99;0 days 00:01:43.957000;3.0;False;MEDIUM;12.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22329;GIO;99;0 days 00:01:44.124000;3.0;False;MEDIUM;13.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22330;GIO;99;0 days 00:01:44.083000;3.0;False;MEDIUM;14.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22331;GIO;99;0 days 00:01:45.531000;3.0;False;MEDIUM;15.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22332;GIO;99;0 days 00:01:44.516000;3.0;False;MEDIUM;16.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22333;GIO;99;0 days 00:01:45.524000;3.0;False;MEDIUM;17.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22334;GIO;99;0 days 00:01:44.322000;3.0;False;MEDIUM;18.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22335;GIO;99;0 days 00:01:46.175000;3.0;False;MEDIUM;19.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22336;GIO;99;0 days 00:01:44.527000;3.0;False;MEDIUM;20.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22337;GIO;99;0 days 00:01:46.148000;3.0;False;MEDIUM;21.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22338;GIO;99;0 days 00:01:44.370000;3.0;False;MEDIUM;22.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22339;GIO;99;0 days 00:01:44.172000;3.0;False;MEDIUM;23.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22340;GIO;99;0 days 00:01:44.268000;3.0;False;MEDIUM;24.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22341;GIO;99;0 days 00:01:44.021000;3.0;False;MEDIUM;25.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22342;GIO;99;0 days 00:01:44.332000;3.0;False;MEDIUM;26.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22343;GIO;99;0 days 00:01:44.305000;3.0;False;MEDIUM;27.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22344;GIO;99;0 days 00:01:44.562000;3.0;False;MEDIUM;28.0;True;Alfa Romeo Racing;1;16.0;2019;Abu Dhabi Grand Prix
+22345;RUS;63;0 days 00:01:57.917000;1.0;False;HARD;1.0;True;Williams;2;19.0;2019;Abu Dhabi Grand Prix
+22346;RUS;63;0 days 00:01:48.754000;1.0;True;HARD;2.0;True;Williams;1;19.0;2019;Abu Dhabi Grand Prix
+22347;RUS;63;0 days 00:01:47.893000;1.0;True;HARD;3.0;True;Williams;1;19.0;2019;Abu Dhabi Grand Prix
+22348;RUS;63;0 days 00:01:47.818000;1.0;True;HARD;4.0;True;Williams;1;19.0;2019;Abu Dhabi Grand Prix
+22349;RUS;63;0 days 00:01:47.438000;1.0;True;HARD;5.0;True;Williams;1;19.0;2019;Abu Dhabi Grand Prix
+22350;RUS;63;0 days 00:01:47.339000;1.0;True;HARD;6.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22351;RUS;63;0 days 00:01:47.227000;1.0;True;HARD;7.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22352;RUS;63;0 days 00:01:46.609000;1.0;True;HARD;8.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22353;RUS;63;0 days 00:01:47.686000;1.0;False;HARD;9.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22354;RUS;63;0 days 00:01:46.726000;1.0;False;HARD;10.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22355;RUS;63;0 days 00:01:46.717000;1.0;False;HARD;11.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22356;RUS;63;0 days 00:01:46.548000;1.0;True;HARD;12.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22357;RUS;63;0 days 00:01:46.958000;1.0;False;HARD;13.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22358;RUS;63;0 days 00:01:46.673000;1.0;False;HARD;14.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22359;RUS;63;0 days 00:01:46.627000;1.0;False;HARD;15.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22360;RUS;63;0 days 00:01:46.765000;1.0;False;HARD;16.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22361;RUS;63;0 days 00:01:46.219000;1.0;True;HARD;17.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22362;RUS;63;0 days 00:01:46.254000;1.0;False;HARD;18.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22363;RUS;63;0 days 00:01:48.326000;1.0;False;HARD;19.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22364;RUS;63;0 days 00:01:46.385000;1.0;False;HARD;20.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22365;RUS;63;0 days 00:01:46.488000;1.0;False;HARD;21.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22366;RUS;63;0 days 00:01:48.412000;1.0;False;HARD;22.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22367;RUS;63;0 days 00:01:47.236000;1.0;False;HARD;23.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22368;RUS;63;0 days 00:01:46.116000;1.0;True;HARD;24.0;True;Williams;1;16.0;2019;Abu Dhabi Grand Prix
+22369;RUS;63;0 days 00:01:45.510000;1.0;True;HARD;25.0;True;Williams;1;16.0;2019;Abu Dhabi Grand Prix
+22370;RUS;63;0 days 00:01:47.187000;1.0;False;HARD;26.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22371;RUS;63;0 days 00:01:45.710000;1.0;False;HARD;27.0;True;Williams;1;16.0;2019;Abu Dhabi Grand Prix
+22372;RUS;63;0 days 00:01:46.750000;1.0;False;HARD;28.0;True;Williams;1;16.0;2019;Abu Dhabi Grand Prix
+22373;RUS;63;0 days 00:01:45.543000;1.0;False;HARD;29.0;True;Williams;1;16.0;2019;Abu Dhabi Grand Prix
+22374;RUS;63;0 days 00:01:45.446000;1.0;True;HARD;30.0;True;Williams;1;16.0;2019;Abu Dhabi Grand Prix
+22375;RUS;63;0 days 00:01:48.521000;1.0;False;HARD;31.0;True;Williams;1;16.0;2019;Abu Dhabi Grand Prix
+22376;RUS;63;0 days 00:01:47.796000;1.0;False;HARD;32.0;True;Williams;1;16.0;2019;Abu Dhabi Grand Prix
+22377;RUS;63;0 days 00:02:05.668000;2.0;False;MEDIUM;1.0;True;Williams;1;19.0;2019;Abu Dhabi Grand Prix
+22378;RUS;63;0 days 00:01:44.917000;2.0;True;MEDIUM;2.0;True;Williams;1;19.0;2019;Abu Dhabi Grand Prix
+22379;RUS;63;0 days 00:01:43.973000;2.0;True;MEDIUM;3.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22380;RUS;63;0 days 00:01:44.346000;2.0;False;MEDIUM;4.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22381;RUS;63;0 days 00:01:44.384000;2.0;False;MEDIUM;5.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22382;RUS;63;0 days 00:01:44.347000;2.0;False;MEDIUM;6.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22383;RUS;63;0 days 00:01:44.353000;2.0;False;MEDIUM;7.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22384;RUS;63;0 days 00:01:43.914000;2.0;True;MEDIUM;8.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22385;RUS;63;0 days 00:01:46.846000;2.0;False;MEDIUM;9.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22386;RUS;63;0 days 00:01:44.207000;2.0;False;MEDIUM;10.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22387;RUS;63;0 days 00:01:43.987000;2.0;False;MEDIUM;11.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22388;RUS;63;0 days 00:01:44.265000;2.0;False;MEDIUM;12.0;True;Williams;1;18.0;2019;Abu Dhabi Grand Prix
+22389;RUS;63;0 days 00:01:43.907000;2.0;True;MEDIUM;13.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22390;RUS;63;0 days 00:01:43.838000;2.0;True;MEDIUM;14.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22391;RUS;63;0 days 00:01:43.400000;2.0;True;MEDIUM;15.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22392;RUS;63;0 days 00:01:43.426000;2.0;False;MEDIUM;16.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22393;RUS;63;0 days 00:01:43.579000;2.0;False;MEDIUM;17.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22394;RUS;63;0 days 00:01:43.074000;2.0;True;MEDIUM;18.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22395;RUS;63;0 days 00:01:43.192000;2.0;False;MEDIUM;19.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22396;RUS;63;0 days 00:01:43.187000;2.0;False;MEDIUM;20.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22397;RUS;63;0 days 00:01:43.089000;2.0;False;MEDIUM;21.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22398;RUS;63;0 days 00:01:44.006000;2.0;False;MEDIUM;22.0;True;Williams;1;17.0;2019;Abu Dhabi Grand Prix
+22399;GAS;10;0 days 00:02:04.421000;1.0;False;MEDIUM;1.0;True;Toro Rosso;2;20.0;2019;Abu Dhabi Grand Prix
+22400;GAS;10;;2.0;False;HARD;1.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22401;GAS;10;0 days 00:01:44.794000;2.0;True;HARD;2.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22402;GAS;10;0 days 00:01:46.761000;2.0;False;HARD;3.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22403;GAS;10;0 days 00:01:50.264000;2.0;False;HARD;4.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22404;GAS;10;0 days 00:01:45.844000;2.0;False;HARD;5.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22405;GAS;10;0 days 00:01:47.400000;2.0;False;HARD;6.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22406;GAS;10;0 days 00:01:45.217000;2.0;False;HARD;7.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22407;GAS;10;0 days 00:01:45.226000;2.0;False;HARD;8.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22408;GAS;10;0 days 00:01:45.253000;2.0;False;HARD;9.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22409;GAS;10;0 days 00:01:45.038000;2.0;False;HARD;10.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22410;GAS;10;0 days 00:01:45.142000;2.0;False;HARD;11.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22411;GAS;10;0 days 00:01:45.971000;2.0;False;HARD;12.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22412;GAS;10;0 days 00:01:44.726000;2.0;True;HARD;13.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22413;GAS;10;0 days 00:01:44.837000;2.0;False;HARD;14.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22414;GAS;10;0 days 00:01:44.866000;2.0;False;HARD;15.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22415;GAS;10;0 days 00:01:44.948000;2.0;False;HARD;16.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22416;GAS;10;0 days 00:01:44.422000;2.0;True;HARD;17.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22417;GAS;10;0 days 00:01:44.604000;2.0;False;HARD;18.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22418;GAS;10;0 days 00:01:44.427000;2.0;False;HARD;19.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22419;GAS;10;0 days 00:01:44.413000;2.0;True;HARD;20.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22420;GAS;10;0 days 00:01:46.524000;2.0;False;HARD;21.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22421;GAS;10;0 days 00:01:46.863000;2.0;False;HARD;22.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22422;GAS;10;0 days 00:01:46.202000;2.0;False;HARD;23.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22423;GAS;10;0 days 00:01:44.889000;2.0;False;HARD;24.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22424;GAS;10;0 days 00:01:44.631000;2.0;False;HARD;25.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22425;GAS;10;0 days 00:01:44.194000;2.0;True;HARD;26.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22426;GAS;10;0 days 00:01:44.161000;2.0;True;HARD;27.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22427;GAS;10;0 days 00:01:44.176000;2.0;False;HARD;28.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22428;GAS;10;0 days 00:01:45.412000;2.0;False;HARD;29.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22429;GAS;10;0 days 00:01:44.254000;2.0;False;HARD;30.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22430;GAS;10;0 days 00:01:43.827000;2.0;True;HARD;31.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22431;GAS;10;0 days 00:01:44.428000;2.0;False;HARD;32.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22432;GAS;10;0 days 00:01:44.120000;2.0;False;HARD;33.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22433;GAS;10;0 days 00:01:43.941000;2.0;False;HARD;34.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22434;GAS;10;0 days 00:01:43.805000;2.0;True;HARD;35.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22435;GAS;10;0 days 00:01:43.680000;2.0;True;HARD;36.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22436;GAS;10;0 days 00:01:46.152000;2.0;False;HARD;37.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22437;GAS;10;0 days 00:01:44.226000;2.0;False;HARD;38.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22438;GAS;10;0 days 00:01:44.066000;2.0;False;HARD;39.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22439;GAS;10;0 days 00:01:44.720000;2.0;False;HARD;40.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22440;GAS;10;0 days 00:01:45.016000;2.0;False;HARD;41.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22441;GAS;10;0 days 00:01:45.526000;2.0;False;HARD;42.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22442;GAS;10;0 days 00:01:45.596000;2.0;False;HARD;43.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22443;GAS;10;0 days 00:01:45.446000;2.0;False;HARD;44.0;True;Toro Rosso;1;20.0;2019;Abu Dhabi Grand Prix
+22444;GAS;10;0 days 00:01:44.633000;2.0;False;HARD;45.0;True;Toro Rosso;1;18.0;2019;Abu Dhabi Grand Prix
+22445;GAS;10;0 days 00:01:43.905000;2.0;False;HARD;46.0;True;Toro Rosso;1;18.0;2019;Abu Dhabi Grand Prix
+22446;GAS;10;0 days 00:01:45.470000;2.0;False;HARD;47.0;True;Toro Rosso;1;18.0;2019;Abu Dhabi Grand Prix
+22447;GAS;10;0 days 00:01:43.719000;2.0;False;HARD;48.0;True;Toro Rosso;1;18.0;2019;Abu Dhabi Grand Prix
+22448;GAS;10;0 days 00:01:42.820000;2.0;True;HARD;49.0;True;Toro Rosso;1;18.0;2019;Abu Dhabi Grand Prix
+22449;GAS;10;0 days 00:01:42.814000;2.0;True;HARD;50.0;True;Toro Rosso;1;18.0;2019;Abu Dhabi Grand Prix
+22450;GAS;10;0 days 00:01:45.254000;2.0;False;HARD;51.0;True;Toro Rosso;1;18.0;2019;Abu Dhabi Grand Prix
+22451;GAS;10;0 days 00:01:42.414000;2.0;True;HARD;52.0;True;Toro Rosso;1;18.0;2019;Abu Dhabi Grand Prix
+22452;STR;18;0 days 00:01:54.188000;1.0;False;MEDIUM;1.0;True;Racing Point;2;12.0;2019;Abu Dhabi Grand Prix
+22453;STR;18;0 days 00:01:48.048000;1.0;True;MEDIUM;2.0;True;Racing Point;1;13.0;2019;Abu Dhabi Grand Prix
+22454;STR;18;0 days 00:01:46.690000;1.0;True;MEDIUM;3.0;True;Racing Point;1;13.0;2019;Abu Dhabi Grand Prix
+22455;STR;18;0 days 00:01:46.776000;1.0;False;MEDIUM;4.0;True;Racing Point;1;13.0;2019;Abu Dhabi Grand Prix
+22456;STR;18;0 days 00:01:48.982000;1.0;False;MEDIUM;5.0;True;Racing Point;1;15.0;2019;Abu Dhabi Grand Prix
+22457;STR;18;0 days 00:02:12.054000;2.0;False;HARD;1.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22458;STR;18;0 days 00:01:44.867000;2.0;True;HARD;2.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22459;STR;18;0 days 00:01:44.941000;2.0;False;HARD;3.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22460;STR;18;0 days 00:01:44.810000;2.0;True;HARD;4.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22461;STR;18;0 days 00:01:44.985000;2.0;False;HARD;5.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22462;STR;18;0 days 00:01:45.001000;2.0;False;HARD;6.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22463;STR;18;0 days 00:01:44.917000;2.0;False;HARD;7.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22464;STR;18;0 days 00:01:45.188000;2.0;False;HARD;8.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22465;STR;18;0 days 00:01:45.062000;2.0;False;HARD;9.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22466;STR;18;0 days 00:01:45.243000;2.0;False;HARD;10.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22467;STR;18;0 days 00:01:45.826000;2.0;False;HARD;11.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22468;STR;18;0 days 00:01:46.231000;2.0;False;HARD;12.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22469;STR;18;0 days 00:01:46.139000;2.0;False;HARD;13.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22470;STR;18;0 days 00:01:47.286000;2.0;False;HARD;14.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22471;STR;18;0 days 00:01:46.486000;2.0;False;HARD;15.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22472;STR;18;0 days 00:01:46.456000;2.0;False;HARD;16.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22473;STR;18;0 days 00:01:48.533000;2.0;False;HARD;17.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22474;STR;18;0 days 00:01:48.960000;2.0;False;HARD;18.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22475;STR;18;0 days 00:02:05.499000;3.0;False;SOFT;1.0;True;Racing Point;1;19.0;2019;Abu Dhabi Grand Prix
+22476;STR;18;0 days 00:01:43.326000;3.0;True;SOFT;2.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22477;STR;18;0 days 00:01:46.475000;3.0;False;SOFT;3.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22478;STR;18;0 days 00:01:43.842000;3.0;False;SOFT;4.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22479;STR;18;0 days 00:01:43.975000;3.0;False;SOFT;5.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22480;STR;18;0 days 00:01:43.384000;3.0;False;SOFT;6.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22481;STR;18;0 days 00:01:43.577000;3.0;False;SOFT;7.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22482;STR;18;0 days 00:01:43.864000;3.0;False;SOFT;8.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22483;STR;18;0 days 00:01:44.386000;3.0;False;SOFT;9.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix
+22484;STR;18;0 days 00:01:44.176000;3.0;False;SOFT;10.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22485;STR;18;0 days 00:01:44.537000;3.0;False;SOFT;11.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22486;STR;18;0 days 00:01:44.271000;3.0;False;SOFT;12.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22487;STR;18;0 days 00:01:45.636000;3.0;False;SOFT;13.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22488;STR;18;0 days 00:01:44.308000;3.0;False;SOFT;14.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22489;STR;18;0 days 00:01:43.831000;3.0;False;SOFT;15.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22490;STR;18;0 days 00:01:46.019000;3.0;False;SOFT;16.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22491;STR;18;0 days 00:01:46.647000;3.0;False;SOFT;17.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22492;STR;18;0 days 00:01:46.966000;3.0;False;SOFT;18.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22493;STR;18;0 days 00:01:45.541000;3.0;False;SOFT;19.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22494;STR;18;0 days 00:01:45.718000;3.0;False;SOFT;20.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22495;STR;18;0 days 00:01:48.800000;3.0;False;SOFT;21.0;True;Racing Point;1;17.0;2019;Abu Dhabi Grand Prix
+22496;STR;18;0 days 00:01:50.482000;3.0;False;SOFT;22.0;True;Racing Point;1;18.0;2019;Abu Dhabi Grand Prix

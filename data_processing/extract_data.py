@@ -53,7 +53,7 @@ def get_drivers_race_information(drivers_list, year_list):
     for year in year_list:
         race_num = get_races_by_year(year)
         year_results = pd.DataFrame()
-        for race_number in range(1, race_num):
+        for race_number in range(1, race_num+1):
             session = fastf1.get_session(year, race_number, "R")
             session.load(laps=True)
             race_data = get_drivers_race_pace(race_number, year)
