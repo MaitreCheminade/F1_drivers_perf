@@ -3,8 +3,13 @@ from streamlit_lottie import st_lottie
 import pandas as pd
 import json
 import plotly.express as px
+import os
+print("Current working directory:", os.getcwd())
+
+from analysis.compound_models.change_driver import get_hypothetical_predictions
+
 # PAGE CONFIG
-st.set_page_config(layout="wide", page_title="F1 drivers performance", page_icon=":racing_car:")
+st.set_page_config(layout="wide", page_title="Drivers race pace comparison", page_icon=":racing_car:")
 
 # Data loading
 # lottie_image = "https://lottie.host/080804c8-cacf-461c-bed8-632ebb2ad5b6/2a83ly2Sw1.json"
@@ -23,9 +28,12 @@ df = load_data()
 
 # Title
 left_column, right_column = st.columns((3, 1))
-st.title("F1 drivers comparative performance :racing_car:")
+st.title("F1 drivers comparative performance app :racing_car:")
 st.markdown("---")
-st.markdown("***It's lights out and away we go ! 🏁***")
+st.markdown("Hello !")
+st.markdown("Welcome to the F1 drivers comparative performance app !")
+st.markdown("This is a personal project designed to compare F1 drivers performance. ")
+st.markdown("### ***It's lights out and away we go ! 🏁***")
 
 # Sidebar
 sidebar_menu = st.sidebar
@@ -59,4 +67,8 @@ fig = px.violin(drivers_df, x="Driver", y="LapTime", color="Team",
                                     "McLaren": "#DF6801", "Sauber": "#650505", "Haas": "#FEFEFE",
                                     "Williams": "#471DEC"})
 st.plotly_chart(fig)
-# fig.add_trace(go.Violin(x=))
+
+# TODO display drivers standings in chosen year (maybe to the right ?)
+st.markdown(f"### Those were the drivers standings in {year}")
+
+# TODO hypothetical scenario of replacing a driver by another (toggle if exists ?)

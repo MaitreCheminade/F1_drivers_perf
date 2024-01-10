@@ -13,6 +13,7 @@
       <list>
         <option value="$MODULE_DIR$/data_processing" />
         <option value="$MODULE_DIR$/analysis" />
+        <option value="$MODULE_DIR$/data_extraction" />
       </list>
     </option>
   </component>
