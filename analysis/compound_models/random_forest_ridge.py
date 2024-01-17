@@ -24,22 +24,22 @@ binary_df = pd.read_csv(binary_path, sep=";", header=0, encoding="UTF-8").drop(
 )
 
 track_list = list(df["EventName"].unique())
-# track_list = ["EventName_Austrian Grand Prix", "EventName_Belgian Grand Prix", "EventName_Singapore Grand Prix",
-#               "EventName_Azerbaijan Grand Prix", "EventName_Sakhir Grand Prix", "EventName_Brazilian Grand Prix",
-#               "EventName_United States Grand Prix", "EventName_Russian Grand Prix", "EventName_Bahrain Grand Prix",
-#               "EventName_French Grand Prix", "EventName_Chinese Grand Prix", "EventName_Japanese Grand Prix",
-#               "EventName_British Grand Prix", "EventName_Portuguese Grand Prix", "EventName_Hungarian Grand Prix",
-#               "EventName_Mexican Grand Prix", "EventName_Emilia Romagna Grand Prix", "EventName_German Grand Prix",
-#               "EventName_Spanish Grand Prix", "EventName_Italian Grand Prix", "EventName_Turkish Grand Prix",
-#               "EventName_Qatar Grand Prix", "EventName_Australian Grand Prix", "EventName_Eifel Grand Prix",
-#               "EventName_Tuscan Grand Prix", "EventName_Dutch Grand Prix", "EventName_Canadian Grand Prix",
-#               "EventName_Monaco Grand Prix", "EventName_Miami Grand Prix", "EventName_Saudi Arabian Grand Prix"]
+track_list = ["EventName_Austrian Grand Prix", "EventName_Belgian Grand Prix", "EventName_Singapore Grand Prix",
+              "EventName_Azerbaijan Grand Prix", "EventName_Sakhir Grand Prix", "EventName_Brazilian Grand Prix",
+              "EventName_United States Grand Prix", "EventName_Russian Grand Prix", "EventName_Bahrain Grand Prix",
+              "EventName_French Grand Prix", "EventName_Chinese Grand Prix", "EventName_Japanese Grand Prix",
+              "EventName_British Grand Prix", "EventName_Portuguese Grand Prix", "EventName_Hungarian Grand Prix",
+              "EventName_Mexican Grand Prix", "EventName_Emilia Romagna Grand Prix", "EventName_German Grand Prix",
+              "EventName_Spanish Grand Prix", "EventName_Italian Grand Prix", "EventName_Turkish Grand Prix",
+              "EventName_Qatar Grand Prix", "EventName_Australian Grand Prix", "EventName_Eifel Grand Prix",
+              "EventName_Tuscan Grand Prix", "EventName_Dutch Grand Prix", "EventName_Canadian Grand Prix",
+              "EventName_Monaco Grand Prix", "EventName_Miami Grand Prix", "EventName_Saudi Arabian Grand Prix"]
 track_models = {}
 track_predictions = {}
 
 # random forest params
 seed = 54
-trees = 10
+trees = 15
 
 """Main functions"""
 
