@@ -90,7 +90,7 @@ def transform_vars_to_binary(data, writing_path):
         "TyreLife",
         "Position",
         "EventName",
-        "Year"
+        "Year",
     ]
     combined_df = pd.DataFrame()
     for col in columns_to_convert:

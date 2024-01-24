@@ -4,12 +4,15 @@ import pandas as pd
 import json
 import plotly.express as px
 import os
+
 print("Current working directory:", os.getcwd())
 
 from analysis.compound_models.change_driver import get_hypothetical_predictions
 
 # PAGE CONFIG
-st.set_page_config(layout="wide", page_title="Drivers race pace comparison", page_icon=":racing_car:")
+st.set_page_config(
+    layout="wide", page_title="Drivers race pace comparison", page_icon=":racing_car:"
+)
 
 # Data loading
 # lottie_image = "https://lottie.host/080804c8-cacf-461c-bed8-632ebb2ad5b6/2a83ly2Sw1.json"
@@ -18,9 +21,7 @@ st.set_page_config(layout="wide", page_title="Drivers race pace comparison", pag
 @st.cache_resource
 def load_data():
     file_path = "./tmp/working_data/filtered.csv"
-    data = pd.read_csv(file_path, sep=";",
-                       encoding="UTF-8",
-                       header=0)
+    data = pd.read_csv(file_path, sep=";", encoding="UTF-8", header=0)
     return data.drop(["Unnamed: 0.1", "Unnamed: 0"], axis=1)
 
 
@@ -42,10 +43,12 @@ with sidebar_menu:
     circuit = st.sidebar.selectbox("Pick your track :", year_df["EventName"].unique())
     circuit_df = year_df.loc[df["EventName"] == circuit]
 
-    drivers = st.sidebar.multiselect("Choose the drivers to compare :",
-                                     options=circuit_df["Driver"].unique(),
-                                     default=["HAM", "BOT", "VER"],
-                                     key="drivers")
+    drivers = st.sidebar.multiselect(
+        "Choose the drivers to compare :",
+        options=circuit_df["Driver"].unique(),
+        default=["HAM", "BOT", "VER"],
+        key="drivers",
+    )
     if "drivers" not in st.session_state:
         st.session_state["drivers"] = drivers
     else:
@@ -56,25 +59,43 @@ with sidebar_menu:
     plot_width = st.sidebar.slider("Specify plot width :", 500, 1200, 900)
 
 
-
 # Body
 left_column, right_column = st.columns((3, 1))
-st.markdown("Hello ! Select a race on the left side menu and choose the drivers to compare. "
-            "The plots will show the distribution of their laptimes during the race.")
+st.markdown(
+    "Hello ! Select a race on the left side menu and choose the drivers to compare. "
+    "The plots will show the distribution of their laptimes during the race."
+)
 st.markdown("#### ***It's lights out and away we go ! 🏁***")
 st.markdown("---")
 drivers_num = len(drivers)
-st.markdown(f"***Here are the lap times of {st.session_state['drivers'][0: drivers_num+1]} during the {year} {circuit}.***")
+st.markdown(
+    f"***Here are the lap times of {st.session_state['drivers'][0: drivers_num+1]} during the {year} {circuit}.***"
+)
 
 # make violin plot to compare race pace of drivers
 # TODO fix the alignment of x labels
-fig = px.violin(drivers_df, x="Driver", y="LapTime", color="Team",
-                box=True, hover_data=drivers_df.columns, points="outliers",
-                width=plot_width, height=plot_height, violinmode="overlay",
-                color_discrete_map={"Ferrari": "#FD2819", "Mercedes": "#010000", "AlphaTauri": "#6D9EF2",
-                                    "Alpine": "#0225B5", "Red Bull Racing": "#061964", "Aston Martin": "#066432",
-                                    "McLaren": "#DF6801", "Sauber": "#650505", "Haas": "#FEFEFE",
-                                    "Williams": "#471DEC"})
+fig = px.violin(
+    drivers_df,
+    x="Driver",
+    y="LapTime",
+    color="Team",
+    box=True,
+    hover_data=drivers_df.columns,
+    points="outliers",
+    width=plot_width,
+    height=plot_height,
+    violinmode="overlay",
+    color_discrete_map={
+        "Ferrari": "#FD2819",
+        "Mercedes": "#010000",
+        "AlphaTauri": "#6D9EF2",
+        "Alpine": "#0225B5",
+        "Red Bull Racing": "#061964",
+        "Aston Martin": "#066432",
+        "McLaren": "#DF6801",
+        "Sauber": "#650505",
+        "Haas": "#FEFEFE",
+        "Williams": "#471DEC",
+    },
+)
 st.plotly_chart(fig)
-
-
